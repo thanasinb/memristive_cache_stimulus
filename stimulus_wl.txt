@@ -1,4 +1,4 @@
-V_wl_sel  (WordLine_bar<0> gnd!) vsource dc=0
+V_wl_0  (WordLine_bar<0> gnd!) vsource dc=1.2
 V_wl_1  (WordLine_bar<1> gnd!) vsource dc=1.2
 V_wl_2  (WordLine_bar<2> gnd!) vsource dc=1.2
 V_wl_3  (WordLine_bar<3> gnd!) vsource dc=1.2
@@ -998,7 +998,7 @@ V_wl_996  (WordLine_bar<996> gnd!) vsource dc=1.2
 V_wl_997  (WordLine_bar<997> gnd!) vsource dc=1.2
 V_wl_998  (WordLine_bar<998> gnd!) vsource dc=1.2
 V_wl_999  (WordLine_bar<999> gnd!) vsource dc=1.2
-V_wl_1000  (WordLine_bar<1000> gnd!) vsource dc=1.2
+V_wl_sel  (WordLine_bar<1000> gnd!) vsource dc=0
 V_wl_1001  (WordLine_bar<1001> gnd!) vsource dc=1.2
 V_wl_1002  (WordLine_bar<1002> gnd!) vsource dc=1.2
 V_wl_1003  (WordLine_bar<1003> gnd!) vsource dc=1.2

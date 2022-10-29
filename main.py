@@ -1,5 +1,5 @@
 f = open("stimulus_wl.txt", "w")
-select = 0
+select = 1000
 for x in range(1024):
   if x == select:
     f.write('V_wl_sel  (WordLine_bar<' + str(x) + '> gnd!) vsource dc=0\n')
