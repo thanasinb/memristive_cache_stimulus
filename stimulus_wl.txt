@@ -1,2 +1,2 @@
-V_wl_sel  (WordLine_bar<0> gnd!) vsource dc=0
+V_wl_0  (WordLine_bar<0> gnd!) vsource dc=0
 V_wl_1  (WordLine_bar<1> gnd!) vsource dc=1.2
