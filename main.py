@@ -1,14 +1,22 @@
 f = open("stimulus_wl.txt", "w")
-select = 1000
 data = [
   1, 1, 1, 1, 1, 1, 1, 1,
+  0, 0, 0, 0, 0, 0, 0, 0,
   1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1,
+  0, 0, 0, 0, 0, 0, 0, 0
 ]
 
-for x in range(1024):
-  if x == select:
+# 1, 1, 1, 1, 1, 1, 1, 1,
+# 0, 0, 0, 0, 0, 0, 0, 0,
+
+# total_word
+# select_word
+
+select_word = 0
+total_word = 2
+
+for x in range(total_word):
+  if x == select_word:
     f.write('V_wl_sel  (WordLine_bar<' + str(x) + '> gnd!) vsource dc=0\n')
   else:
     f.write('V_wl_' + str(x) + '  (WordLine_bar<' + str(x) + '> gnd!) vsource dc=1.2\n')
