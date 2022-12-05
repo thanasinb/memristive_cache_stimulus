@@ -43,9 +43,9 @@ f = open("stimulus_data.txt", "w")
 i = 0
 for x in data:
   if x == 0:
-    f.write('V_data\\\\<' + str(i) + '\\\\> (Data<' + str(i) + '> gnd!) vsource dc=0\n')
+    f.write('V_data\\\\<' + str(i) + '\\\\> (Data\\\\<' + str(i) + '\\\\> gnd!) vsource dc=0\n')
   if x == 1:
-    f.write('V_data\\\\<' + str(i) + '\\\\> (Data<' + str(i) + '> gnd!) vsource dc=1.2\n')
+    f.write('V_data\\\\<' + str(i) + '\\\\> (Data\\\\<' + str(i) + '\\\\> gnd!) vsource dc=1.2\n')
   i = i + 1
 f.close()
 
