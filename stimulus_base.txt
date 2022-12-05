@@ -1,3 +1,0 @@
-Vdd    (vdd! gnd!)   vsource dc=1.2
-V_Read (V_Read gnd!) vsource dc=1.2
-V_RW   (RW gnd!)     vsource dc=1.2
