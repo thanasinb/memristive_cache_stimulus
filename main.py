@@ -12,7 +12,7 @@ select_word = 0
 total_word = 2
 read = True
 
-f = open("stimulus_base.txt", "w")
+f = open("stimulus_base.scs", "w")
 f.write("Vdd    (vdd! gnd!)   vsource dc=1.2\n")
 f.write("V_Read (V_Read gnd!) vsource dc=1.2\n")
 if(read):
@@ -21,7 +21,7 @@ else:
   f.write("V_RW   (RW gnd!)     vsource dc=0\n")
 f.close()
 
-f = open("stimulus_wl.txt", "w")
+f = open("stimulus_wl.scs", "w")
 for x in range(total_word):
   if x == select_word:
     # f.write('V_wl' + str(x) + '  (WordLine_bar<' + str(x) + '> gnd!) vsource dc=0\n')
@@ -39,7 +39,7 @@ for x in range(total_word):
     f.write('+ \\]\n')
 f.close()
 
-f = open("stimulus_data.txt", "w")
+f = open("stimulus_data.scs", "w")
 i = 0
 for x in data:
   if x == 0:
