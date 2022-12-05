@@ -24,26 +24,28 @@ f.close()
 f = open("stimulus_wl.txt", "w")
 for x in range(total_word):
   if x == select_word:
-    # f.write('V_wl_' + str(x) + '  (WordLine_bar<' + str(x) + '> gnd!) vsource dc=0\n')
-    f.write('V_wl_' + str(x) + '  (WordLine_bar<' + str(x) + '> gnd!) vsource type=pwl wave=[\n')
+    # f.write('V_wl' + str(x) + '  (WordLine_bar<' + str(x) + '> gnd!) vsource dc=0\n')
+    f.write('V_wl\\\\<' + str(x) + '\\\\>  (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
-    f.write('+ 500p 1.2\n')
-    f.write('+ ]\n')
+    f.write('+ 500p 0\n')
+    f.write('+ 510p 1.2\n')
+    f.write('+ \\]\n')
   else:
     # f.write('V_wl_' + str(x) + '  (WordLine_bar<' + str(x) + '> gnd!) vsource dc=1.2\n')
-    f.write('V_wl_' + str(x) + '  (WordLine_bar<' + str(x) + '> gnd!) vsource type=pwl wave=[\n')
+    f.write('V_wl\\\\<' + str(x) + '\\\\> (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    1.2\n')
-    f.write('+ 500p 0\n')
-    f.write('+ ]\n')
+    f.write('+ 500p 1.2\n')
+    f.write('+ 510p 0\n')
+    f.write('+ \\]\n')
 f.close()
 
 f = open("stimulus_data.txt", "w")
 i = 0
 for x in data:
   if x == 0:
-    f.write('V_data_' + str(i) + ' (Data<' + str(i) + '> gnd!) vsource dc=0\n')
+    f.write('V_data\\\\<' + str(i) + '\\\\> (Data<' + str(i) + '> gnd!) vsource dc=0\n')
   if x == 1:
-    f.write('V_data_' + str(i) + ' (Data<' + str(i) + '> gnd!) vsource dc=1.2\n')
+    f.write('V_data\\\\<' + str(i) + '\\\\> (Data<' + str(i) + '> gnd!) vsource dc=1.2\n')
   i = i + 1
 f.close()
 
