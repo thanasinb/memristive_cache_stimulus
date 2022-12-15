@@ -13,7 +13,7 @@ total_word = 2
 read = True
 
 f = open("stimulus_base.scs", "w")
-f.write("Vdd    (vdd! gnd!)   vsource dc=1.2\n")
+# f.write("Vdd    (vdd! gnd!)   vsource dc=1.2\n")
 f.write("V_Read (V_Read gnd!) vsource dc=1.2\n")
 if(read):
   f.write("V_RW   (RW gnd!)     vsource dc=1.2\n")
