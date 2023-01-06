@@ -1,3 +1,14 @@
 Vdd    (vdd! gnd!)   vsource dc=1.2
 V_Read (V_Read gnd!) vsource dc=1.2
-V_RW   (RW gnd!)     vsource dc=1.2
+V_RW   (RW gnd!)     vsource type=pwl wave=\[
++ 0    0
++ 500p 0
++ 510p 1.2
++ 1000p 1.2
++ 1010p 0
++ 1500p 0
++ 1510p 1.2
++ 2000p 1.2
++ 2010p 0
++ 2500p 0
++ \]
