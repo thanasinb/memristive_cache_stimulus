@@ -1,12 +1,12 @@
 V_wl_0 (WordLine_bar\\<0\\> gnd!) vsource type=pwl wave=\[
 + 0    0
-+ 1000p 0
-+ 1010p 1.2
++ 400p 0
++ 410p 1.2
 + \]
 V_wl_1 (WordLine_bar\\<1\\> gnd!) vsource type=pwl wave=\[
 + 0    1.2
-+ 1000p 1.2
-+ 1010p 0
++ 800p 1.2
++ 810p 0
 + \]
 V_wl_2 (WordLine_bar\\<2\\> gnd!) vsource type=pwl wave=\[
 + 0    1.2
