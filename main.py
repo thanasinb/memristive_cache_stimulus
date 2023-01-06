@@ -8,6 +8,7 @@ data = [
 # 1, 1, 1, 1, 1, 1, 1, 1,
 # 0, 0, 0, 0, 0, 0, 0, 0,
 
+num_data = 4
 select_word_1 = 0
 select_word_2 = 1
 total_word = 2
@@ -16,25 +17,20 @@ read = True
 f = open("stimulus_base.scs", "w")
 f.write("Vdd    (vdd! gnd!)   vsource dc=1.2\n")
 f.write("V_Read (V_Read gnd!) vsource dc=1.2\n")
-# if(read):
-#   f.write("V_RW   (RW gnd!)     vsource dc=1.2\n")
-# else:
-#   f.write("V_RW   (RW gnd!)     vsource dc=0\n")
 
+step_1 = 2
+step_2 = 4
 f.write('V_RW   (RW gnd!)     vsource type=pwl wave=\\[\n')
-# for x in range(total_word):
 f.write('+ 0    0\n')
-f.write('+ 200p 0\n')
-f.write('+ 210p 1.2\n')
-f.write('+ 400p 1.2\n')
-f.write('+ 410p 0\n')
-f.write('+ 600p 0\n')
-f.write('+ 610p 1.2\n')
-f.write('+ 800p 1.2\n')
-f.write('+ 810p 0\n')
-f.write('+ 1000p 0\n')
-f.write('+ \\]\n')
+for x in range(num_data):
+  f.write('+ ' + str(step_1) + '00p 0\n')
+  f.write('+ ' + str(step_1) + '10p 1.2\n')
+  f.write('+ ' + str(step_2) + '00p 1.2\n')
+  f.write('+ ' + str(step_2) + '10p 0\n')
+  step_1 = step_1 + 4
+  step_2 = step_2 + 4
 
+f.write('+ \\]\n')
 f.close()
 
 f = open("stimulus_wl.scs", "w")
