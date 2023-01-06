@@ -80,26 +80,26 @@ for x in data:
     step_2 = 8
     f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
-    for x in range(num_word):
+    for x in range(int(num_word/2)):
       f.write('+ ' + str(step_1) + '00p 0\n')
       f.write('+ ' + str(step_1) + '10p 1.2\n')
       f.write('+ ' + str(step_2) + '00p 1.2\n')
       f.write('+ ' + str(step_2) + '10p 0\n')
-      step_1 = step_1 + 4
-      step_2 = step_2 + 4
+      step_1 = step_1 + 8
+      step_2 = step_2 + 8
     f.write('+ \\]\n')
   if x == 1:
     step_1 = 4
     step_2 = 8
     f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    1.2\n')
-    for x in range(num_word):
+    for x in range(int(num_word/2)):
       f.write('+ ' + str(step_1) + '00p 1.2\n')
       f.write('+ ' + str(step_1) + '10p 0\n')
       f.write('+ ' + str(step_2) + '00p 0\n')
       f.write('+ ' + str(step_2) + '10p 1.2\n')
-      step_1 = step_1 + 4
-      step_2 = step_2 + 4
+      step_1 = step_1 + 8
+      step_2 = step_2 + 8
     f.write('+ \\]\n')
   i = i + 1
 f.close()
