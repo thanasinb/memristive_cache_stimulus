@@ -45,8 +45,8 @@ for x in range(num_word):
     f.write('+ ' + str(step_1) + '00p 1.2\n')
   if step_1 != 0:
     f.write('+ ' + str(step_1) + '10p 0\n')
-  f.write('+ ' + str(step_2) + '00p 0\n')
-  f.write('+ ' + str(step_2) + '10p 1.2\n')
+  f.write('+ ' + str(step_2-1) + '90p 0\n')
+  f.write('+ ' + str(step_2) + '00p 1.2\n')
   step_1 = step_1 + 4
   step_2 = step_2 + 4
   f.write('+ \\]\n')
