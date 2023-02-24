@@ -38,7 +38,10 @@ step_2 = 4
 f = open("stimulus_wl.scs", "w")
 for x in range(num_word):
   f.write('V_wl_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
-  f.write('+ 0    1.2\n')
+  if x==0:
+    f.write('+ 0    0\n')
+  else:
+    f.write('+ 0    1.2\n')
   if step_1 == 0:
     f.write('+ 10p  0\n')
   else:
