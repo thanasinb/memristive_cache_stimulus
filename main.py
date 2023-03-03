@@ -11,7 +11,7 @@ data = [
 # num_bit = 32
 select_word_1 = 0
 select_word_2 = 1
-num_word = 1024
+num_word = 1026
 read = True
 
 f = open("stimulus_base.scs", "w")

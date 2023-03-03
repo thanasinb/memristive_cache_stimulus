@@ -7165,3 +7165,17 @@ V_wl_1023 (WordLine_bar\\<1023\\> gnd!) vsource type=pwl wave=\[
 + 409580p 0
 + 409590p 1.2
 + \]
+V_wl_1024 (WordLine_bar\\<1024\\> gnd!) vsource type=pwl wave=\[
++ 0    1.2
++ 409590p 1.2
++ 409600p 0
++ 409980p 0
++ 409990p 1.2
++ \]
+V_wl_1025 (WordLine_bar\\<1025\\> gnd!) vsource type=pwl wave=\[
++ 0    1.2
++ 409990p 1.2
++ 410000p 0
++ 410380p 0
++ 410390p 1.2
++ \]
