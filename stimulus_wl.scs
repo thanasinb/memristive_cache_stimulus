@@ -1,5 +1,5 @@
 V_wl_0 (WordLine_bar\\<0\\> gnd!) vsource type=pwl wave=\[
-+ 0    0
++ 0    1.2
 + 390p 1.2
 + 400p 0
 + 780p 0
