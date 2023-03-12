@@ -14,6 +14,7 @@ select_word_2 = 1
 num_word = 1026
 read = True
 data_mode_switching = False
+start_WL = 4
 
 f = open("stimulus_base.scs", "w")
 f.write("Vdd    (vdd! gnd!)   vsource dc=1.2\n")
@@ -43,16 +44,17 @@ for x in range(num_word):
     f.write('+ 0    1.2\n')
   else:
     f.write('+ 0    1.2\n')
-  if step_1 == 0:
-    f.write('+ 10p  0\n')
-  else:
-    f.write('+ ' + str(step_1-1) + '90p 1.2\n')
-  if step_1 != 0:
-    f.write('+ ' + str(step_1) + '00p 0\n')
-  f.write('+ ' + str(step_2-1) + '80p 0\n')
-  f.write('+ ' + str(step_2-1) + '90p 1.2\n')
-  step_1 = step_1 + 4
-  step_2 = step_2 + 4
+  if x >= start_WL:
+    if step_1 == 0:
+      f.write('+ 10p  0\n')
+    else:
+      f.write('+ ' + str(step_1-1) + '90p 1.2\n')
+    if step_1 != 0:
+      f.write('+ ' + str(step_1) + '00p 0\n')
+    f.write('+ ' + str(step_2-1) + '80p 0\n')
+    f.write('+ ' + str(step_2-1) + '90p 1.2\n')
+    step_1 = step_1 + 4
+    step_2 = step_2 + 4
   f.write('+ \\]\n')
 
   # if x == select_word_1:
