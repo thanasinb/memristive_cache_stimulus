@@ -1,7 +1,7 @@
 data = [
-  1, 1, 1, 1, 1, 1, 1, 1,
   0, 0, 0, 0, 0, 0, 0, 0,
-  1, 1, 1, 1, 1, 1, 1, 1,
+  0, 0, 0, 0, 0, 0, 0, 0,
+  0, 0, 0, 0, 0, 0, 0, 0,
   0, 0, 0, 0, 0, 0, 0, 0
 ]
 
@@ -19,6 +19,8 @@ select_word_1 = 0
 select_word_2 = 1
 num_word = 1024
 read = True
+data_mode_switching = False
+start_WL = 8
 
 f = open("stimulus_base.scs", "w")
 f.write("Vdd    (vdd! gnd!)   vsource dc=1.2\n")
@@ -39,22 +41,26 @@ for x in range(num_word):
 f.write('+ \\]\n')
 f.close()
 
-step_1 = 0
-step_2 = 4
+step_1 = 4
+step_2 = 8
 f = open("stimulus_wl.scs", "w")
 for x in range(num_word):
   f.write('V_wl_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
-  f.write('+ 0    1.2\n')
-  if step_1 == 0:
-    f.write('+ 10p  0\n')
+  if x==0:
+    f.write('+ 0    1.2\n')
   else:
-    f.write('+ ' + str(step_1) + '00p 1.2\n')
-  if step_1 != 0:
-    f.write('+ ' + str(step_1) + '10p 0\n')
-  f.write('+ ' + str(step_2-1) + '90p 0\n')
-  f.write('+ ' + str(step_2) + '00p 1.2\n')
-  step_1 = step_1 + 4
-  step_2 = step_2 + 4
+    f.write('+ 0    1.2\n')
+  if x >= start_WL:
+    if step_1 == 0:
+      f.write('+ 10p  0\n')
+    else:
+      f.write('+ ' + str(step_1-1) + '90p 1.2\n')
+    if step_1 != 0:
+      f.write('+ ' + str(step_1) + '00p 0\n')
+    f.write('+ ' + str(step_2-1) + '80p 0\n')
+    f.write('+ ' + str(step_2-1) + '90p 1.2\n')
+    step_1 = step_1 + 4
+    step_2 = step_2 + 4
   f.write('+ \\]\n')
 f.close()
 
@@ -66,26 +72,28 @@ for x in data:
     step_2 = 8
     f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
-    for x in range(int(num_word/2)):
-      f.write('+ ' + str(step_1) + '00p 0\n')
-      f.write('+ ' + str(step_1) + '10p 1.2\n')
-      f.write('+ ' + str(step_2) + '00p 1.2\n')
-      f.write('+ ' + str(step_2) + '10p 0\n')
-      step_1 = step_1 + 8
-      step_2 = step_2 + 8
+    if (data_mode_switching):
+      for x in range(int(num_word/2)):
+        f.write('+ ' + str(step_1-1) + '90p 0\n')
+        f.write('+ ' + str(step_1) + '00p 1.2\n')
+        f.write('+ ' + str(step_2-1) + '90p 1.2\n')
+        f.write('+ ' + str(step_2) + '00p 0\n')
+        step_1 = step_1 + 8
+        step_2 = step_2 + 8
     f.write('+ \\]\n')
   if x == 1:
     step_1 = 4
     step_2 = 8
     f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    1.2\n')
-    for x in range(int(num_word/2)):
-      f.write('+ ' + str(step_1) + '00p 1.2\n')
-      f.write('+ ' + str(step_1) + '10p 0\n')
-      f.write('+ ' + str(step_2) + '00p 0\n')
-      f.write('+ ' + str(step_2) + '10p 1.2\n')
-      step_1 = step_1 + 8
-      step_2 = step_2 + 8
+    if (data_mode_switching):
+      for x in range(int(num_word/2)):
+        f.write('+ ' + str(step_1-1) + '90p 1.2\n')
+        f.write('+ ' + str(step_1) + '00p 0\n')
+        f.write('+ ' + str(step_2-1) + '90p 0\n')
+        f.write('+ ' + str(step_2) + '00p 1.2\n')
+        step_1 = step_1 + 8
+        step_2 = step_2 + 8
     f.write('+ \\]\n')
   i = i + 1
 f.close()
