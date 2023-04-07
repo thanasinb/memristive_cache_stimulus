@@ -104,7 +104,7 @@ for x in tag_data:
   if x == 0:
     step_1 = 4
     step_2 = 8
-    f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
+    f.write('V_tag_data_' + str(i) + ' (Tag_Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
     # for x in range(int(num_word/2)):
     #   f.write('+ ' + str(step_1) + '00p 0\n')
@@ -117,7 +117,7 @@ for x in tag_data:
   if x == 1:
     step_1 = 4
     step_2 = 8
-    f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
+    f.write('V_tag_data_' + str(i) + ' (Tag_Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    1.2\n')
     # for x in range(int(num_word/2)):
     #   f.write('+ ' + str(step_1) + '00p 1.2\n')

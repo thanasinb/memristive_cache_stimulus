@@ -1,60 +1,60 @@
-V_data_0 (Data\\<0\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_0 (Tag_Data\\<0\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_1 (Data\\<1\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_1 (Tag_Data\\<1\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_2 (Data\\<2\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_2 (Tag_Data\\<2\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_3 (Data\\<3\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_3 (Tag_Data\\<3\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_4 (Data\\<4\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_4 (Tag_Data\\<4\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_5 (Data\\<5\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_5 (Tag_Data\\<5\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_6 (Data\\<6\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_6 (Tag_Data\\<6\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_7 (Data\\<7\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_7 (Tag_Data\\<7\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_8 (Data\\<8\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_8 (Tag_Data\\<8\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_9 (Data\\<9\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_9 (Tag_Data\\<9\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_10 (Data\\<10\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_10 (Tag_Data\\<10\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_11 (Data\\<11\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_11 (Tag_Data\\<11\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_12 (Data\\<12\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_12 (Tag_Data\\<12\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_13 (Data\\<13\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_13 (Tag_Data\\<13\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_14 (Data\\<14\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_14 (Tag_Data\\<14\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_15 (Data\\<15\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_15 (Tag_Data\\<15\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_16 (Data\\<16\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_16 (Tag_Data\\<16\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_17 (Data\\<17\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_17 (Tag_Data\\<17\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_18 (Data\\<18\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_18 (Tag_Data\\<18\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
-V_data_19 (Data\\<19\\> gnd!) vsource type=pwl wave=\[
+V_tag_data_19 (Tag_Data\\<19\\> gnd!) vsource type=pwl wave=\[
 + 0    0
 + \]
