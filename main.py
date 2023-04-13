@@ -19,7 +19,7 @@ select_word_1 = 0
 select_word_2 = 1
 num_word = 1024
 read = True
-data_mode_switching = False
+data_mode_switching = True
 start_WL = 0
 
 f = open("stimulus_base.scs", "w")
