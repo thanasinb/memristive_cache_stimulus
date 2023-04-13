@@ -29,7 +29,7 @@ f.write("V_Read (V_Read gnd!) vsource dc=1.2\n")
 step_1 = 2
 step_2 = 4
 f.write('V_RW   (RW gnd!)     vsource type=pwl wave=\\[\n')
-f.write('+ 0    0\n')
+f.write('+ 0    1.2\n')
 # for x in range(num_word):
 #   f.write('+ ' + str(step_1) + '00p 0\n')
 #   f.write('+ ' + str(step_1) + '10p 1.2\n')
