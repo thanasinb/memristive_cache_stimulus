@@ -19,6 +19,7 @@ start_WL = 4
 f = open("stimulus_base.scs", "w")
 f.write("Vdd    (vdd! gnd!)   vsource dc=1.2\n")
 f.write("V_Read (V_Read gnd!) vsource dc=1.2\n")
+f.write("V_ref  (Vref gnd!)   vsource dc=0.14\n")
 
 step_1 = 2
 step_2 = 4
@@ -31,8 +32,21 @@ for x in range(num_word):
   f.write('+ ' + str(step_2) + '10p 0\n')
   step_1 = step_1 + 4
   step_2 = step_2 + 4
-
 f.write('+ \\]\n')
+
+step_1 = 6
+step_2 = 7
+f.write('V_clk   (clk gnd!)     vsource type=pwl wave=\\[\n')
+f.write('+ 0    1.2\n')
+for x in range(num_word):
+  f.write('+ ' + str(step_1) + '00p 1.2\n')
+  f.write('+ ' + str(step_1) + '10p 0\n')
+  f.write('+ ' + str(step_2) + '00p 0\n')
+  f.write('+ ' + str(step_2) + '10p 1.2\n')
+  step_1 = step_1 + 4
+  step_2 = step_2 + 4
+f.write('+ \\]\n')
+
 f.close()
 
 step_1 = 4
@@ -56,25 +70,6 @@ for x in range(num_word):
     step_1 = step_1 + 4
     step_2 = step_2 + 4
   f.write('+ \\]\n')
-
-  # if x == select_word_1:
-  #   f.write('V_wl_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
-  #   f.write('+ 0    0\n')
-  #   f.write('+ 400p 0\n')
-  #   f.write('+ 410p 1.2\n')
-  #   f.write('+ \\]\n')
-  # elif x == select_word_2:
-  #   f.write('V_wl_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
-  #   f.write('+ 0    1.2\n')
-  #   f.write('+ 400p 1.2\n')
-  #   f.write('+ 410p 0\n')
-  #   f.write('+ \\]\n')
-  # else:
-  #   f.write('V_wl_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
-  #   f.write('+ 0    1.2\n')
-  #   f.write('+ 1000p 1.2\n')
-  #   f.write('+ 1010p 1.2\n')
-  #   f.write('+ \\]\n')
 
 f.close()
 
