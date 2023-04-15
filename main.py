@@ -40,8 +40,8 @@ for x in range(num_word):
   step_2 = step_2 + 4
 f.write('+ \\]\n')
 
-step_1 = 6
-step_2 = 7
+step_1 = 7
+step_2 = 8
 f.write('V_clk   (clk gnd!)     vsource type=pwl wave=\\[\n')
 f.write('+ 0    1.2\n')
 for x in range(num_word):
