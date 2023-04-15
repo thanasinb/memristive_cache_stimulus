@@ -28,7 +28,7 @@ f.write("V_Read (V_Read gnd!) vsource dc=1.2\n")
 f.write("V_ref  (Vref gnd!)   vsource dc=0.14\n")
 
 step_1 = 2
-step_2 = 4
+step_2 = 5
 f.write('V_RW   (RW gnd!)     vsource type=pwl wave=\\[\n')
 f.write('+ 0    0\n')
 for x in range(num_word):
@@ -56,7 +56,7 @@ f.write('+ \\]\n')
 f.close()
 
 step_1 = 4
-step_2 = 8
+step_2 = 9
 f = open("stimulus_wl.scs", "w")
 for x in range(num_word):
   f.write('V_wl_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
@@ -84,7 +84,7 @@ i = 0
 for x in data:
   if x == 0:
     step_1 = 4
-    step_2 = 8
+    step_2 = 9
     f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
     if (data_mode_switching):
@@ -98,7 +98,7 @@ for x in data:
     f.write('+ \\]\n')
   if x == 1:
     step_1 = 4
-    step_2 = 8
+    step_2 = 9
     f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    1.2\n')
     if (data_mode_switching):
@@ -118,7 +118,7 @@ i = 0
 for x in tag_data:
   if x == 0:
     step_1 = 4
-    step_2 = 8
+    step_2 = 9
     f.write('V_tag_data_' + str(i) + ' (Tag_Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
     # for x in range(int(num_word/2)):
@@ -131,7 +131,7 @@ for x in tag_data:
     f.write('+ \\]\n')
   if x == 1:
     step_1 = 4
-    step_2 = 8
+    step_2 = 9
     f.write('V_tag_data_' + str(i) + ' (Tag_Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    1.2\n')
     # for x in range(int(num_word/2)):
