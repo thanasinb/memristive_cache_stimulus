@@ -27,7 +27,7 @@ f.write("Vdd    (vdd! gnd!)   vsource dc=1.2\n")
 f.write("V_Read (V_Read gnd!) vsource dc=1.2\n")
 f.write("V_ref  (Vref gnd!)   vsource dc=0.14\n")
 
-step_1 = 2
+step_1 = 1
 step_2 = 5
 f.write('V_RW   (RW gnd!)     vsource type=pwl wave=\\[\n')
 f.write('+ 0    0\n')
@@ -40,7 +40,7 @@ for x in range(num_word):
   step_2 = step_2 + 5
 f.write('+ \\]\n')
 
-step_1 = 8
+step_1 = 7
 step_2 = 10
 f.write('V_clk   (clk gnd!)     vsource type=pwl wave=\\[\n')
 f.write('+ 0    0\n')
