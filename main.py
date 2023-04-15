@@ -43,12 +43,12 @@ f.write('+ \\]\n')
 step_1 = 7
 step_2 = 8
 f.write('V_clk   (clk gnd!)     vsource type=pwl wave=\\[\n')
-f.write('+ 0    1.2\n')
+f.write('+ 0    0\n')
 for x in range(num_word):
-  f.write('+ ' + str(step_1) + '00p 1.2\n')
-  f.write('+ ' + str(step_1) + '10p 0\n')
-  f.write('+ ' + str(step_2) + '00p 0\n')
-  f.write('+ ' + str(step_2) + '10p 1.2\n')
+  f.write('+ ' + str(step_1) + '00p 0\n')
+  f.write('+ ' + str(step_1) + '10p 1.2\n')
+  f.write('+ ' + str(step_2) + '00p 1.2\n')
+  f.write('+ ' + str(step_2) + '10p 0\n')
   step_1 = step_1 + 4
   step_2 = step_2 + 4
 f.write('+ \\]\n')
