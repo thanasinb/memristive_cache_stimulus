@@ -55,8 +55,8 @@ f.write('+ \\]\n')
 
 f.close()
 
-step_1 = 4
-step_2 = 9
+step_1 = 5
+step_2 = 10
 f = open("stimulus_wl.scs", "w")
 for x in range(num_word):
   f.write('V_wl_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
@@ -83,8 +83,8 @@ f = open("stimulus_data.scs", "w")
 i = 0
 for x in data:
   if x == 0:
-    step_1 = 4
-    step_2 = 9
+    step_1 = 5
+    step_2 = 10
     f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
     if (data_mode_switching):
@@ -93,8 +93,8 @@ for x in data:
         f.write('+ ' + str(step_1) + '00p 1.2\n')
         f.write('+ ' + str(step_2-1) + '90p 1.2\n')
         f.write('+ ' + str(step_2) + '00p 0\n')
-        step_1 = step_1 + 9
-        step_2 = step_2 + 9
+        step_1 = step_1 + 10
+        step_2 = step_2 + 10
     f.write('+ \\]\n')
   if x == 1:
     step_1 = 4
