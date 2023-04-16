@@ -121,26 +121,26 @@ for x in tag_data:
     step_2 = 10
     f.write('V_tag_data_' + str(i) + ' (Tag_Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
-    # for x in range(int(num_word/2)):
-    #   f.write('+ ' + str(step_1-1) + '80p 0\n')
-    #   f.write('+ ' + str(step_1-1) + '90p 1.2\n')
-    #   f.write('+ ' + str(step_2-1) + '80p 1.2\n')
-    #   f.write('+ ' + str(step_2-1) + '90p 0\n')
-    #   step_1 = step_1 + 10
-    #   step_2 = step_2 + 10
+    for x in range(int(num_word/2)):
+      f.write('+ ' + str(step_1-1) + '80p 0\n')
+      f.write('+ ' + str(step_1-1) + '90p 1.2\n')
+      f.write('+ ' + str(step_2-1) + '80p 1.2\n')
+      f.write('+ ' + str(step_2-1) + '90p 0\n')
+      step_1 = step_1 + 10
+      step_2 = step_2 + 10
     f.write('+ \\]\n')
   if x == 1:
     step_1 = 5
     step_2 = 10
     f.write('V_tag_data_' + str(i) + ' (Tag_Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    1.2\n')
-    # for x in range(int(num_word/2)):
-    #   f.write('+ ' + str(step_1-1) + '80p 1.2\n')
-    #   f.write('+ ' + str(step_1-1) + '90p 0\n')
-    #   f.write('+ ' + str(step_2-1) + '80p 0\n')
-    #   f.write('+ ' + str(step_2-1) + '90p 1.2\n')
-    #   step_1 = step_1 + 10
-    #   step_2 = step_2 + 10
+    for x in range(int(num_word/2)):
+      f.write('+ ' + str(step_1-1) + '80p 1.2\n')
+      f.write('+ ' + str(step_1-1) + '90p 0\n')
+      f.write('+ ' + str(step_2-1) + '80p 0\n')
+      f.write('+ ' + str(step_2-1) + '90p 1.2\n')
+      step_1 = step_1 + 10
+      step_2 = step_2 + 10
     f.write('+ \\]\n')
   i = i + 1
 f.close()
