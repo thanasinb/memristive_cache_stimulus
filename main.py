@@ -24,7 +24,7 @@ start_WL = 0
 
 f = open("stimulus_base.scs", "w")
 f.write("Vdd    (vdd! gnd!)   vsource dc=1.2\n")
-f.write("V_Read (V_Read gnd!) vsource dc=0.8\n")
+f.write("V_Read (V_Read gnd!) vsource dc=0.9\n")
 f.write("V_ref  (Vref gnd!)   vsource dc=0.14\n")
 
 step_1 = 1
