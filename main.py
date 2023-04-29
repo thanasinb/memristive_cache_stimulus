@@ -40,6 +40,8 @@ for x in range(num_word):
   step_2 = step_2 + 5
 f.write('+ \\]\n')
 
+step_1 = 1
+step_2 = 5
 f.write('V_RW_bar   (RW_bar gnd!)     vsource type=pwl wave=\\[\n')
 f.write('+ 0    1.2\n')
 for x in range(num_word):
@@ -107,6 +109,9 @@ for x in data:
         step_1 = step_1 + 10
         step_2 = step_2 + 10
     f.write('+ \\]\n')
+
+    step_1 = 5
+    step_2 = 10
     f.write('V_data_bar_' + str(i) + ' (Data_bar\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    1.2\n')
     if (data_mode_switching):
@@ -118,6 +123,7 @@ for x in data:
         step_1 = step_1 + 10
         step_2 = step_2 + 10
     f.write('+ \\]\n')
+
   if x == 1:
     step_1 = 5
     step_2 = 10
@@ -132,6 +138,9 @@ for x in data:
         step_1 = step_1 + 10
         step_2 = step_2 + 10
     f.write('+ \\]\n')
+
+    step_1 = 5
+    step_2 = 10
     f.write('V_data_bar_' + str(i) + ' (Data_bar\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
     if (data_mode_switching):
@@ -162,6 +171,9 @@ for x in tag_data:
       step_1 = step_1 + 10
       step_2 = step_2 + 10
     f.write('+ \\]\n')
+
+    step_1 = 5
+    step_2 = 10
     f.write('V_tag_data_bar_' + str(i) + ' (Tag_Data_bar\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    1.2\n')
     for x in range(int(num_word/2)):
@@ -172,6 +184,7 @@ for x in tag_data:
       step_1 = step_1 + 10
       step_2 = step_2 + 10
     f.write('+ \\]\n')
+
   if x == 1:
     step_1 = 5
     step_2 = 10
@@ -185,6 +198,9 @@ for x in tag_data:
       step_1 = step_1 + 10
       step_2 = step_2 + 10
     f.write('+ \\]\n')
+
+    step_1 = 5
+    step_2 = 10
     f.write('V_tag_data_bar_' + str(i) + ' (Tag_Data_bar\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    0\n')
     for x in range(int(num_word/2)):
