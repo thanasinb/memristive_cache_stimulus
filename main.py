@@ -21,7 +21,7 @@ num_word = 1024
 read = True
 data_mode_switching = True
 start_WL = 0
-vdd = "0.8"
+vdd = "0.9"
 
 f = open("stimulus_base.scs", "w")
 f.write("Vdd    (vdd! gnd!)   vsource dc=" + vdd + "\n")
