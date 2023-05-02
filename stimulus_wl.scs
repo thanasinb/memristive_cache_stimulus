@@ -1,7168 +1,7168 @@
 V_wl_0 (WordLine_bar\\<0\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 500p 0.9
++ 0    1.0
++ 500p 1.0
 + 510p 0
 + 980p 0
-+ 990p 0.9
++ 990p 1.0
 + \]
 V_wl_1 (WordLine_bar\\<1\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 1000p 0.9
++ 0    1.0
++ 1000p 1.0
 + 1010p 0
 + 1480p 0
-+ 1490p 0.9
++ 1490p 1.0
 + \]
 V_wl_2 (WordLine_bar\\<2\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 1500p 0.9
++ 0    1.0
++ 1500p 1.0
 + 1510p 0
 + 1980p 0
-+ 1990p 0.9
++ 1990p 1.0
 + \]
 V_wl_3 (WordLine_bar\\<3\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 2000p 0.9
++ 0    1.0
++ 2000p 1.0
 + 2010p 0
 + 2480p 0
-+ 2490p 0.9
++ 2490p 1.0
 + \]
 V_wl_4 (WordLine_bar\\<4\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 2500p 0.9
++ 0    1.0
++ 2500p 1.0
 + 2510p 0
 + 2980p 0
-+ 2990p 0.9
++ 2990p 1.0
 + \]
 V_wl_5 (WordLine_bar\\<5\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 3000p 0.9
++ 0    1.0
++ 3000p 1.0
 + 3010p 0
 + 3480p 0
-+ 3490p 0.9
++ 3490p 1.0
 + \]
 V_wl_6 (WordLine_bar\\<6\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 3500p 0.9
++ 0    1.0
++ 3500p 1.0
 + 3510p 0
 + 3980p 0
-+ 3990p 0.9
++ 3990p 1.0
 + \]
 V_wl_7 (WordLine_bar\\<7\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 4000p 0.9
++ 0    1.0
++ 4000p 1.0
 + 4010p 0
 + 4480p 0
-+ 4490p 0.9
++ 4490p 1.0
 + \]
 V_wl_8 (WordLine_bar\\<8\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 4500p 0.9
++ 0    1.0
++ 4500p 1.0
 + 4510p 0
 + 4980p 0
-+ 4990p 0.9
++ 4990p 1.0
 + \]
 V_wl_9 (WordLine_bar\\<9\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 5000p 0.9
++ 0    1.0
++ 5000p 1.0
 + 5010p 0
 + 5480p 0
-+ 5490p 0.9
++ 5490p 1.0
 + \]
 V_wl_10 (WordLine_bar\\<10\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 5500p 0.9
++ 0    1.0
++ 5500p 1.0
 + 5510p 0
 + 5980p 0
-+ 5990p 0.9
++ 5990p 1.0
 + \]
 V_wl_11 (WordLine_bar\\<11\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 6000p 0.9
++ 0    1.0
++ 6000p 1.0
 + 6010p 0
 + 6480p 0
-+ 6490p 0.9
++ 6490p 1.0
 + \]
 V_wl_12 (WordLine_bar\\<12\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 6500p 0.9
++ 0    1.0
++ 6500p 1.0
 + 6510p 0
 + 6980p 0
-+ 6990p 0.9
++ 6990p 1.0
 + \]
 V_wl_13 (WordLine_bar\\<13\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 7000p 0.9
++ 0    1.0
++ 7000p 1.0
 + 7010p 0
 + 7480p 0
-+ 7490p 0.9
++ 7490p 1.0
 + \]
 V_wl_14 (WordLine_bar\\<14\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 7500p 0.9
++ 0    1.0
++ 7500p 1.0
 + 7510p 0
 + 7980p 0
-+ 7990p 0.9
++ 7990p 1.0
 + \]
 V_wl_15 (WordLine_bar\\<15\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 8000p 0.9
++ 0    1.0
++ 8000p 1.0
 + 8010p 0
 + 8480p 0
-+ 8490p 0.9
++ 8490p 1.0
 + \]
 V_wl_16 (WordLine_bar\\<16\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 8500p 0.9
++ 0    1.0
++ 8500p 1.0
 + 8510p 0
 + 8980p 0
-+ 8990p 0.9
++ 8990p 1.0
 + \]
 V_wl_17 (WordLine_bar\\<17\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 9000p 0.9
++ 0    1.0
++ 9000p 1.0
 + 9010p 0
 + 9480p 0
-+ 9490p 0.9
++ 9490p 1.0
 + \]
 V_wl_18 (WordLine_bar\\<18\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 9500p 0.9
++ 0    1.0
++ 9500p 1.0
 + 9510p 0
 + 9980p 0
-+ 9990p 0.9
++ 9990p 1.0
 + \]
 V_wl_19 (WordLine_bar\\<19\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 10000p 0.9
++ 0    1.0
++ 10000p 1.0
 + 10010p 0
 + 10480p 0
-+ 10490p 0.9
++ 10490p 1.0
 + \]
 V_wl_20 (WordLine_bar\\<20\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 10500p 0.9
++ 0    1.0
++ 10500p 1.0
 + 10510p 0
 + 10980p 0
-+ 10990p 0.9
++ 10990p 1.0
 + \]
 V_wl_21 (WordLine_bar\\<21\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 11000p 0.9
++ 0    1.0
++ 11000p 1.0
 + 11010p 0
 + 11480p 0
-+ 11490p 0.9
++ 11490p 1.0
 + \]
 V_wl_22 (WordLine_bar\\<22\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 11500p 0.9
++ 0    1.0
++ 11500p 1.0
 + 11510p 0
 + 11980p 0
-+ 11990p 0.9
++ 11990p 1.0
 + \]
 V_wl_23 (WordLine_bar\\<23\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 12000p 0.9
++ 0    1.0
++ 12000p 1.0
 + 12010p 0
 + 12480p 0
-+ 12490p 0.9
++ 12490p 1.0
 + \]
 V_wl_24 (WordLine_bar\\<24\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 12500p 0.9
++ 0    1.0
++ 12500p 1.0
 + 12510p 0
 + 12980p 0
-+ 12990p 0.9
++ 12990p 1.0
 + \]
 V_wl_25 (WordLine_bar\\<25\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 13000p 0.9
++ 0    1.0
++ 13000p 1.0
 + 13010p 0
 + 13480p 0
-+ 13490p 0.9
++ 13490p 1.0
 + \]
 V_wl_26 (WordLine_bar\\<26\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 13500p 0.9
++ 0    1.0
++ 13500p 1.0
 + 13510p 0
 + 13980p 0
-+ 13990p 0.9
++ 13990p 1.0
 + \]
 V_wl_27 (WordLine_bar\\<27\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 14000p 0.9
++ 0    1.0
++ 14000p 1.0
 + 14010p 0
 + 14480p 0
-+ 14490p 0.9
++ 14490p 1.0
 + \]
 V_wl_28 (WordLine_bar\\<28\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 14500p 0.9
++ 0    1.0
++ 14500p 1.0
 + 14510p 0
 + 14980p 0
-+ 14990p 0.9
++ 14990p 1.0
 + \]
 V_wl_29 (WordLine_bar\\<29\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 15000p 0.9
++ 0    1.0
++ 15000p 1.0
 + 15010p 0
 + 15480p 0
-+ 15490p 0.9
++ 15490p 1.0
 + \]
 V_wl_30 (WordLine_bar\\<30\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 15500p 0.9
++ 0    1.0
++ 15500p 1.0
 + 15510p 0
 + 15980p 0
-+ 15990p 0.9
++ 15990p 1.0
 + \]
 V_wl_31 (WordLine_bar\\<31\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 16000p 0.9
++ 0    1.0
++ 16000p 1.0
 + 16010p 0
 + 16480p 0
-+ 16490p 0.9
++ 16490p 1.0
 + \]
 V_wl_32 (WordLine_bar\\<32\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 16500p 0.9
++ 0    1.0
++ 16500p 1.0
 + 16510p 0
 + 16980p 0
-+ 16990p 0.9
++ 16990p 1.0
 + \]
 V_wl_33 (WordLine_bar\\<33\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 17000p 0.9
++ 0    1.0
++ 17000p 1.0
 + 17010p 0
 + 17480p 0
-+ 17490p 0.9
++ 17490p 1.0
 + \]
 V_wl_34 (WordLine_bar\\<34\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 17500p 0.9
++ 0    1.0
++ 17500p 1.0
 + 17510p 0
 + 17980p 0
-+ 17990p 0.9
++ 17990p 1.0
 + \]
 V_wl_35 (WordLine_bar\\<35\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 18000p 0.9
++ 0    1.0
++ 18000p 1.0
 + 18010p 0
 + 18480p 0
-+ 18490p 0.9
++ 18490p 1.0
 + \]
 V_wl_36 (WordLine_bar\\<36\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 18500p 0.9
++ 0    1.0
++ 18500p 1.0
 + 18510p 0
 + 18980p 0
-+ 18990p 0.9
++ 18990p 1.0
 + \]
 V_wl_37 (WordLine_bar\\<37\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 19000p 0.9
++ 0    1.0
++ 19000p 1.0
 + 19010p 0
 + 19480p 0
-+ 19490p 0.9
++ 19490p 1.0
 + \]
 V_wl_38 (WordLine_bar\\<38\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 19500p 0.9
++ 0    1.0
++ 19500p 1.0
 + 19510p 0
 + 19980p 0
-+ 19990p 0.9
++ 19990p 1.0
 + \]
 V_wl_39 (WordLine_bar\\<39\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 20000p 0.9
++ 0    1.0
++ 20000p 1.0
 + 20010p 0
 + 20480p 0
-+ 20490p 0.9
++ 20490p 1.0
 + \]
 V_wl_40 (WordLine_bar\\<40\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 20500p 0.9
++ 0    1.0
++ 20500p 1.0
 + 20510p 0
 + 20980p 0
-+ 20990p 0.9
++ 20990p 1.0
 + \]
 V_wl_41 (WordLine_bar\\<41\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 21000p 0.9
++ 0    1.0
++ 21000p 1.0
 + 21010p 0
 + 21480p 0
-+ 21490p 0.9
++ 21490p 1.0
 + \]
 V_wl_42 (WordLine_bar\\<42\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 21500p 0.9
++ 0    1.0
++ 21500p 1.0
 + 21510p 0
 + 21980p 0
-+ 21990p 0.9
++ 21990p 1.0
 + \]
 V_wl_43 (WordLine_bar\\<43\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 22000p 0.9
++ 0    1.0
++ 22000p 1.0
 + 22010p 0
 + 22480p 0
-+ 22490p 0.9
++ 22490p 1.0
 + \]
 V_wl_44 (WordLine_bar\\<44\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 22500p 0.9
++ 0    1.0
++ 22500p 1.0
 + 22510p 0
 + 22980p 0
-+ 22990p 0.9
++ 22990p 1.0
 + \]
 V_wl_45 (WordLine_bar\\<45\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 23000p 0.9
++ 0    1.0
++ 23000p 1.0
 + 23010p 0
 + 23480p 0
-+ 23490p 0.9
++ 23490p 1.0
 + \]
 V_wl_46 (WordLine_bar\\<46\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 23500p 0.9
++ 0    1.0
++ 23500p 1.0
 + 23510p 0
 + 23980p 0
-+ 23990p 0.9
++ 23990p 1.0
 + \]
 V_wl_47 (WordLine_bar\\<47\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 24000p 0.9
++ 0    1.0
++ 24000p 1.0
 + 24010p 0
 + 24480p 0
-+ 24490p 0.9
++ 24490p 1.0
 + \]
 V_wl_48 (WordLine_bar\\<48\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 24500p 0.9
++ 0    1.0
++ 24500p 1.0
 + 24510p 0
 + 24980p 0
-+ 24990p 0.9
++ 24990p 1.0
 + \]
 V_wl_49 (WordLine_bar\\<49\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 25000p 0.9
++ 0    1.0
++ 25000p 1.0
 + 25010p 0
 + 25480p 0
-+ 25490p 0.9
++ 25490p 1.0
 + \]
 V_wl_50 (WordLine_bar\\<50\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 25500p 0.9
++ 0    1.0
++ 25500p 1.0
 + 25510p 0
 + 25980p 0
-+ 25990p 0.9
++ 25990p 1.0
 + \]
 V_wl_51 (WordLine_bar\\<51\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 26000p 0.9
++ 0    1.0
++ 26000p 1.0
 + 26010p 0
 + 26480p 0
-+ 26490p 0.9
++ 26490p 1.0
 + \]
 V_wl_52 (WordLine_bar\\<52\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 26500p 0.9
++ 0    1.0
++ 26500p 1.0
 + 26510p 0
 + 26980p 0
-+ 26990p 0.9
++ 26990p 1.0
 + \]
 V_wl_53 (WordLine_bar\\<53\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 27000p 0.9
++ 0    1.0
++ 27000p 1.0
 + 27010p 0
 + 27480p 0
-+ 27490p 0.9
++ 27490p 1.0
 + \]
 V_wl_54 (WordLine_bar\\<54\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 27500p 0.9
++ 0    1.0
++ 27500p 1.0
 + 27510p 0
 + 27980p 0
-+ 27990p 0.9
++ 27990p 1.0
 + \]
 V_wl_55 (WordLine_bar\\<55\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 28000p 0.9
++ 0    1.0
++ 28000p 1.0
 + 28010p 0
 + 28480p 0
-+ 28490p 0.9
++ 28490p 1.0
 + \]
 V_wl_56 (WordLine_bar\\<56\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 28500p 0.9
++ 0    1.0
++ 28500p 1.0
 + 28510p 0
 + 28980p 0
-+ 28990p 0.9
++ 28990p 1.0
 + \]
 V_wl_57 (WordLine_bar\\<57\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 29000p 0.9
++ 0    1.0
++ 29000p 1.0
 + 29010p 0
 + 29480p 0
-+ 29490p 0.9
++ 29490p 1.0
 + \]
 V_wl_58 (WordLine_bar\\<58\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 29500p 0.9
++ 0    1.0
++ 29500p 1.0
 + 29510p 0
 + 29980p 0
-+ 29990p 0.9
++ 29990p 1.0
 + \]
 V_wl_59 (WordLine_bar\\<59\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 30000p 0.9
++ 0    1.0
++ 30000p 1.0
 + 30010p 0
 + 30480p 0
-+ 30490p 0.9
++ 30490p 1.0
 + \]
 V_wl_60 (WordLine_bar\\<60\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 30500p 0.9
++ 0    1.0
++ 30500p 1.0
 + 30510p 0
 + 30980p 0
-+ 30990p 0.9
++ 30990p 1.0
 + \]
 V_wl_61 (WordLine_bar\\<61\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 31000p 0.9
++ 0    1.0
++ 31000p 1.0
 + 31010p 0
 + 31480p 0
-+ 31490p 0.9
++ 31490p 1.0
 + \]
 V_wl_62 (WordLine_bar\\<62\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 31500p 0.9
++ 0    1.0
++ 31500p 1.0
 + 31510p 0
 + 31980p 0
-+ 31990p 0.9
++ 31990p 1.0
 + \]
 V_wl_63 (WordLine_bar\\<63\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 32000p 0.9
++ 0    1.0
++ 32000p 1.0
 + 32010p 0
 + 32480p 0
-+ 32490p 0.9
++ 32490p 1.0
 + \]
 V_wl_64 (WordLine_bar\\<64\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 32500p 0.9
++ 0    1.0
++ 32500p 1.0
 + 32510p 0
 + 32980p 0
-+ 32990p 0.9
++ 32990p 1.0
 + \]
 V_wl_65 (WordLine_bar\\<65\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 33000p 0.9
++ 0    1.0
++ 33000p 1.0
 + 33010p 0
 + 33480p 0
-+ 33490p 0.9
++ 33490p 1.0
 + \]
 V_wl_66 (WordLine_bar\\<66\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 33500p 0.9
++ 0    1.0
++ 33500p 1.0
 + 33510p 0
 + 33980p 0
-+ 33990p 0.9
++ 33990p 1.0
 + \]
 V_wl_67 (WordLine_bar\\<67\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 34000p 0.9
++ 0    1.0
++ 34000p 1.0
 + 34010p 0
 + 34480p 0
-+ 34490p 0.9
++ 34490p 1.0
 + \]
 V_wl_68 (WordLine_bar\\<68\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 34500p 0.9
++ 0    1.0
++ 34500p 1.0
 + 34510p 0
 + 34980p 0
-+ 34990p 0.9
++ 34990p 1.0
 + \]
 V_wl_69 (WordLine_bar\\<69\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 35000p 0.9
++ 0    1.0
++ 35000p 1.0
 + 35010p 0
 + 35480p 0
-+ 35490p 0.9
++ 35490p 1.0
 + \]
 V_wl_70 (WordLine_bar\\<70\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 35500p 0.9
++ 0    1.0
++ 35500p 1.0
 + 35510p 0
 + 35980p 0
-+ 35990p 0.9
++ 35990p 1.0
 + \]
 V_wl_71 (WordLine_bar\\<71\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 36000p 0.9
++ 0    1.0
++ 36000p 1.0
 + 36010p 0
 + 36480p 0
-+ 36490p 0.9
++ 36490p 1.0
 + \]
 V_wl_72 (WordLine_bar\\<72\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 36500p 0.9
++ 0    1.0
++ 36500p 1.0
 + 36510p 0
 + 36980p 0
-+ 36990p 0.9
++ 36990p 1.0
 + \]
 V_wl_73 (WordLine_bar\\<73\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 37000p 0.9
++ 0    1.0
++ 37000p 1.0
 + 37010p 0
 + 37480p 0
-+ 37490p 0.9
++ 37490p 1.0
 + \]
 V_wl_74 (WordLine_bar\\<74\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 37500p 0.9
++ 0    1.0
++ 37500p 1.0
 + 37510p 0
 + 37980p 0
-+ 37990p 0.9
++ 37990p 1.0
 + \]
 V_wl_75 (WordLine_bar\\<75\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 38000p 0.9
++ 0    1.0
++ 38000p 1.0
 + 38010p 0
 + 38480p 0
-+ 38490p 0.9
++ 38490p 1.0
 + \]
 V_wl_76 (WordLine_bar\\<76\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 38500p 0.9
++ 0    1.0
++ 38500p 1.0
 + 38510p 0
 + 38980p 0
-+ 38990p 0.9
++ 38990p 1.0
 + \]
 V_wl_77 (WordLine_bar\\<77\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 39000p 0.9
++ 0    1.0
++ 39000p 1.0
 + 39010p 0
 + 39480p 0
-+ 39490p 0.9
++ 39490p 1.0
 + \]
 V_wl_78 (WordLine_bar\\<78\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 39500p 0.9
++ 0    1.0
++ 39500p 1.0
 + 39510p 0
 + 39980p 0
-+ 39990p 0.9
++ 39990p 1.0
 + \]
 V_wl_79 (WordLine_bar\\<79\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 40000p 0.9
++ 0    1.0
++ 40000p 1.0
 + 40010p 0
 + 40480p 0
-+ 40490p 0.9
++ 40490p 1.0
 + \]
 V_wl_80 (WordLine_bar\\<80\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 40500p 0.9
++ 0    1.0
++ 40500p 1.0
 + 40510p 0
 + 40980p 0
-+ 40990p 0.9
++ 40990p 1.0
 + \]
 V_wl_81 (WordLine_bar\\<81\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 41000p 0.9
++ 0    1.0
++ 41000p 1.0
 + 41010p 0
 + 41480p 0
-+ 41490p 0.9
++ 41490p 1.0
 + \]
 V_wl_82 (WordLine_bar\\<82\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 41500p 0.9
++ 0    1.0
++ 41500p 1.0
 + 41510p 0
 + 41980p 0
-+ 41990p 0.9
++ 41990p 1.0
 + \]
 V_wl_83 (WordLine_bar\\<83\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 42000p 0.9
++ 0    1.0
++ 42000p 1.0
 + 42010p 0
 + 42480p 0
-+ 42490p 0.9
++ 42490p 1.0
 + \]
 V_wl_84 (WordLine_bar\\<84\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 42500p 0.9
++ 0    1.0
++ 42500p 1.0
 + 42510p 0
 + 42980p 0
-+ 42990p 0.9
++ 42990p 1.0
 + \]
 V_wl_85 (WordLine_bar\\<85\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 43000p 0.9
++ 0    1.0
++ 43000p 1.0
 + 43010p 0
 + 43480p 0
-+ 43490p 0.9
++ 43490p 1.0
 + \]
 V_wl_86 (WordLine_bar\\<86\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 43500p 0.9
++ 0    1.0
++ 43500p 1.0
 + 43510p 0
 + 43980p 0
-+ 43990p 0.9
++ 43990p 1.0
 + \]
 V_wl_87 (WordLine_bar\\<87\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 44000p 0.9
++ 0    1.0
++ 44000p 1.0
 + 44010p 0
 + 44480p 0
-+ 44490p 0.9
++ 44490p 1.0
 + \]
 V_wl_88 (WordLine_bar\\<88\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 44500p 0.9
++ 0    1.0
++ 44500p 1.0
 + 44510p 0
 + 44980p 0
-+ 44990p 0.9
++ 44990p 1.0
 + \]
 V_wl_89 (WordLine_bar\\<89\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 45000p 0.9
++ 0    1.0
++ 45000p 1.0
 + 45010p 0
 + 45480p 0
-+ 45490p 0.9
++ 45490p 1.0
 + \]
 V_wl_90 (WordLine_bar\\<90\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 45500p 0.9
++ 0    1.0
++ 45500p 1.0
 + 45510p 0
 + 45980p 0
-+ 45990p 0.9
++ 45990p 1.0
 + \]
 V_wl_91 (WordLine_bar\\<91\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 46000p 0.9
++ 0    1.0
++ 46000p 1.0
 + 46010p 0
 + 46480p 0
-+ 46490p 0.9
++ 46490p 1.0
 + \]
 V_wl_92 (WordLine_bar\\<92\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 46500p 0.9
++ 0    1.0
++ 46500p 1.0
 + 46510p 0
 + 46980p 0
-+ 46990p 0.9
++ 46990p 1.0
 + \]
 V_wl_93 (WordLine_bar\\<93\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 47000p 0.9
++ 0    1.0
++ 47000p 1.0
 + 47010p 0
 + 47480p 0
-+ 47490p 0.9
++ 47490p 1.0
 + \]
 V_wl_94 (WordLine_bar\\<94\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 47500p 0.9
++ 0    1.0
++ 47500p 1.0
 + 47510p 0
 + 47980p 0
-+ 47990p 0.9
++ 47990p 1.0
 + \]
 V_wl_95 (WordLine_bar\\<95\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 48000p 0.9
++ 0    1.0
++ 48000p 1.0
 + 48010p 0
 + 48480p 0
-+ 48490p 0.9
++ 48490p 1.0
 + \]
 V_wl_96 (WordLine_bar\\<96\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 48500p 0.9
++ 0    1.0
++ 48500p 1.0
 + 48510p 0
 + 48980p 0
-+ 48990p 0.9
++ 48990p 1.0
 + \]
 V_wl_97 (WordLine_bar\\<97\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 49000p 0.9
++ 0    1.0
++ 49000p 1.0
 + 49010p 0
 + 49480p 0
-+ 49490p 0.9
++ 49490p 1.0
 + \]
 V_wl_98 (WordLine_bar\\<98\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 49500p 0.9
++ 0    1.0
++ 49500p 1.0
 + 49510p 0
 + 49980p 0
-+ 49990p 0.9
++ 49990p 1.0
 + \]
 V_wl_99 (WordLine_bar\\<99\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 50000p 0.9
++ 0    1.0
++ 50000p 1.0
 + 50010p 0
 + 50480p 0
-+ 50490p 0.9
++ 50490p 1.0
 + \]
 V_wl_100 (WordLine_bar\\<100\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 50500p 0.9
++ 0    1.0
++ 50500p 1.0
 + 50510p 0
 + 50980p 0
-+ 50990p 0.9
++ 50990p 1.0
 + \]
 V_wl_101 (WordLine_bar\\<101\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 51000p 0.9
++ 0    1.0
++ 51000p 1.0
 + 51010p 0
 + 51480p 0
-+ 51490p 0.9
++ 51490p 1.0
 + \]
 V_wl_102 (WordLine_bar\\<102\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 51500p 0.9
++ 0    1.0
++ 51500p 1.0
 + 51510p 0
 + 51980p 0
-+ 51990p 0.9
++ 51990p 1.0
 + \]
 V_wl_103 (WordLine_bar\\<103\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 52000p 0.9
++ 0    1.0
++ 52000p 1.0
 + 52010p 0
 + 52480p 0
-+ 52490p 0.9
++ 52490p 1.0
 + \]
 V_wl_104 (WordLine_bar\\<104\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 52500p 0.9
++ 0    1.0
++ 52500p 1.0
 + 52510p 0
 + 52980p 0
-+ 52990p 0.9
++ 52990p 1.0
 + \]
 V_wl_105 (WordLine_bar\\<105\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 53000p 0.9
++ 0    1.0
++ 53000p 1.0
 + 53010p 0
 + 53480p 0
-+ 53490p 0.9
++ 53490p 1.0
 + \]
 V_wl_106 (WordLine_bar\\<106\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 53500p 0.9
++ 0    1.0
++ 53500p 1.0
 + 53510p 0
 + 53980p 0
-+ 53990p 0.9
++ 53990p 1.0
 + \]
 V_wl_107 (WordLine_bar\\<107\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 54000p 0.9
++ 0    1.0
++ 54000p 1.0
 + 54010p 0
 + 54480p 0
-+ 54490p 0.9
++ 54490p 1.0
 + \]
 V_wl_108 (WordLine_bar\\<108\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 54500p 0.9
++ 0    1.0
++ 54500p 1.0
 + 54510p 0
 + 54980p 0
-+ 54990p 0.9
++ 54990p 1.0
 + \]
 V_wl_109 (WordLine_bar\\<109\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 55000p 0.9
++ 0    1.0
++ 55000p 1.0
 + 55010p 0
 + 55480p 0
-+ 55490p 0.9
++ 55490p 1.0
 + \]
 V_wl_110 (WordLine_bar\\<110\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 55500p 0.9
++ 0    1.0
++ 55500p 1.0
 + 55510p 0
 + 55980p 0
-+ 55990p 0.9
++ 55990p 1.0
 + \]
 V_wl_111 (WordLine_bar\\<111\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 56000p 0.9
++ 0    1.0
++ 56000p 1.0
 + 56010p 0
 + 56480p 0
-+ 56490p 0.9
++ 56490p 1.0
 + \]
 V_wl_112 (WordLine_bar\\<112\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 56500p 0.9
++ 0    1.0
++ 56500p 1.0
 + 56510p 0
 + 56980p 0
-+ 56990p 0.9
++ 56990p 1.0
 + \]
 V_wl_113 (WordLine_bar\\<113\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 57000p 0.9
++ 0    1.0
++ 57000p 1.0
 + 57010p 0
 + 57480p 0
-+ 57490p 0.9
++ 57490p 1.0
 + \]
 V_wl_114 (WordLine_bar\\<114\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 57500p 0.9
++ 0    1.0
++ 57500p 1.0
 + 57510p 0
 + 57980p 0
-+ 57990p 0.9
++ 57990p 1.0
 + \]
 V_wl_115 (WordLine_bar\\<115\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 58000p 0.9
++ 0    1.0
++ 58000p 1.0
 + 58010p 0
 + 58480p 0
-+ 58490p 0.9
++ 58490p 1.0
 + \]
 V_wl_116 (WordLine_bar\\<116\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 58500p 0.9
++ 0    1.0
++ 58500p 1.0
 + 58510p 0
 + 58980p 0
-+ 58990p 0.9
++ 58990p 1.0
 + \]
 V_wl_117 (WordLine_bar\\<117\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 59000p 0.9
++ 0    1.0
++ 59000p 1.0
 + 59010p 0
 + 59480p 0
-+ 59490p 0.9
++ 59490p 1.0
 + \]
 V_wl_118 (WordLine_bar\\<118\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 59500p 0.9
++ 0    1.0
++ 59500p 1.0
 + 59510p 0
 + 59980p 0
-+ 59990p 0.9
++ 59990p 1.0
 + \]
 V_wl_119 (WordLine_bar\\<119\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 60000p 0.9
++ 0    1.0
++ 60000p 1.0
 + 60010p 0
 + 60480p 0
-+ 60490p 0.9
++ 60490p 1.0
 + \]
 V_wl_120 (WordLine_bar\\<120\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 60500p 0.9
++ 0    1.0
++ 60500p 1.0
 + 60510p 0
 + 60980p 0
-+ 60990p 0.9
++ 60990p 1.0
 + \]
 V_wl_121 (WordLine_bar\\<121\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 61000p 0.9
++ 0    1.0
++ 61000p 1.0
 + 61010p 0
 + 61480p 0
-+ 61490p 0.9
++ 61490p 1.0
 + \]
 V_wl_122 (WordLine_bar\\<122\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 61500p 0.9
++ 0    1.0
++ 61500p 1.0
 + 61510p 0
 + 61980p 0
-+ 61990p 0.9
++ 61990p 1.0
 + \]
 V_wl_123 (WordLine_bar\\<123\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 62000p 0.9
++ 0    1.0
++ 62000p 1.0
 + 62010p 0
 + 62480p 0
-+ 62490p 0.9
++ 62490p 1.0
 + \]
 V_wl_124 (WordLine_bar\\<124\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 62500p 0.9
++ 0    1.0
++ 62500p 1.0
 + 62510p 0
 + 62980p 0
-+ 62990p 0.9
++ 62990p 1.0
 + \]
 V_wl_125 (WordLine_bar\\<125\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 63000p 0.9
++ 0    1.0
++ 63000p 1.0
 + 63010p 0
 + 63480p 0
-+ 63490p 0.9
++ 63490p 1.0
 + \]
 V_wl_126 (WordLine_bar\\<126\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 63500p 0.9
++ 0    1.0
++ 63500p 1.0
 + 63510p 0
 + 63980p 0
-+ 63990p 0.9
++ 63990p 1.0
 + \]
 V_wl_127 (WordLine_bar\\<127\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 64000p 0.9
++ 0    1.0
++ 64000p 1.0
 + 64010p 0
 + 64480p 0
-+ 64490p 0.9
++ 64490p 1.0
 + \]
 V_wl_128 (WordLine_bar\\<128\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 64500p 0.9
++ 0    1.0
++ 64500p 1.0
 + 64510p 0
 + 64980p 0
-+ 64990p 0.9
++ 64990p 1.0
 + \]
 V_wl_129 (WordLine_bar\\<129\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 65000p 0.9
++ 0    1.0
++ 65000p 1.0
 + 65010p 0
 + 65480p 0
-+ 65490p 0.9
++ 65490p 1.0
 + \]
 V_wl_130 (WordLine_bar\\<130\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 65500p 0.9
++ 0    1.0
++ 65500p 1.0
 + 65510p 0
 + 65980p 0
-+ 65990p 0.9
++ 65990p 1.0
 + \]
 V_wl_131 (WordLine_bar\\<131\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 66000p 0.9
++ 0    1.0
++ 66000p 1.0
 + 66010p 0
 + 66480p 0
-+ 66490p 0.9
++ 66490p 1.0
 + \]
 V_wl_132 (WordLine_bar\\<132\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 66500p 0.9
++ 0    1.0
++ 66500p 1.0
 + 66510p 0
 + 66980p 0
-+ 66990p 0.9
++ 66990p 1.0
 + \]
 V_wl_133 (WordLine_bar\\<133\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 67000p 0.9
++ 0    1.0
++ 67000p 1.0
 + 67010p 0
 + 67480p 0
-+ 67490p 0.9
++ 67490p 1.0
 + \]
 V_wl_134 (WordLine_bar\\<134\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 67500p 0.9
++ 0    1.0
++ 67500p 1.0
 + 67510p 0
 + 67980p 0
-+ 67990p 0.9
++ 67990p 1.0
 + \]
 V_wl_135 (WordLine_bar\\<135\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 68000p 0.9
++ 0    1.0
++ 68000p 1.0
 + 68010p 0
 + 68480p 0
-+ 68490p 0.9
++ 68490p 1.0
 + \]
 V_wl_136 (WordLine_bar\\<136\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 68500p 0.9
++ 0    1.0
++ 68500p 1.0
 + 68510p 0
 + 68980p 0
-+ 68990p 0.9
++ 68990p 1.0
 + \]
 V_wl_137 (WordLine_bar\\<137\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 69000p 0.9
++ 0    1.0
++ 69000p 1.0
 + 69010p 0
 + 69480p 0
-+ 69490p 0.9
++ 69490p 1.0
 + \]
 V_wl_138 (WordLine_bar\\<138\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 69500p 0.9
++ 0    1.0
++ 69500p 1.0
 + 69510p 0
 + 69980p 0
-+ 69990p 0.9
++ 69990p 1.0
 + \]
 V_wl_139 (WordLine_bar\\<139\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 70000p 0.9
++ 0    1.0
++ 70000p 1.0
 + 70010p 0
 + 70480p 0
-+ 70490p 0.9
++ 70490p 1.0
 + \]
 V_wl_140 (WordLine_bar\\<140\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 70500p 0.9
++ 0    1.0
++ 70500p 1.0
 + 70510p 0
 + 70980p 0
-+ 70990p 0.9
++ 70990p 1.0
 + \]
 V_wl_141 (WordLine_bar\\<141\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 71000p 0.9
++ 0    1.0
++ 71000p 1.0
 + 71010p 0
 + 71480p 0
-+ 71490p 0.9
++ 71490p 1.0
 + \]
 V_wl_142 (WordLine_bar\\<142\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 71500p 0.9
++ 0    1.0
++ 71500p 1.0
 + 71510p 0
 + 71980p 0
-+ 71990p 0.9
++ 71990p 1.0
 + \]
 V_wl_143 (WordLine_bar\\<143\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 72000p 0.9
++ 0    1.0
++ 72000p 1.0
 + 72010p 0
 + 72480p 0
-+ 72490p 0.9
++ 72490p 1.0
 + \]
 V_wl_144 (WordLine_bar\\<144\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 72500p 0.9
++ 0    1.0
++ 72500p 1.0
 + 72510p 0
 + 72980p 0
-+ 72990p 0.9
++ 72990p 1.0
 + \]
 V_wl_145 (WordLine_bar\\<145\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 73000p 0.9
++ 0    1.0
++ 73000p 1.0
 + 73010p 0
 + 73480p 0
-+ 73490p 0.9
++ 73490p 1.0
 + \]
 V_wl_146 (WordLine_bar\\<146\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 73500p 0.9
++ 0    1.0
++ 73500p 1.0
 + 73510p 0
 + 73980p 0
-+ 73990p 0.9
++ 73990p 1.0
 + \]
 V_wl_147 (WordLine_bar\\<147\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 74000p 0.9
++ 0    1.0
++ 74000p 1.0
 + 74010p 0
 + 74480p 0
-+ 74490p 0.9
++ 74490p 1.0
 + \]
 V_wl_148 (WordLine_bar\\<148\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 74500p 0.9
++ 0    1.0
++ 74500p 1.0
 + 74510p 0
 + 74980p 0
-+ 74990p 0.9
++ 74990p 1.0
 + \]
 V_wl_149 (WordLine_bar\\<149\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 75000p 0.9
++ 0    1.0
++ 75000p 1.0
 + 75010p 0
 + 75480p 0
-+ 75490p 0.9
++ 75490p 1.0
 + \]
 V_wl_150 (WordLine_bar\\<150\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 75500p 0.9
++ 0    1.0
++ 75500p 1.0
 + 75510p 0
 + 75980p 0
-+ 75990p 0.9
++ 75990p 1.0
 + \]
 V_wl_151 (WordLine_bar\\<151\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 76000p 0.9
++ 0    1.0
++ 76000p 1.0
 + 76010p 0
 + 76480p 0
-+ 76490p 0.9
++ 76490p 1.0
 + \]
 V_wl_152 (WordLine_bar\\<152\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 76500p 0.9
++ 0    1.0
++ 76500p 1.0
 + 76510p 0
 + 76980p 0
-+ 76990p 0.9
++ 76990p 1.0
 + \]
 V_wl_153 (WordLine_bar\\<153\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 77000p 0.9
++ 0    1.0
++ 77000p 1.0
 + 77010p 0
 + 77480p 0
-+ 77490p 0.9
++ 77490p 1.0
 + \]
 V_wl_154 (WordLine_bar\\<154\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 77500p 0.9
++ 0    1.0
++ 77500p 1.0
 + 77510p 0
 + 77980p 0
-+ 77990p 0.9
++ 77990p 1.0
 + \]
 V_wl_155 (WordLine_bar\\<155\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 78000p 0.9
++ 0    1.0
++ 78000p 1.0
 + 78010p 0
 + 78480p 0
-+ 78490p 0.9
++ 78490p 1.0
 + \]
 V_wl_156 (WordLine_bar\\<156\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 78500p 0.9
++ 0    1.0
++ 78500p 1.0
 + 78510p 0
 + 78980p 0
-+ 78990p 0.9
++ 78990p 1.0
 + \]
 V_wl_157 (WordLine_bar\\<157\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 79000p 0.9
++ 0    1.0
++ 79000p 1.0
 + 79010p 0
 + 79480p 0
-+ 79490p 0.9
++ 79490p 1.0
 + \]
 V_wl_158 (WordLine_bar\\<158\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 79500p 0.9
++ 0    1.0
++ 79500p 1.0
 + 79510p 0
 + 79980p 0
-+ 79990p 0.9
++ 79990p 1.0
 + \]
 V_wl_159 (WordLine_bar\\<159\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 80000p 0.9
++ 0    1.0
++ 80000p 1.0
 + 80010p 0
 + 80480p 0
-+ 80490p 0.9
++ 80490p 1.0
 + \]
 V_wl_160 (WordLine_bar\\<160\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 80500p 0.9
++ 0    1.0
++ 80500p 1.0
 + 80510p 0
 + 80980p 0
-+ 80990p 0.9
++ 80990p 1.0
 + \]
 V_wl_161 (WordLine_bar\\<161\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 81000p 0.9
++ 0    1.0
++ 81000p 1.0
 + 81010p 0
 + 81480p 0
-+ 81490p 0.9
++ 81490p 1.0
 + \]
 V_wl_162 (WordLine_bar\\<162\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 81500p 0.9
++ 0    1.0
++ 81500p 1.0
 + 81510p 0
 + 81980p 0
-+ 81990p 0.9
++ 81990p 1.0
 + \]
 V_wl_163 (WordLine_bar\\<163\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 82000p 0.9
++ 0    1.0
++ 82000p 1.0
 + 82010p 0
 + 82480p 0
-+ 82490p 0.9
++ 82490p 1.0
 + \]
 V_wl_164 (WordLine_bar\\<164\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 82500p 0.9
++ 0    1.0
++ 82500p 1.0
 + 82510p 0
 + 82980p 0
-+ 82990p 0.9
++ 82990p 1.0
 + \]
 V_wl_165 (WordLine_bar\\<165\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 83000p 0.9
++ 0    1.0
++ 83000p 1.0
 + 83010p 0
 + 83480p 0
-+ 83490p 0.9
++ 83490p 1.0
 + \]
 V_wl_166 (WordLine_bar\\<166\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 83500p 0.9
++ 0    1.0
++ 83500p 1.0
 + 83510p 0
 + 83980p 0
-+ 83990p 0.9
++ 83990p 1.0
 + \]
 V_wl_167 (WordLine_bar\\<167\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 84000p 0.9
++ 0    1.0
++ 84000p 1.0
 + 84010p 0
 + 84480p 0
-+ 84490p 0.9
++ 84490p 1.0
 + \]
 V_wl_168 (WordLine_bar\\<168\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 84500p 0.9
++ 0    1.0
++ 84500p 1.0
 + 84510p 0
 + 84980p 0
-+ 84990p 0.9
++ 84990p 1.0
 + \]
 V_wl_169 (WordLine_bar\\<169\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 85000p 0.9
++ 0    1.0
++ 85000p 1.0
 + 85010p 0
 + 85480p 0
-+ 85490p 0.9
++ 85490p 1.0
 + \]
 V_wl_170 (WordLine_bar\\<170\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 85500p 0.9
++ 0    1.0
++ 85500p 1.0
 + 85510p 0
 + 85980p 0
-+ 85990p 0.9
++ 85990p 1.0
 + \]
 V_wl_171 (WordLine_bar\\<171\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 86000p 0.9
++ 0    1.0
++ 86000p 1.0
 + 86010p 0
 + 86480p 0
-+ 86490p 0.9
++ 86490p 1.0
 + \]
 V_wl_172 (WordLine_bar\\<172\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 86500p 0.9
++ 0    1.0
++ 86500p 1.0
 + 86510p 0
 + 86980p 0
-+ 86990p 0.9
++ 86990p 1.0
 + \]
 V_wl_173 (WordLine_bar\\<173\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 87000p 0.9
++ 0    1.0
++ 87000p 1.0
 + 87010p 0
 + 87480p 0
-+ 87490p 0.9
++ 87490p 1.0
 + \]
 V_wl_174 (WordLine_bar\\<174\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 87500p 0.9
++ 0    1.0
++ 87500p 1.0
 + 87510p 0
 + 87980p 0
-+ 87990p 0.9
++ 87990p 1.0
 + \]
 V_wl_175 (WordLine_bar\\<175\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 88000p 0.9
++ 0    1.0
++ 88000p 1.0
 + 88010p 0
 + 88480p 0
-+ 88490p 0.9
++ 88490p 1.0
 + \]
 V_wl_176 (WordLine_bar\\<176\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 88500p 0.9
++ 0    1.0
++ 88500p 1.0
 + 88510p 0
 + 88980p 0
-+ 88990p 0.9
++ 88990p 1.0
 + \]
 V_wl_177 (WordLine_bar\\<177\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 89000p 0.9
++ 0    1.0
++ 89000p 1.0
 + 89010p 0
 + 89480p 0
-+ 89490p 0.9
++ 89490p 1.0
 + \]
 V_wl_178 (WordLine_bar\\<178\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 89500p 0.9
++ 0    1.0
++ 89500p 1.0
 + 89510p 0
 + 89980p 0
-+ 89990p 0.9
++ 89990p 1.0
 + \]
 V_wl_179 (WordLine_bar\\<179\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 90000p 0.9
++ 0    1.0
++ 90000p 1.0
 + 90010p 0
 + 90480p 0
-+ 90490p 0.9
++ 90490p 1.0
 + \]
 V_wl_180 (WordLine_bar\\<180\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 90500p 0.9
++ 0    1.0
++ 90500p 1.0
 + 90510p 0
 + 90980p 0
-+ 90990p 0.9
++ 90990p 1.0
 + \]
 V_wl_181 (WordLine_bar\\<181\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 91000p 0.9
++ 0    1.0
++ 91000p 1.0
 + 91010p 0
 + 91480p 0
-+ 91490p 0.9
++ 91490p 1.0
 + \]
 V_wl_182 (WordLine_bar\\<182\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 91500p 0.9
++ 0    1.0
++ 91500p 1.0
 + 91510p 0
 + 91980p 0
-+ 91990p 0.9
++ 91990p 1.0
 + \]
 V_wl_183 (WordLine_bar\\<183\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 92000p 0.9
++ 0    1.0
++ 92000p 1.0
 + 92010p 0
 + 92480p 0
-+ 92490p 0.9
++ 92490p 1.0
 + \]
 V_wl_184 (WordLine_bar\\<184\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 92500p 0.9
++ 0    1.0
++ 92500p 1.0
 + 92510p 0
 + 92980p 0
-+ 92990p 0.9
++ 92990p 1.0
 + \]
 V_wl_185 (WordLine_bar\\<185\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 93000p 0.9
++ 0    1.0
++ 93000p 1.0
 + 93010p 0
 + 93480p 0
-+ 93490p 0.9
++ 93490p 1.0
 + \]
 V_wl_186 (WordLine_bar\\<186\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 93500p 0.9
++ 0    1.0
++ 93500p 1.0
 + 93510p 0
 + 93980p 0
-+ 93990p 0.9
++ 93990p 1.0
 + \]
 V_wl_187 (WordLine_bar\\<187\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 94000p 0.9
++ 0    1.0
++ 94000p 1.0
 + 94010p 0
 + 94480p 0
-+ 94490p 0.9
++ 94490p 1.0
 + \]
 V_wl_188 (WordLine_bar\\<188\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 94500p 0.9
++ 0    1.0
++ 94500p 1.0
 + 94510p 0
 + 94980p 0
-+ 94990p 0.9
++ 94990p 1.0
 + \]
 V_wl_189 (WordLine_bar\\<189\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 95000p 0.9
++ 0    1.0
++ 95000p 1.0
 + 95010p 0
 + 95480p 0
-+ 95490p 0.9
++ 95490p 1.0
 + \]
 V_wl_190 (WordLine_bar\\<190\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 95500p 0.9
++ 0    1.0
++ 95500p 1.0
 + 95510p 0
 + 95980p 0
-+ 95990p 0.9
++ 95990p 1.0
 + \]
 V_wl_191 (WordLine_bar\\<191\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 96000p 0.9
++ 0    1.0
++ 96000p 1.0
 + 96010p 0
 + 96480p 0
-+ 96490p 0.9
++ 96490p 1.0
 + \]
 V_wl_192 (WordLine_bar\\<192\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 96500p 0.9
++ 0    1.0
++ 96500p 1.0
 + 96510p 0
 + 96980p 0
-+ 96990p 0.9
++ 96990p 1.0
 + \]
 V_wl_193 (WordLine_bar\\<193\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 97000p 0.9
++ 0    1.0
++ 97000p 1.0
 + 97010p 0
 + 97480p 0
-+ 97490p 0.9
++ 97490p 1.0
 + \]
 V_wl_194 (WordLine_bar\\<194\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 97500p 0.9
++ 0    1.0
++ 97500p 1.0
 + 97510p 0
 + 97980p 0
-+ 97990p 0.9
++ 97990p 1.0
 + \]
 V_wl_195 (WordLine_bar\\<195\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 98000p 0.9
++ 0    1.0
++ 98000p 1.0
 + 98010p 0
 + 98480p 0
-+ 98490p 0.9
++ 98490p 1.0
 + \]
 V_wl_196 (WordLine_bar\\<196\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 98500p 0.9
++ 0    1.0
++ 98500p 1.0
 + 98510p 0
 + 98980p 0
-+ 98990p 0.9
++ 98990p 1.0
 + \]
 V_wl_197 (WordLine_bar\\<197\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 99000p 0.9
++ 0    1.0
++ 99000p 1.0
 + 99010p 0
 + 99480p 0
-+ 99490p 0.9
++ 99490p 1.0
 + \]
 V_wl_198 (WordLine_bar\\<198\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 99500p 0.9
++ 0    1.0
++ 99500p 1.0
 + 99510p 0
 + 99980p 0
-+ 99990p 0.9
++ 99990p 1.0
 + \]
 V_wl_199 (WordLine_bar\\<199\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 100000p 0.9
++ 0    1.0
++ 100000p 1.0
 + 100010p 0
 + 100480p 0
-+ 100490p 0.9
++ 100490p 1.0
 + \]
 V_wl_200 (WordLine_bar\\<200\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 100500p 0.9
++ 0    1.0
++ 100500p 1.0
 + 100510p 0
 + 100980p 0
-+ 100990p 0.9
++ 100990p 1.0
 + \]
 V_wl_201 (WordLine_bar\\<201\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 101000p 0.9
++ 0    1.0
++ 101000p 1.0
 + 101010p 0
 + 101480p 0
-+ 101490p 0.9
++ 101490p 1.0
 + \]
 V_wl_202 (WordLine_bar\\<202\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 101500p 0.9
++ 0    1.0
++ 101500p 1.0
 + 101510p 0
 + 101980p 0
-+ 101990p 0.9
++ 101990p 1.0
 + \]
 V_wl_203 (WordLine_bar\\<203\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 102000p 0.9
++ 0    1.0
++ 102000p 1.0
 + 102010p 0
 + 102480p 0
-+ 102490p 0.9
++ 102490p 1.0
 + \]
 V_wl_204 (WordLine_bar\\<204\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 102500p 0.9
++ 0    1.0
++ 102500p 1.0
 + 102510p 0
 + 102980p 0
-+ 102990p 0.9
++ 102990p 1.0
 + \]
 V_wl_205 (WordLine_bar\\<205\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 103000p 0.9
++ 0    1.0
++ 103000p 1.0
 + 103010p 0
 + 103480p 0
-+ 103490p 0.9
++ 103490p 1.0
 + \]
 V_wl_206 (WordLine_bar\\<206\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 103500p 0.9
++ 0    1.0
++ 103500p 1.0
 + 103510p 0
 + 103980p 0
-+ 103990p 0.9
++ 103990p 1.0
 + \]
 V_wl_207 (WordLine_bar\\<207\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 104000p 0.9
++ 0    1.0
++ 104000p 1.0
 + 104010p 0
 + 104480p 0
-+ 104490p 0.9
++ 104490p 1.0
 + \]
 V_wl_208 (WordLine_bar\\<208\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 104500p 0.9
++ 0    1.0
++ 104500p 1.0
 + 104510p 0
 + 104980p 0
-+ 104990p 0.9
++ 104990p 1.0
 + \]
 V_wl_209 (WordLine_bar\\<209\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 105000p 0.9
++ 0    1.0
++ 105000p 1.0
 + 105010p 0
 + 105480p 0
-+ 105490p 0.9
++ 105490p 1.0
 + \]
 V_wl_210 (WordLine_bar\\<210\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 105500p 0.9
++ 0    1.0
++ 105500p 1.0
 + 105510p 0
 + 105980p 0
-+ 105990p 0.9
++ 105990p 1.0
 + \]
 V_wl_211 (WordLine_bar\\<211\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 106000p 0.9
++ 0    1.0
++ 106000p 1.0
 + 106010p 0
 + 106480p 0
-+ 106490p 0.9
++ 106490p 1.0
 + \]
 V_wl_212 (WordLine_bar\\<212\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 106500p 0.9
++ 0    1.0
++ 106500p 1.0
 + 106510p 0
 + 106980p 0
-+ 106990p 0.9
++ 106990p 1.0
 + \]
 V_wl_213 (WordLine_bar\\<213\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 107000p 0.9
++ 0    1.0
++ 107000p 1.0
 + 107010p 0
 + 107480p 0
-+ 107490p 0.9
++ 107490p 1.0
 + \]
 V_wl_214 (WordLine_bar\\<214\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 107500p 0.9
++ 0    1.0
++ 107500p 1.0
 + 107510p 0
 + 107980p 0
-+ 107990p 0.9
++ 107990p 1.0
 + \]
 V_wl_215 (WordLine_bar\\<215\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 108000p 0.9
++ 0    1.0
++ 108000p 1.0
 + 108010p 0
 + 108480p 0
-+ 108490p 0.9
++ 108490p 1.0
 + \]
 V_wl_216 (WordLine_bar\\<216\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 108500p 0.9
++ 0    1.0
++ 108500p 1.0
 + 108510p 0
 + 108980p 0
-+ 108990p 0.9
++ 108990p 1.0
 + \]
 V_wl_217 (WordLine_bar\\<217\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 109000p 0.9
++ 0    1.0
++ 109000p 1.0
 + 109010p 0
 + 109480p 0
-+ 109490p 0.9
++ 109490p 1.0
 + \]
 V_wl_218 (WordLine_bar\\<218\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 109500p 0.9
++ 0    1.0
++ 109500p 1.0
 + 109510p 0
 + 109980p 0
-+ 109990p 0.9
++ 109990p 1.0
 + \]
 V_wl_219 (WordLine_bar\\<219\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 110000p 0.9
++ 0    1.0
++ 110000p 1.0
 + 110010p 0
 + 110480p 0
-+ 110490p 0.9
++ 110490p 1.0
 + \]
 V_wl_220 (WordLine_bar\\<220\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 110500p 0.9
++ 0    1.0
++ 110500p 1.0
 + 110510p 0
 + 110980p 0
-+ 110990p 0.9
++ 110990p 1.0
 + \]
 V_wl_221 (WordLine_bar\\<221\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 111000p 0.9
++ 0    1.0
++ 111000p 1.0
 + 111010p 0
 + 111480p 0
-+ 111490p 0.9
++ 111490p 1.0
 + \]
 V_wl_222 (WordLine_bar\\<222\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 111500p 0.9
++ 0    1.0
++ 111500p 1.0
 + 111510p 0
 + 111980p 0
-+ 111990p 0.9
++ 111990p 1.0
 + \]
 V_wl_223 (WordLine_bar\\<223\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 112000p 0.9
++ 0    1.0
++ 112000p 1.0
 + 112010p 0
 + 112480p 0
-+ 112490p 0.9
++ 112490p 1.0
 + \]
 V_wl_224 (WordLine_bar\\<224\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 112500p 0.9
++ 0    1.0
++ 112500p 1.0
 + 112510p 0
 + 112980p 0
-+ 112990p 0.9
++ 112990p 1.0
 + \]
 V_wl_225 (WordLine_bar\\<225\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 113000p 0.9
++ 0    1.0
++ 113000p 1.0
 + 113010p 0
 + 113480p 0
-+ 113490p 0.9
++ 113490p 1.0
 + \]
 V_wl_226 (WordLine_bar\\<226\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 113500p 0.9
++ 0    1.0
++ 113500p 1.0
 + 113510p 0
 + 113980p 0
-+ 113990p 0.9
++ 113990p 1.0
 + \]
 V_wl_227 (WordLine_bar\\<227\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 114000p 0.9
++ 0    1.0
++ 114000p 1.0
 + 114010p 0
 + 114480p 0
-+ 114490p 0.9
++ 114490p 1.0
 + \]
 V_wl_228 (WordLine_bar\\<228\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 114500p 0.9
++ 0    1.0
++ 114500p 1.0
 + 114510p 0
 + 114980p 0
-+ 114990p 0.9
++ 114990p 1.0
 + \]
 V_wl_229 (WordLine_bar\\<229\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 115000p 0.9
++ 0    1.0
++ 115000p 1.0
 + 115010p 0
 + 115480p 0
-+ 115490p 0.9
++ 115490p 1.0
 + \]
 V_wl_230 (WordLine_bar\\<230\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 115500p 0.9
++ 0    1.0
++ 115500p 1.0
 + 115510p 0
 + 115980p 0
-+ 115990p 0.9
++ 115990p 1.0
 + \]
 V_wl_231 (WordLine_bar\\<231\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 116000p 0.9
++ 0    1.0
++ 116000p 1.0
 + 116010p 0
 + 116480p 0
-+ 116490p 0.9
++ 116490p 1.0
 + \]
 V_wl_232 (WordLine_bar\\<232\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 116500p 0.9
++ 0    1.0
++ 116500p 1.0
 + 116510p 0
 + 116980p 0
-+ 116990p 0.9
++ 116990p 1.0
 + \]
 V_wl_233 (WordLine_bar\\<233\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 117000p 0.9
++ 0    1.0
++ 117000p 1.0
 + 117010p 0
 + 117480p 0
-+ 117490p 0.9
++ 117490p 1.0
 + \]
 V_wl_234 (WordLine_bar\\<234\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 117500p 0.9
++ 0    1.0
++ 117500p 1.0
 + 117510p 0
 + 117980p 0
-+ 117990p 0.9
++ 117990p 1.0
 + \]
 V_wl_235 (WordLine_bar\\<235\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 118000p 0.9
++ 0    1.0
++ 118000p 1.0
 + 118010p 0
 + 118480p 0
-+ 118490p 0.9
++ 118490p 1.0
 + \]
 V_wl_236 (WordLine_bar\\<236\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 118500p 0.9
++ 0    1.0
++ 118500p 1.0
 + 118510p 0
 + 118980p 0
-+ 118990p 0.9
++ 118990p 1.0
 + \]
 V_wl_237 (WordLine_bar\\<237\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 119000p 0.9
++ 0    1.0
++ 119000p 1.0
 + 119010p 0
 + 119480p 0
-+ 119490p 0.9
++ 119490p 1.0
 + \]
 V_wl_238 (WordLine_bar\\<238\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 119500p 0.9
++ 0    1.0
++ 119500p 1.0
 + 119510p 0
 + 119980p 0
-+ 119990p 0.9
++ 119990p 1.0
 + \]
 V_wl_239 (WordLine_bar\\<239\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 120000p 0.9
++ 0    1.0
++ 120000p 1.0
 + 120010p 0
 + 120480p 0
-+ 120490p 0.9
++ 120490p 1.0
 + \]
 V_wl_240 (WordLine_bar\\<240\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 120500p 0.9
++ 0    1.0
++ 120500p 1.0
 + 120510p 0
 + 120980p 0
-+ 120990p 0.9
++ 120990p 1.0
 + \]
 V_wl_241 (WordLine_bar\\<241\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 121000p 0.9
++ 0    1.0
++ 121000p 1.0
 + 121010p 0
 + 121480p 0
-+ 121490p 0.9
++ 121490p 1.0
 + \]
 V_wl_242 (WordLine_bar\\<242\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 121500p 0.9
++ 0    1.0
++ 121500p 1.0
 + 121510p 0
 + 121980p 0
-+ 121990p 0.9
++ 121990p 1.0
 + \]
 V_wl_243 (WordLine_bar\\<243\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 122000p 0.9
++ 0    1.0
++ 122000p 1.0
 + 122010p 0
 + 122480p 0
-+ 122490p 0.9
++ 122490p 1.0
 + \]
 V_wl_244 (WordLine_bar\\<244\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 122500p 0.9
++ 0    1.0
++ 122500p 1.0
 + 122510p 0
 + 122980p 0
-+ 122990p 0.9
++ 122990p 1.0
 + \]
 V_wl_245 (WordLine_bar\\<245\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 123000p 0.9
++ 0    1.0
++ 123000p 1.0
 + 123010p 0
 + 123480p 0
-+ 123490p 0.9
++ 123490p 1.0
 + \]
 V_wl_246 (WordLine_bar\\<246\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 123500p 0.9
++ 0    1.0
++ 123500p 1.0
 + 123510p 0
 + 123980p 0
-+ 123990p 0.9
++ 123990p 1.0
 + \]
 V_wl_247 (WordLine_bar\\<247\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 124000p 0.9
++ 0    1.0
++ 124000p 1.0
 + 124010p 0
 + 124480p 0
-+ 124490p 0.9
++ 124490p 1.0
 + \]
 V_wl_248 (WordLine_bar\\<248\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 124500p 0.9
++ 0    1.0
++ 124500p 1.0
 + 124510p 0
 + 124980p 0
-+ 124990p 0.9
++ 124990p 1.0
 + \]
 V_wl_249 (WordLine_bar\\<249\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 125000p 0.9
++ 0    1.0
++ 125000p 1.0
 + 125010p 0
 + 125480p 0
-+ 125490p 0.9
++ 125490p 1.0
 + \]
 V_wl_250 (WordLine_bar\\<250\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 125500p 0.9
++ 0    1.0
++ 125500p 1.0
 + 125510p 0
 + 125980p 0
-+ 125990p 0.9
++ 125990p 1.0
 + \]
 V_wl_251 (WordLine_bar\\<251\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 126000p 0.9
++ 0    1.0
++ 126000p 1.0
 + 126010p 0
 + 126480p 0
-+ 126490p 0.9
++ 126490p 1.0
 + \]
 V_wl_252 (WordLine_bar\\<252\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 126500p 0.9
++ 0    1.0
++ 126500p 1.0
 + 126510p 0
 + 126980p 0
-+ 126990p 0.9
++ 126990p 1.0
 + \]
 V_wl_253 (WordLine_bar\\<253\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 127000p 0.9
++ 0    1.0
++ 127000p 1.0
 + 127010p 0
 + 127480p 0
-+ 127490p 0.9
++ 127490p 1.0
 + \]
 V_wl_254 (WordLine_bar\\<254\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 127500p 0.9
++ 0    1.0
++ 127500p 1.0
 + 127510p 0
 + 127980p 0
-+ 127990p 0.9
++ 127990p 1.0
 + \]
 V_wl_255 (WordLine_bar\\<255\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 128000p 0.9
++ 0    1.0
++ 128000p 1.0
 + 128010p 0
 + 128480p 0
-+ 128490p 0.9
++ 128490p 1.0
 + \]
 V_wl_256 (WordLine_bar\\<256\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 128500p 0.9
++ 0    1.0
++ 128500p 1.0
 + 128510p 0
 + 128980p 0
-+ 128990p 0.9
++ 128990p 1.0
 + \]
 V_wl_257 (WordLine_bar\\<257\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 129000p 0.9
++ 0    1.0
++ 129000p 1.0
 + 129010p 0
 + 129480p 0
-+ 129490p 0.9
++ 129490p 1.0
 + \]
 V_wl_258 (WordLine_bar\\<258\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 129500p 0.9
++ 0    1.0
++ 129500p 1.0
 + 129510p 0
 + 129980p 0
-+ 129990p 0.9
++ 129990p 1.0
 + \]
 V_wl_259 (WordLine_bar\\<259\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 130000p 0.9
++ 0    1.0
++ 130000p 1.0
 + 130010p 0
 + 130480p 0
-+ 130490p 0.9
++ 130490p 1.0
 + \]
 V_wl_260 (WordLine_bar\\<260\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 130500p 0.9
++ 0    1.0
++ 130500p 1.0
 + 130510p 0
 + 130980p 0
-+ 130990p 0.9
++ 130990p 1.0
 + \]
 V_wl_261 (WordLine_bar\\<261\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 131000p 0.9
++ 0    1.0
++ 131000p 1.0
 + 131010p 0
 + 131480p 0
-+ 131490p 0.9
++ 131490p 1.0
 + \]
 V_wl_262 (WordLine_bar\\<262\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 131500p 0.9
++ 0    1.0
++ 131500p 1.0
 + 131510p 0
 + 131980p 0
-+ 131990p 0.9
++ 131990p 1.0
 + \]
 V_wl_263 (WordLine_bar\\<263\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 132000p 0.9
++ 0    1.0
++ 132000p 1.0
 + 132010p 0
 + 132480p 0
-+ 132490p 0.9
++ 132490p 1.0
 + \]
 V_wl_264 (WordLine_bar\\<264\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 132500p 0.9
++ 0    1.0
++ 132500p 1.0
 + 132510p 0
 + 132980p 0
-+ 132990p 0.9
++ 132990p 1.0
 + \]
 V_wl_265 (WordLine_bar\\<265\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 133000p 0.9
++ 0    1.0
++ 133000p 1.0
 + 133010p 0
 + 133480p 0
-+ 133490p 0.9
++ 133490p 1.0
 + \]
 V_wl_266 (WordLine_bar\\<266\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 133500p 0.9
++ 0    1.0
++ 133500p 1.0
 + 133510p 0
 + 133980p 0
-+ 133990p 0.9
++ 133990p 1.0
 + \]
 V_wl_267 (WordLine_bar\\<267\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 134000p 0.9
++ 0    1.0
++ 134000p 1.0
 + 134010p 0
 + 134480p 0
-+ 134490p 0.9
++ 134490p 1.0
 + \]
 V_wl_268 (WordLine_bar\\<268\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 134500p 0.9
++ 0    1.0
++ 134500p 1.0
 + 134510p 0
 + 134980p 0
-+ 134990p 0.9
++ 134990p 1.0
 + \]
 V_wl_269 (WordLine_bar\\<269\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 135000p 0.9
++ 0    1.0
++ 135000p 1.0
 + 135010p 0
 + 135480p 0
-+ 135490p 0.9
++ 135490p 1.0
 + \]
 V_wl_270 (WordLine_bar\\<270\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 135500p 0.9
++ 0    1.0
++ 135500p 1.0
 + 135510p 0
 + 135980p 0
-+ 135990p 0.9
++ 135990p 1.0
 + \]
 V_wl_271 (WordLine_bar\\<271\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 136000p 0.9
++ 0    1.0
++ 136000p 1.0
 + 136010p 0
 + 136480p 0
-+ 136490p 0.9
++ 136490p 1.0
 + \]
 V_wl_272 (WordLine_bar\\<272\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 136500p 0.9
++ 0    1.0
++ 136500p 1.0
 + 136510p 0
 + 136980p 0
-+ 136990p 0.9
++ 136990p 1.0
 + \]
 V_wl_273 (WordLine_bar\\<273\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 137000p 0.9
++ 0    1.0
++ 137000p 1.0
 + 137010p 0
 + 137480p 0
-+ 137490p 0.9
++ 137490p 1.0
 + \]
 V_wl_274 (WordLine_bar\\<274\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 137500p 0.9
++ 0    1.0
++ 137500p 1.0
 + 137510p 0
 + 137980p 0
-+ 137990p 0.9
++ 137990p 1.0
 + \]
 V_wl_275 (WordLine_bar\\<275\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 138000p 0.9
++ 0    1.0
++ 138000p 1.0
 + 138010p 0
 + 138480p 0
-+ 138490p 0.9
++ 138490p 1.0
 + \]
 V_wl_276 (WordLine_bar\\<276\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 138500p 0.9
++ 0    1.0
++ 138500p 1.0
 + 138510p 0
 + 138980p 0
-+ 138990p 0.9
++ 138990p 1.0
 + \]
 V_wl_277 (WordLine_bar\\<277\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 139000p 0.9
++ 0    1.0
++ 139000p 1.0
 + 139010p 0
 + 139480p 0
-+ 139490p 0.9
++ 139490p 1.0
 + \]
 V_wl_278 (WordLine_bar\\<278\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 139500p 0.9
++ 0    1.0
++ 139500p 1.0
 + 139510p 0
 + 139980p 0
-+ 139990p 0.9
++ 139990p 1.0
 + \]
 V_wl_279 (WordLine_bar\\<279\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 140000p 0.9
++ 0    1.0
++ 140000p 1.0
 + 140010p 0
 + 140480p 0
-+ 140490p 0.9
++ 140490p 1.0
 + \]
 V_wl_280 (WordLine_bar\\<280\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 140500p 0.9
++ 0    1.0
++ 140500p 1.0
 + 140510p 0
 + 140980p 0
-+ 140990p 0.9
++ 140990p 1.0
 + \]
 V_wl_281 (WordLine_bar\\<281\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 141000p 0.9
++ 0    1.0
++ 141000p 1.0
 + 141010p 0
 + 141480p 0
-+ 141490p 0.9
++ 141490p 1.0
 + \]
 V_wl_282 (WordLine_bar\\<282\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 141500p 0.9
++ 0    1.0
++ 141500p 1.0
 + 141510p 0
 + 141980p 0
-+ 141990p 0.9
++ 141990p 1.0
 + \]
 V_wl_283 (WordLine_bar\\<283\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 142000p 0.9
++ 0    1.0
++ 142000p 1.0
 + 142010p 0
 + 142480p 0
-+ 142490p 0.9
++ 142490p 1.0
 + \]
 V_wl_284 (WordLine_bar\\<284\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 142500p 0.9
++ 0    1.0
++ 142500p 1.0
 + 142510p 0
 + 142980p 0
-+ 142990p 0.9
++ 142990p 1.0
 + \]
 V_wl_285 (WordLine_bar\\<285\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 143000p 0.9
++ 0    1.0
++ 143000p 1.0
 + 143010p 0
 + 143480p 0
-+ 143490p 0.9
++ 143490p 1.0
 + \]
 V_wl_286 (WordLine_bar\\<286\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 143500p 0.9
++ 0    1.0
++ 143500p 1.0
 + 143510p 0
 + 143980p 0
-+ 143990p 0.9
++ 143990p 1.0
 + \]
 V_wl_287 (WordLine_bar\\<287\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 144000p 0.9
++ 0    1.0
++ 144000p 1.0
 + 144010p 0
 + 144480p 0
-+ 144490p 0.9
++ 144490p 1.0
 + \]
 V_wl_288 (WordLine_bar\\<288\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 144500p 0.9
++ 0    1.0
++ 144500p 1.0
 + 144510p 0
 + 144980p 0
-+ 144990p 0.9
++ 144990p 1.0
 + \]
 V_wl_289 (WordLine_bar\\<289\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 145000p 0.9
++ 0    1.0
++ 145000p 1.0
 + 145010p 0
 + 145480p 0
-+ 145490p 0.9
++ 145490p 1.0
 + \]
 V_wl_290 (WordLine_bar\\<290\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 145500p 0.9
++ 0    1.0
++ 145500p 1.0
 + 145510p 0
 + 145980p 0
-+ 145990p 0.9
++ 145990p 1.0
 + \]
 V_wl_291 (WordLine_bar\\<291\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 146000p 0.9
++ 0    1.0
++ 146000p 1.0
 + 146010p 0
 + 146480p 0
-+ 146490p 0.9
++ 146490p 1.0
 + \]
 V_wl_292 (WordLine_bar\\<292\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 146500p 0.9
++ 0    1.0
++ 146500p 1.0
 + 146510p 0
 + 146980p 0
-+ 146990p 0.9
++ 146990p 1.0
 + \]
 V_wl_293 (WordLine_bar\\<293\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 147000p 0.9
++ 0    1.0
++ 147000p 1.0
 + 147010p 0
 + 147480p 0
-+ 147490p 0.9
++ 147490p 1.0
 + \]
 V_wl_294 (WordLine_bar\\<294\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 147500p 0.9
++ 0    1.0
++ 147500p 1.0
 + 147510p 0
 + 147980p 0
-+ 147990p 0.9
++ 147990p 1.0
 + \]
 V_wl_295 (WordLine_bar\\<295\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 148000p 0.9
++ 0    1.0
++ 148000p 1.0
 + 148010p 0
 + 148480p 0
-+ 148490p 0.9
++ 148490p 1.0
 + \]
 V_wl_296 (WordLine_bar\\<296\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 148500p 0.9
++ 0    1.0
++ 148500p 1.0
 + 148510p 0
 + 148980p 0
-+ 148990p 0.9
++ 148990p 1.0
 + \]
 V_wl_297 (WordLine_bar\\<297\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 149000p 0.9
++ 0    1.0
++ 149000p 1.0
 + 149010p 0
 + 149480p 0
-+ 149490p 0.9
++ 149490p 1.0
 + \]
 V_wl_298 (WordLine_bar\\<298\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 149500p 0.9
++ 0    1.0
++ 149500p 1.0
 + 149510p 0
 + 149980p 0
-+ 149990p 0.9
++ 149990p 1.0
 + \]
 V_wl_299 (WordLine_bar\\<299\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 150000p 0.9
++ 0    1.0
++ 150000p 1.0
 + 150010p 0
 + 150480p 0
-+ 150490p 0.9
++ 150490p 1.0
 + \]
 V_wl_300 (WordLine_bar\\<300\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 150500p 0.9
++ 0    1.0
++ 150500p 1.0
 + 150510p 0
 + 150980p 0
-+ 150990p 0.9
++ 150990p 1.0
 + \]
 V_wl_301 (WordLine_bar\\<301\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 151000p 0.9
++ 0    1.0
++ 151000p 1.0
 + 151010p 0
 + 151480p 0
-+ 151490p 0.9
++ 151490p 1.0
 + \]
 V_wl_302 (WordLine_bar\\<302\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 151500p 0.9
++ 0    1.0
++ 151500p 1.0
 + 151510p 0
 + 151980p 0
-+ 151990p 0.9
++ 151990p 1.0
 + \]
 V_wl_303 (WordLine_bar\\<303\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 152000p 0.9
++ 0    1.0
++ 152000p 1.0
 + 152010p 0
 + 152480p 0
-+ 152490p 0.9
++ 152490p 1.0
 + \]
 V_wl_304 (WordLine_bar\\<304\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 152500p 0.9
++ 0    1.0
++ 152500p 1.0
 + 152510p 0
 + 152980p 0
-+ 152990p 0.9
++ 152990p 1.0
 + \]
 V_wl_305 (WordLine_bar\\<305\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 153000p 0.9
++ 0    1.0
++ 153000p 1.0
 + 153010p 0
 + 153480p 0
-+ 153490p 0.9
++ 153490p 1.0
 + \]
 V_wl_306 (WordLine_bar\\<306\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 153500p 0.9
++ 0    1.0
++ 153500p 1.0
 + 153510p 0
 + 153980p 0
-+ 153990p 0.9
++ 153990p 1.0
 + \]
 V_wl_307 (WordLine_bar\\<307\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 154000p 0.9
++ 0    1.0
++ 154000p 1.0
 + 154010p 0
 + 154480p 0
-+ 154490p 0.9
++ 154490p 1.0
 + \]
 V_wl_308 (WordLine_bar\\<308\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 154500p 0.9
++ 0    1.0
++ 154500p 1.0
 + 154510p 0
 + 154980p 0
-+ 154990p 0.9
++ 154990p 1.0
 + \]
 V_wl_309 (WordLine_bar\\<309\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 155000p 0.9
++ 0    1.0
++ 155000p 1.0
 + 155010p 0
 + 155480p 0
-+ 155490p 0.9
++ 155490p 1.0
 + \]
 V_wl_310 (WordLine_bar\\<310\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 155500p 0.9
++ 0    1.0
++ 155500p 1.0
 + 155510p 0
 + 155980p 0
-+ 155990p 0.9
++ 155990p 1.0
 + \]
 V_wl_311 (WordLine_bar\\<311\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 156000p 0.9
++ 0    1.0
++ 156000p 1.0
 + 156010p 0
 + 156480p 0
-+ 156490p 0.9
++ 156490p 1.0
 + \]
 V_wl_312 (WordLine_bar\\<312\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 156500p 0.9
++ 0    1.0
++ 156500p 1.0
 + 156510p 0
 + 156980p 0
-+ 156990p 0.9
++ 156990p 1.0
 + \]
 V_wl_313 (WordLine_bar\\<313\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 157000p 0.9
++ 0    1.0
++ 157000p 1.0
 + 157010p 0
 + 157480p 0
-+ 157490p 0.9
++ 157490p 1.0
 + \]
 V_wl_314 (WordLine_bar\\<314\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 157500p 0.9
++ 0    1.0
++ 157500p 1.0
 + 157510p 0
 + 157980p 0
-+ 157990p 0.9
++ 157990p 1.0
 + \]
 V_wl_315 (WordLine_bar\\<315\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 158000p 0.9
++ 0    1.0
++ 158000p 1.0
 + 158010p 0
 + 158480p 0
-+ 158490p 0.9
++ 158490p 1.0
 + \]
 V_wl_316 (WordLine_bar\\<316\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 158500p 0.9
++ 0    1.0
++ 158500p 1.0
 + 158510p 0
 + 158980p 0
-+ 158990p 0.9
++ 158990p 1.0
 + \]
 V_wl_317 (WordLine_bar\\<317\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 159000p 0.9
++ 0    1.0
++ 159000p 1.0
 + 159010p 0
 + 159480p 0
-+ 159490p 0.9
++ 159490p 1.0
 + \]
 V_wl_318 (WordLine_bar\\<318\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 159500p 0.9
++ 0    1.0
++ 159500p 1.0
 + 159510p 0
 + 159980p 0
-+ 159990p 0.9
++ 159990p 1.0
 + \]
 V_wl_319 (WordLine_bar\\<319\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 160000p 0.9
++ 0    1.0
++ 160000p 1.0
 + 160010p 0
 + 160480p 0
-+ 160490p 0.9
++ 160490p 1.0
 + \]
 V_wl_320 (WordLine_bar\\<320\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 160500p 0.9
++ 0    1.0
++ 160500p 1.0
 + 160510p 0
 + 160980p 0
-+ 160990p 0.9
++ 160990p 1.0
 + \]
 V_wl_321 (WordLine_bar\\<321\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 161000p 0.9
++ 0    1.0
++ 161000p 1.0
 + 161010p 0
 + 161480p 0
-+ 161490p 0.9
++ 161490p 1.0
 + \]
 V_wl_322 (WordLine_bar\\<322\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 161500p 0.9
++ 0    1.0
++ 161500p 1.0
 + 161510p 0
 + 161980p 0
-+ 161990p 0.9
++ 161990p 1.0
 + \]
 V_wl_323 (WordLine_bar\\<323\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 162000p 0.9
++ 0    1.0
++ 162000p 1.0
 + 162010p 0
 + 162480p 0
-+ 162490p 0.9
++ 162490p 1.0
 + \]
 V_wl_324 (WordLine_bar\\<324\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 162500p 0.9
++ 0    1.0
++ 162500p 1.0
 + 162510p 0
 + 162980p 0
-+ 162990p 0.9
++ 162990p 1.0
 + \]
 V_wl_325 (WordLine_bar\\<325\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 163000p 0.9
++ 0    1.0
++ 163000p 1.0
 + 163010p 0
 + 163480p 0
-+ 163490p 0.9
++ 163490p 1.0
 + \]
 V_wl_326 (WordLine_bar\\<326\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 163500p 0.9
++ 0    1.0
++ 163500p 1.0
 + 163510p 0
 + 163980p 0
-+ 163990p 0.9
++ 163990p 1.0
 + \]
 V_wl_327 (WordLine_bar\\<327\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 164000p 0.9
++ 0    1.0
++ 164000p 1.0
 + 164010p 0
 + 164480p 0
-+ 164490p 0.9
++ 164490p 1.0
 + \]
 V_wl_328 (WordLine_bar\\<328\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 164500p 0.9
++ 0    1.0
++ 164500p 1.0
 + 164510p 0
 + 164980p 0
-+ 164990p 0.9
++ 164990p 1.0
 + \]
 V_wl_329 (WordLine_bar\\<329\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 165000p 0.9
++ 0    1.0
++ 165000p 1.0
 + 165010p 0
 + 165480p 0
-+ 165490p 0.9
++ 165490p 1.0
 + \]
 V_wl_330 (WordLine_bar\\<330\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 165500p 0.9
++ 0    1.0
++ 165500p 1.0
 + 165510p 0
 + 165980p 0
-+ 165990p 0.9
++ 165990p 1.0
 + \]
 V_wl_331 (WordLine_bar\\<331\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 166000p 0.9
++ 0    1.0
++ 166000p 1.0
 + 166010p 0
 + 166480p 0
-+ 166490p 0.9
++ 166490p 1.0
 + \]
 V_wl_332 (WordLine_bar\\<332\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 166500p 0.9
++ 0    1.0
++ 166500p 1.0
 + 166510p 0
 + 166980p 0
-+ 166990p 0.9
++ 166990p 1.0
 + \]
 V_wl_333 (WordLine_bar\\<333\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 167000p 0.9
++ 0    1.0
++ 167000p 1.0
 + 167010p 0
 + 167480p 0
-+ 167490p 0.9
++ 167490p 1.0
 + \]
 V_wl_334 (WordLine_bar\\<334\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 167500p 0.9
++ 0    1.0
++ 167500p 1.0
 + 167510p 0
 + 167980p 0
-+ 167990p 0.9
++ 167990p 1.0
 + \]
 V_wl_335 (WordLine_bar\\<335\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 168000p 0.9
++ 0    1.0
++ 168000p 1.0
 + 168010p 0
 + 168480p 0
-+ 168490p 0.9
++ 168490p 1.0
 + \]
 V_wl_336 (WordLine_bar\\<336\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 168500p 0.9
++ 0    1.0
++ 168500p 1.0
 + 168510p 0
 + 168980p 0
-+ 168990p 0.9
++ 168990p 1.0
 + \]
 V_wl_337 (WordLine_bar\\<337\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 169000p 0.9
++ 0    1.0
++ 169000p 1.0
 + 169010p 0
 + 169480p 0
-+ 169490p 0.9
++ 169490p 1.0
 + \]
 V_wl_338 (WordLine_bar\\<338\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 169500p 0.9
++ 0    1.0
++ 169500p 1.0
 + 169510p 0
 + 169980p 0
-+ 169990p 0.9
++ 169990p 1.0
 + \]
 V_wl_339 (WordLine_bar\\<339\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 170000p 0.9
++ 0    1.0
++ 170000p 1.0
 + 170010p 0
 + 170480p 0
-+ 170490p 0.9
++ 170490p 1.0
 + \]
 V_wl_340 (WordLine_bar\\<340\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 170500p 0.9
++ 0    1.0
++ 170500p 1.0
 + 170510p 0
 + 170980p 0
-+ 170990p 0.9
++ 170990p 1.0
 + \]
 V_wl_341 (WordLine_bar\\<341\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 171000p 0.9
++ 0    1.0
++ 171000p 1.0
 + 171010p 0
 + 171480p 0
-+ 171490p 0.9
++ 171490p 1.0
 + \]
 V_wl_342 (WordLine_bar\\<342\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 171500p 0.9
++ 0    1.0
++ 171500p 1.0
 + 171510p 0
 + 171980p 0
-+ 171990p 0.9
++ 171990p 1.0
 + \]
 V_wl_343 (WordLine_bar\\<343\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 172000p 0.9
++ 0    1.0
++ 172000p 1.0
 + 172010p 0
 + 172480p 0
-+ 172490p 0.9
++ 172490p 1.0
 + \]
 V_wl_344 (WordLine_bar\\<344\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 172500p 0.9
++ 0    1.0
++ 172500p 1.0
 + 172510p 0
 + 172980p 0
-+ 172990p 0.9
++ 172990p 1.0
 + \]
 V_wl_345 (WordLine_bar\\<345\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 173000p 0.9
++ 0    1.0
++ 173000p 1.0
 + 173010p 0
 + 173480p 0
-+ 173490p 0.9
++ 173490p 1.0
 + \]
 V_wl_346 (WordLine_bar\\<346\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 173500p 0.9
++ 0    1.0
++ 173500p 1.0
 + 173510p 0
 + 173980p 0
-+ 173990p 0.9
++ 173990p 1.0
 + \]
 V_wl_347 (WordLine_bar\\<347\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 174000p 0.9
++ 0    1.0
++ 174000p 1.0
 + 174010p 0
 + 174480p 0
-+ 174490p 0.9
++ 174490p 1.0
 + \]
 V_wl_348 (WordLine_bar\\<348\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 174500p 0.9
++ 0    1.0
++ 174500p 1.0
 + 174510p 0
 + 174980p 0
-+ 174990p 0.9
++ 174990p 1.0
 + \]
 V_wl_349 (WordLine_bar\\<349\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 175000p 0.9
++ 0    1.0
++ 175000p 1.0
 + 175010p 0
 + 175480p 0
-+ 175490p 0.9
++ 175490p 1.0
 + \]
 V_wl_350 (WordLine_bar\\<350\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 175500p 0.9
++ 0    1.0
++ 175500p 1.0
 + 175510p 0
 + 175980p 0
-+ 175990p 0.9
++ 175990p 1.0
 + \]
 V_wl_351 (WordLine_bar\\<351\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 176000p 0.9
++ 0    1.0
++ 176000p 1.0
 + 176010p 0
 + 176480p 0
-+ 176490p 0.9
++ 176490p 1.0
 + \]
 V_wl_352 (WordLine_bar\\<352\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 176500p 0.9
++ 0    1.0
++ 176500p 1.0
 + 176510p 0
 + 176980p 0
-+ 176990p 0.9
++ 176990p 1.0
 + \]
 V_wl_353 (WordLine_bar\\<353\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 177000p 0.9
++ 0    1.0
++ 177000p 1.0
 + 177010p 0
 + 177480p 0
-+ 177490p 0.9
++ 177490p 1.0
 + \]
 V_wl_354 (WordLine_bar\\<354\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 177500p 0.9
++ 0    1.0
++ 177500p 1.0
 + 177510p 0
 + 177980p 0
-+ 177990p 0.9
++ 177990p 1.0
 + \]
 V_wl_355 (WordLine_bar\\<355\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 178000p 0.9
++ 0    1.0
++ 178000p 1.0
 + 178010p 0
 + 178480p 0
-+ 178490p 0.9
++ 178490p 1.0
 + \]
 V_wl_356 (WordLine_bar\\<356\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 178500p 0.9
++ 0    1.0
++ 178500p 1.0
 + 178510p 0
 + 178980p 0
-+ 178990p 0.9
++ 178990p 1.0
 + \]
 V_wl_357 (WordLine_bar\\<357\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 179000p 0.9
++ 0    1.0
++ 179000p 1.0
 + 179010p 0
 + 179480p 0
-+ 179490p 0.9
++ 179490p 1.0
 + \]
 V_wl_358 (WordLine_bar\\<358\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 179500p 0.9
++ 0    1.0
++ 179500p 1.0
 + 179510p 0
 + 179980p 0
-+ 179990p 0.9
++ 179990p 1.0
 + \]
 V_wl_359 (WordLine_bar\\<359\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 180000p 0.9
++ 0    1.0
++ 180000p 1.0
 + 180010p 0
 + 180480p 0
-+ 180490p 0.9
++ 180490p 1.0
 + \]
 V_wl_360 (WordLine_bar\\<360\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 180500p 0.9
++ 0    1.0
++ 180500p 1.0
 + 180510p 0
 + 180980p 0
-+ 180990p 0.9
++ 180990p 1.0
 + \]
 V_wl_361 (WordLine_bar\\<361\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 181000p 0.9
++ 0    1.0
++ 181000p 1.0
 + 181010p 0
 + 181480p 0
-+ 181490p 0.9
++ 181490p 1.0
 + \]
 V_wl_362 (WordLine_bar\\<362\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 181500p 0.9
++ 0    1.0
++ 181500p 1.0
 + 181510p 0
 + 181980p 0
-+ 181990p 0.9
++ 181990p 1.0
 + \]
 V_wl_363 (WordLine_bar\\<363\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 182000p 0.9
++ 0    1.0
++ 182000p 1.0
 + 182010p 0
 + 182480p 0
-+ 182490p 0.9
++ 182490p 1.0
 + \]
 V_wl_364 (WordLine_bar\\<364\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 182500p 0.9
++ 0    1.0
++ 182500p 1.0
 + 182510p 0
 + 182980p 0
-+ 182990p 0.9
++ 182990p 1.0
 + \]
 V_wl_365 (WordLine_bar\\<365\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 183000p 0.9
++ 0    1.0
++ 183000p 1.0
 + 183010p 0
 + 183480p 0
-+ 183490p 0.9
++ 183490p 1.0
 + \]
 V_wl_366 (WordLine_bar\\<366\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 183500p 0.9
++ 0    1.0
++ 183500p 1.0
 + 183510p 0
 + 183980p 0
-+ 183990p 0.9
++ 183990p 1.0
 + \]
 V_wl_367 (WordLine_bar\\<367\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 184000p 0.9
++ 0    1.0
++ 184000p 1.0
 + 184010p 0
 + 184480p 0
-+ 184490p 0.9
++ 184490p 1.0
 + \]
 V_wl_368 (WordLine_bar\\<368\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 184500p 0.9
++ 0    1.0
++ 184500p 1.0
 + 184510p 0
 + 184980p 0
-+ 184990p 0.9
++ 184990p 1.0
 + \]
 V_wl_369 (WordLine_bar\\<369\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 185000p 0.9
++ 0    1.0
++ 185000p 1.0
 + 185010p 0
 + 185480p 0
-+ 185490p 0.9
++ 185490p 1.0
 + \]
 V_wl_370 (WordLine_bar\\<370\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 185500p 0.9
++ 0    1.0
++ 185500p 1.0
 + 185510p 0
 + 185980p 0
-+ 185990p 0.9
++ 185990p 1.0
 + \]
 V_wl_371 (WordLine_bar\\<371\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 186000p 0.9
++ 0    1.0
++ 186000p 1.0
 + 186010p 0
 + 186480p 0
-+ 186490p 0.9
++ 186490p 1.0
 + \]
 V_wl_372 (WordLine_bar\\<372\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 186500p 0.9
++ 0    1.0
++ 186500p 1.0
 + 186510p 0
 + 186980p 0
-+ 186990p 0.9
++ 186990p 1.0
 + \]
 V_wl_373 (WordLine_bar\\<373\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 187000p 0.9
++ 0    1.0
++ 187000p 1.0
 + 187010p 0
 + 187480p 0
-+ 187490p 0.9
++ 187490p 1.0
 + \]
 V_wl_374 (WordLine_bar\\<374\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 187500p 0.9
++ 0    1.0
++ 187500p 1.0
 + 187510p 0
 + 187980p 0
-+ 187990p 0.9
++ 187990p 1.0
 + \]
 V_wl_375 (WordLine_bar\\<375\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 188000p 0.9
++ 0    1.0
++ 188000p 1.0
 + 188010p 0
 + 188480p 0
-+ 188490p 0.9
++ 188490p 1.0
 + \]
 V_wl_376 (WordLine_bar\\<376\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 188500p 0.9
++ 0    1.0
++ 188500p 1.0
 + 188510p 0
 + 188980p 0
-+ 188990p 0.9
++ 188990p 1.0
 + \]
 V_wl_377 (WordLine_bar\\<377\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 189000p 0.9
++ 0    1.0
++ 189000p 1.0
 + 189010p 0
 + 189480p 0
-+ 189490p 0.9
++ 189490p 1.0
 + \]
 V_wl_378 (WordLine_bar\\<378\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 189500p 0.9
++ 0    1.0
++ 189500p 1.0
 + 189510p 0
 + 189980p 0
-+ 189990p 0.9
++ 189990p 1.0
 + \]
 V_wl_379 (WordLine_bar\\<379\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 190000p 0.9
++ 0    1.0
++ 190000p 1.0
 + 190010p 0
 + 190480p 0
-+ 190490p 0.9
++ 190490p 1.0
 + \]
 V_wl_380 (WordLine_bar\\<380\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 190500p 0.9
++ 0    1.0
++ 190500p 1.0
 + 190510p 0
 + 190980p 0
-+ 190990p 0.9
++ 190990p 1.0
 + \]
 V_wl_381 (WordLine_bar\\<381\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 191000p 0.9
++ 0    1.0
++ 191000p 1.0
 + 191010p 0
 + 191480p 0
-+ 191490p 0.9
++ 191490p 1.0
 + \]
 V_wl_382 (WordLine_bar\\<382\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 191500p 0.9
++ 0    1.0
++ 191500p 1.0
 + 191510p 0
 + 191980p 0
-+ 191990p 0.9
++ 191990p 1.0
 + \]
 V_wl_383 (WordLine_bar\\<383\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 192000p 0.9
++ 0    1.0
++ 192000p 1.0
 + 192010p 0
 + 192480p 0
-+ 192490p 0.9
++ 192490p 1.0
 + \]
 V_wl_384 (WordLine_bar\\<384\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 192500p 0.9
++ 0    1.0
++ 192500p 1.0
 + 192510p 0
 + 192980p 0
-+ 192990p 0.9
++ 192990p 1.0
 + \]
 V_wl_385 (WordLine_bar\\<385\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 193000p 0.9
++ 0    1.0
++ 193000p 1.0
 + 193010p 0
 + 193480p 0
-+ 193490p 0.9
++ 193490p 1.0
 + \]
 V_wl_386 (WordLine_bar\\<386\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 193500p 0.9
++ 0    1.0
++ 193500p 1.0
 + 193510p 0
 + 193980p 0
-+ 193990p 0.9
++ 193990p 1.0
 + \]
 V_wl_387 (WordLine_bar\\<387\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 194000p 0.9
++ 0    1.0
++ 194000p 1.0
 + 194010p 0
 + 194480p 0
-+ 194490p 0.9
++ 194490p 1.0
 + \]
 V_wl_388 (WordLine_bar\\<388\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 194500p 0.9
++ 0    1.0
++ 194500p 1.0
 + 194510p 0
 + 194980p 0
-+ 194990p 0.9
++ 194990p 1.0
 + \]
 V_wl_389 (WordLine_bar\\<389\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 195000p 0.9
++ 0    1.0
++ 195000p 1.0
 + 195010p 0
 + 195480p 0
-+ 195490p 0.9
++ 195490p 1.0
 + \]
 V_wl_390 (WordLine_bar\\<390\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 195500p 0.9
++ 0    1.0
++ 195500p 1.0
 + 195510p 0
 + 195980p 0
-+ 195990p 0.9
++ 195990p 1.0
 + \]
 V_wl_391 (WordLine_bar\\<391\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 196000p 0.9
++ 0    1.0
++ 196000p 1.0
 + 196010p 0
 + 196480p 0
-+ 196490p 0.9
++ 196490p 1.0
 + \]
 V_wl_392 (WordLine_bar\\<392\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 196500p 0.9
++ 0    1.0
++ 196500p 1.0
 + 196510p 0
 + 196980p 0
-+ 196990p 0.9
++ 196990p 1.0
 + \]
 V_wl_393 (WordLine_bar\\<393\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 197000p 0.9
++ 0    1.0
++ 197000p 1.0
 + 197010p 0
 + 197480p 0
-+ 197490p 0.9
++ 197490p 1.0
 + \]
 V_wl_394 (WordLine_bar\\<394\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 197500p 0.9
++ 0    1.0
++ 197500p 1.0
 + 197510p 0
 + 197980p 0
-+ 197990p 0.9
++ 197990p 1.0
 + \]
 V_wl_395 (WordLine_bar\\<395\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 198000p 0.9
++ 0    1.0
++ 198000p 1.0
 + 198010p 0
 + 198480p 0
-+ 198490p 0.9
++ 198490p 1.0
 + \]
 V_wl_396 (WordLine_bar\\<396\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 198500p 0.9
++ 0    1.0
++ 198500p 1.0
 + 198510p 0
 + 198980p 0
-+ 198990p 0.9
++ 198990p 1.0
 + \]
 V_wl_397 (WordLine_bar\\<397\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 199000p 0.9
++ 0    1.0
++ 199000p 1.0
 + 199010p 0
 + 199480p 0
-+ 199490p 0.9
++ 199490p 1.0
 + \]
 V_wl_398 (WordLine_bar\\<398\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 199500p 0.9
++ 0    1.0
++ 199500p 1.0
 + 199510p 0
 + 199980p 0
-+ 199990p 0.9
++ 199990p 1.0
 + \]
 V_wl_399 (WordLine_bar\\<399\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 200000p 0.9
++ 0    1.0
++ 200000p 1.0
 + 200010p 0
 + 200480p 0
-+ 200490p 0.9
++ 200490p 1.0
 + \]
 V_wl_400 (WordLine_bar\\<400\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 200500p 0.9
++ 0    1.0
++ 200500p 1.0
 + 200510p 0
 + 200980p 0
-+ 200990p 0.9
++ 200990p 1.0
 + \]
 V_wl_401 (WordLine_bar\\<401\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 201000p 0.9
++ 0    1.0
++ 201000p 1.0
 + 201010p 0
 + 201480p 0
-+ 201490p 0.9
++ 201490p 1.0
 + \]
 V_wl_402 (WordLine_bar\\<402\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 201500p 0.9
++ 0    1.0
++ 201500p 1.0
 + 201510p 0
 + 201980p 0
-+ 201990p 0.9
++ 201990p 1.0
 + \]
 V_wl_403 (WordLine_bar\\<403\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 202000p 0.9
++ 0    1.0
++ 202000p 1.0
 + 202010p 0
 + 202480p 0
-+ 202490p 0.9
++ 202490p 1.0
 + \]
 V_wl_404 (WordLine_bar\\<404\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 202500p 0.9
++ 0    1.0
++ 202500p 1.0
 + 202510p 0
 + 202980p 0
-+ 202990p 0.9
++ 202990p 1.0
 + \]
 V_wl_405 (WordLine_bar\\<405\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 203000p 0.9
++ 0    1.0
++ 203000p 1.0
 + 203010p 0
 + 203480p 0
-+ 203490p 0.9
++ 203490p 1.0
 + \]
 V_wl_406 (WordLine_bar\\<406\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 203500p 0.9
++ 0    1.0
++ 203500p 1.0
 + 203510p 0
 + 203980p 0
-+ 203990p 0.9
++ 203990p 1.0
 + \]
 V_wl_407 (WordLine_bar\\<407\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 204000p 0.9
++ 0    1.0
++ 204000p 1.0
 + 204010p 0
 + 204480p 0
-+ 204490p 0.9
++ 204490p 1.0
 + \]
 V_wl_408 (WordLine_bar\\<408\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 204500p 0.9
++ 0    1.0
++ 204500p 1.0
 + 204510p 0
 + 204980p 0
-+ 204990p 0.9
++ 204990p 1.0
 + \]
 V_wl_409 (WordLine_bar\\<409\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 205000p 0.9
++ 0    1.0
++ 205000p 1.0
 + 205010p 0
 + 205480p 0
-+ 205490p 0.9
++ 205490p 1.0
 + \]
 V_wl_410 (WordLine_bar\\<410\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 205500p 0.9
++ 0    1.0
++ 205500p 1.0
 + 205510p 0
 + 205980p 0
-+ 205990p 0.9
++ 205990p 1.0
 + \]
 V_wl_411 (WordLine_bar\\<411\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 206000p 0.9
++ 0    1.0
++ 206000p 1.0
 + 206010p 0
 + 206480p 0
-+ 206490p 0.9
++ 206490p 1.0
 + \]
 V_wl_412 (WordLine_bar\\<412\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 206500p 0.9
++ 0    1.0
++ 206500p 1.0
 + 206510p 0
 + 206980p 0
-+ 206990p 0.9
++ 206990p 1.0
 + \]
 V_wl_413 (WordLine_bar\\<413\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 207000p 0.9
++ 0    1.0
++ 207000p 1.0
 + 207010p 0
 + 207480p 0
-+ 207490p 0.9
++ 207490p 1.0
 + \]
 V_wl_414 (WordLine_bar\\<414\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 207500p 0.9
++ 0    1.0
++ 207500p 1.0
 + 207510p 0
 + 207980p 0
-+ 207990p 0.9
++ 207990p 1.0
 + \]
 V_wl_415 (WordLine_bar\\<415\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 208000p 0.9
++ 0    1.0
++ 208000p 1.0
 + 208010p 0
 + 208480p 0
-+ 208490p 0.9
++ 208490p 1.0
 + \]
 V_wl_416 (WordLine_bar\\<416\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 208500p 0.9
++ 0    1.0
++ 208500p 1.0
 + 208510p 0
 + 208980p 0
-+ 208990p 0.9
++ 208990p 1.0
 + \]
 V_wl_417 (WordLine_bar\\<417\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 209000p 0.9
++ 0    1.0
++ 209000p 1.0
 + 209010p 0
 + 209480p 0
-+ 209490p 0.9
++ 209490p 1.0
 + \]
 V_wl_418 (WordLine_bar\\<418\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 209500p 0.9
++ 0    1.0
++ 209500p 1.0
 + 209510p 0
 + 209980p 0
-+ 209990p 0.9
++ 209990p 1.0
 + \]
 V_wl_419 (WordLine_bar\\<419\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 210000p 0.9
++ 0    1.0
++ 210000p 1.0
 + 210010p 0
 + 210480p 0
-+ 210490p 0.9
++ 210490p 1.0
 + \]
 V_wl_420 (WordLine_bar\\<420\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 210500p 0.9
++ 0    1.0
++ 210500p 1.0
 + 210510p 0
 + 210980p 0
-+ 210990p 0.9
++ 210990p 1.0
 + \]
 V_wl_421 (WordLine_bar\\<421\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 211000p 0.9
++ 0    1.0
++ 211000p 1.0
 + 211010p 0
 + 211480p 0
-+ 211490p 0.9
++ 211490p 1.0
 + \]
 V_wl_422 (WordLine_bar\\<422\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 211500p 0.9
++ 0    1.0
++ 211500p 1.0
 + 211510p 0
 + 211980p 0
-+ 211990p 0.9
++ 211990p 1.0
 + \]
 V_wl_423 (WordLine_bar\\<423\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 212000p 0.9
++ 0    1.0
++ 212000p 1.0
 + 212010p 0
 + 212480p 0
-+ 212490p 0.9
++ 212490p 1.0
 + \]
 V_wl_424 (WordLine_bar\\<424\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 212500p 0.9
++ 0    1.0
++ 212500p 1.0
 + 212510p 0
 + 212980p 0
-+ 212990p 0.9
++ 212990p 1.0
 + \]
 V_wl_425 (WordLine_bar\\<425\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 213000p 0.9
++ 0    1.0
++ 213000p 1.0
 + 213010p 0
 + 213480p 0
-+ 213490p 0.9
++ 213490p 1.0
 + \]
 V_wl_426 (WordLine_bar\\<426\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 213500p 0.9
++ 0    1.0
++ 213500p 1.0
 + 213510p 0
 + 213980p 0
-+ 213990p 0.9
++ 213990p 1.0
 + \]
 V_wl_427 (WordLine_bar\\<427\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 214000p 0.9
++ 0    1.0
++ 214000p 1.0
 + 214010p 0
 + 214480p 0
-+ 214490p 0.9
++ 214490p 1.0
 + \]
 V_wl_428 (WordLine_bar\\<428\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 214500p 0.9
++ 0    1.0
++ 214500p 1.0
 + 214510p 0
 + 214980p 0
-+ 214990p 0.9
++ 214990p 1.0
 + \]
 V_wl_429 (WordLine_bar\\<429\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 215000p 0.9
++ 0    1.0
++ 215000p 1.0
 + 215010p 0
 + 215480p 0
-+ 215490p 0.9
++ 215490p 1.0
 + \]
 V_wl_430 (WordLine_bar\\<430\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 215500p 0.9
++ 0    1.0
++ 215500p 1.0
 + 215510p 0
 + 215980p 0
-+ 215990p 0.9
++ 215990p 1.0
 + \]
 V_wl_431 (WordLine_bar\\<431\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 216000p 0.9
++ 0    1.0
++ 216000p 1.0
 + 216010p 0
 + 216480p 0
-+ 216490p 0.9
++ 216490p 1.0
 + \]
 V_wl_432 (WordLine_bar\\<432\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 216500p 0.9
++ 0    1.0
++ 216500p 1.0
 + 216510p 0
 + 216980p 0
-+ 216990p 0.9
++ 216990p 1.0
 + \]
 V_wl_433 (WordLine_bar\\<433\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 217000p 0.9
++ 0    1.0
++ 217000p 1.0
 + 217010p 0
 + 217480p 0
-+ 217490p 0.9
++ 217490p 1.0
 + \]
 V_wl_434 (WordLine_bar\\<434\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 217500p 0.9
++ 0    1.0
++ 217500p 1.0
 + 217510p 0
 + 217980p 0
-+ 217990p 0.9
++ 217990p 1.0
 + \]
 V_wl_435 (WordLine_bar\\<435\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 218000p 0.9
++ 0    1.0
++ 218000p 1.0
 + 218010p 0
 + 218480p 0
-+ 218490p 0.9
++ 218490p 1.0
 + \]
 V_wl_436 (WordLine_bar\\<436\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 218500p 0.9
++ 0    1.0
++ 218500p 1.0
 + 218510p 0
 + 218980p 0
-+ 218990p 0.9
++ 218990p 1.0
 + \]
 V_wl_437 (WordLine_bar\\<437\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 219000p 0.9
++ 0    1.0
++ 219000p 1.0
 + 219010p 0
 + 219480p 0
-+ 219490p 0.9
++ 219490p 1.0
 + \]
 V_wl_438 (WordLine_bar\\<438\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 219500p 0.9
++ 0    1.0
++ 219500p 1.0
 + 219510p 0
 + 219980p 0
-+ 219990p 0.9
++ 219990p 1.0
 + \]
 V_wl_439 (WordLine_bar\\<439\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 220000p 0.9
++ 0    1.0
++ 220000p 1.0
 + 220010p 0
 + 220480p 0
-+ 220490p 0.9
++ 220490p 1.0
 + \]
 V_wl_440 (WordLine_bar\\<440\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 220500p 0.9
++ 0    1.0
++ 220500p 1.0
 + 220510p 0
 + 220980p 0
-+ 220990p 0.9
++ 220990p 1.0
 + \]
 V_wl_441 (WordLine_bar\\<441\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 221000p 0.9
++ 0    1.0
++ 221000p 1.0
 + 221010p 0
 + 221480p 0
-+ 221490p 0.9
++ 221490p 1.0
 + \]
 V_wl_442 (WordLine_bar\\<442\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 221500p 0.9
++ 0    1.0
++ 221500p 1.0
 + 221510p 0
 + 221980p 0
-+ 221990p 0.9
++ 221990p 1.0
 + \]
 V_wl_443 (WordLine_bar\\<443\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 222000p 0.9
++ 0    1.0
++ 222000p 1.0
 + 222010p 0
 + 222480p 0
-+ 222490p 0.9
++ 222490p 1.0
 + \]
 V_wl_444 (WordLine_bar\\<444\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 222500p 0.9
++ 0    1.0
++ 222500p 1.0
 + 222510p 0
 + 222980p 0
-+ 222990p 0.9
++ 222990p 1.0
 + \]
 V_wl_445 (WordLine_bar\\<445\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 223000p 0.9
++ 0    1.0
++ 223000p 1.0
 + 223010p 0
 + 223480p 0
-+ 223490p 0.9
++ 223490p 1.0
 + \]
 V_wl_446 (WordLine_bar\\<446\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 223500p 0.9
++ 0    1.0
++ 223500p 1.0
 + 223510p 0
 + 223980p 0
-+ 223990p 0.9
++ 223990p 1.0
 + \]
 V_wl_447 (WordLine_bar\\<447\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 224000p 0.9
++ 0    1.0
++ 224000p 1.0
 + 224010p 0
 + 224480p 0
-+ 224490p 0.9
++ 224490p 1.0
 + \]
 V_wl_448 (WordLine_bar\\<448\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 224500p 0.9
++ 0    1.0
++ 224500p 1.0
 + 224510p 0
 + 224980p 0
-+ 224990p 0.9
++ 224990p 1.0
 + \]
 V_wl_449 (WordLine_bar\\<449\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 225000p 0.9
++ 0    1.0
++ 225000p 1.0
 + 225010p 0
 + 225480p 0
-+ 225490p 0.9
++ 225490p 1.0
 + \]
 V_wl_450 (WordLine_bar\\<450\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 225500p 0.9
++ 0    1.0
++ 225500p 1.0
 + 225510p 0
 + 225980p 0
-+ 225990p 0.9
++ 225990p 1.0
 + \]
 V_wl_451 (WordLine_bar\\<451\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 226000p 0.9
++ 0    1.0
++ 226000p 1.0
 + 226010p 0
 + 226480p 0
-+ 226490p 0.9
++ 226490p 1.0
 + \]
 V_wl_452 (WordLine_bar\\<452\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 226500p 0.9
++ 0    1.0
++ 226500p 1.0
 + 226510p 0
 + 226980p 0
-+ 226990p 0.9
++ 226990p 1.0
 + \]
 V_wl_453 (WordLine_bar\\<453\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 227000p 0.9
++ 0    1.0
++ 227000p 1.0
 + 227010p 0
 + 227480p 0
-+ 227490p 0.9
++ 227490p 1.0
 + \]
 V_wl_454 (WordLine_bar\\<454\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 227500p 0.9
++ 0    1.0
++ 227500p 1.0
 + 227510p 0
 + 227980p 0
-+ 227990p 0.9
++ 227990p 1.0
 + \]
 V_wl_455 (WordLine_bar\\<455\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 228000p 0.9
++ 0    1.0
++ 228000p 1.0
 + 228010p 0
 + 228480p 0
-+ 228490p 0.9
++ 228490p 1.0
 + \]
 V_wl_456 (WordLine_bar\\<456\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 228500p 0.9
++ 0    1.0
++ 228500p 1.0
 + 228510p 0
 + 228980p 0
-+ 228990p 0.9
++ 228990p 1.0
 + \]
 V_wl_457 (WordLine_bar\\<457\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 229000p 0.9
++ 0    1.0
++ 229000p 1.0
 + 229010p 0
 + 229480p 0
-+ 229490p 0.9
++ 229490p 1.0
 + \]
 V_wl_458 (WordLine_bar\\<458\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 229500p 0.9
++ 0    1.0
++ 229500p 1.0
 + 229510p 0
 + 229980p 0
-+ 229990p 0.9
++ 229990p 1.0
 + \]
 V_wl_459 (WordLine_bar\\<459\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 230000p 0.9
++ 0    1.0
++ 230000p 1.0
 + 230010p 0
 + 230480p 0
-+ 230490p 0.9
++ 230490p 1.0
 + \]
 V_wl_460 (WordLine_bar\\<460\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 230500p 0.9
++ 0    1.0
++ 230500p 1.0
 + 230510p 0
 + 230980p 0
-+ 230990p 0.9
++ 230990p 1.0
 + \]
 V_wl_461 (WordLine_bar\\<461\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 231000p 0.9
++ 0    1.0
++ 231000p 1.0
 + 231010p 0
 + 231480p 0
-+ 231490p 0.9
++ 231490p 1.0
 + \]
 V_wl_462 (WordLine_bar\\<462\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 231500p 0.9
++ 0    1.0
++ 231500p 1.0
 + 231510p 0
 + 231980p 0
-+ 231990p 0.9
++ 231990p 1.0
 + \]
 V_wl_463 (WordLine_bar\\<463\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 232000p 0.9
++ 0    1.0
++ 232000p 1.0
 + 232010p 0
 + 232480p 0
-+ 232490p 0.9
++ 232490p 1.0
 + \]
 V_wl_464 (WordLine_bar\\<464\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 232500p 0.9
++ 0    1.0
++ 232500p 1.0
 + 232510p 0
 + 232980p 0
-+ 232990p 0.9
++ 232990p 1.0
 + \]
 V_wl_465 (WordLine_bar\\<465\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 233000p 0.9
++ 0    1.0
++ 233000p 1.0
 + 233010p 0
 + 233480p 0
-+ 233490p 0.9
++ 233490p 1.0
 + \]
 V_wl_466 (WordLine_bar\\<466\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 233500p 0.9
++ 0    1.0
++ 233500p 1.0
 + 233510p 0
 + 233980p 0
-+ 233990p 0.9
++ 233990p 1.0
 + \]
 V_wl_467 (WordLine_bar\\<467\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 234000p 0.9
++ 0    1.0
++ 234000p 1.0
 + 234010p 0
 + 234480p 0
-+ 234490p 0.9
++ 234490p 1.0
 + \]
 V_wl_468 (WordLine_bar\\<468\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 234500p 0.9
++ 0    1.0
++ 234500p 1.0
 + 234510p 0
 + 234980p 0
-+ 234990p 0.9
++ 234990p 1.0
 + \]
 V_wl_469 (WordLine_bar\\<469\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 235000p 0.9
++ 0    1.0
++ 235000p 1.0
 + 235010p 0
 + 235480p 0
-+ 235490p 0.9
++ 235490p 1.0
 + \]
 V_wl_470 (WordLine_bar\\<470\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 235500p 0.9
++ 0    1.0
++ 235500p 1.0
 + 235510p 0
 + 235980p 0
-+ 235990p 0.9
++ 235990p 1.0
 + \]
 V_wl_471 (WordLine_bar\\<471\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 236000p 0.9
++ 0    1.0
++ 236000p 1.0
 + 236010p 0
 + 236480p 0
-+ 236490p 0.9
++ 236490p 1.0
 + \]
 V_wl_472 (WordLine_bar\\<472\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 236500p 0.9
++ 0    1.0
++ 236500p 1.0
 + 236510p 0
 + 236980p 0
-+ 236990p 0.9
++ 236990p 1.0
 + \]
 V_wl_473 (WordLine_bar\\<473\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 237000p 0.9
++ 0    1.0
++ 237000p 1.0
 + 237010p 0
 + 237480p 0
-+ 237490p 0.9
++ 237490p 1.0
 + \]
 V_wl_474 (WordLine_bar\\<474\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 237500p 0.9
++ 0    1.0
++ 237500p 1.0
 + 237510p 0
 + 237980p 0
-+ 237990p 0.9
++ 237990p 1.0
 + \]
 V_wl_475 (WordLine_bar\\<475\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 238000p 0.9
++ 0    1.0
++ 238000p 1.0
 + 238010p 0
 + 238480p 0
-+ 238490p 0.9
++ 238490p 1.0
 + \]
 V_wl_476 (WordLine_bar\\<476\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 238500p 0.9
++ 0    1.0
++ 238500p 1.0
 + 238510p 0
 + 238980p 0
-+ 238990p 0.9
++ 238990p 1.0
 + \]
 V_wl_477 (WordLine_bar\\<477\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 239000p 0.9
++ 0    1.0
++ 239000p 1.0
 + 239010p 0
 + 239480p 0
-+ 239490p 0.9
++ 239490p 1.0
 + \]
 V_wl_478 (WordLine_bar\\<478\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 239500p 0.9
++ 0    1.0
++ 239500p 1.0
 + 239510p 0
 + 239980p 0
-+ 239990p 0.9
++ 239990p 1.0
 + \]
 V_wl_479 (WordLine_bar\\<479\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 240000p 0.9
++ 0    1.0
++ 240000p 1.0
 + 240010p 0
 + 240480p 0
-+ 240490p 0.9
++ 240490p 1.0
 + \]
 V_wl_480 (WordLine_bar\\<480\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 240500p 0.9
++ 0    1.0
++ 240500p 1.0
 + 240510p 0
 + 240980p 0
-+ 240990p 0.9
++ 240990p 1.0
 + \]
 V_wl_481 (WordLine_bar\\<481\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 241000p 0.9
++ 0    1.0
++ 241000p 1.0
 + 241010p 0
 + 241480p 0
-+ 241490p 0.9
++ 241490p 1.0
 + \]
 V_wl_482 (WordLine_bar\\<482\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 241500p 0.9
++ 0    1.0
++ 241500p 1.0
 + 241510p 0
 + 241980p 0
-+ 241990p 0.9
++ 241990p 1.0
 + \]
 V_wl_483 (WordLine_bar\\<483\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 242000p 0.9
++ 0    1.0
++ 242000p 1.0
 + 242010p 0
 + 242480p 0
-+ 242490p 0.9
++ 242490p 1.0
 + \]
 V_wl_484 (WordLine_bar\\<484\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 242500p 0.9
++ 0    1.0
++ 242500p 1.0
 + 242510p 0
 + 242980p 0
-+ 242990p 0.9
++ 242990p 1.0
 + \]
 V_wl_485 (WordLine_bar\\<485\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 243000p 0.9
++ 0    1.0
++ 243000p 1.0
 + 243010p 0
 + 243480p 0
-+ 243490p 0.9
++ 243490p 1.0
 + \]
 V_wl_486 (WordLine_bar\\<486\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 243500p 0.9
++ 0    1.0
++ 243500p 1.0
 + 243510p 0
 + 243980p 0
-+ 243990p 0.9
++ 243990p 1.0
 + \]
 V_wl_487 (WordLine_bar\\<487\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 244000p 0.9
++ 0    1.0
++ 244000p 1.0
 + 244010p 0
 + 244480p 0
-+ 244490p 0.9
++ 244490p 1.0
 + \]
 V_wl_488 (WordLine_bar\\<488\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 244500p 0.9
++ 0    1.0
++ 244500p 1.0
 + 244510p 0
 + 244980p 0
-+ 244990p 0.9
++ 244990p 1.0
 + \]
 V_wl_489 (WordLine_bar\\<489\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 245000p 0.9
++ 0    1.0
++ 245000p 1.0
 + 245010p 0
 + 245480p 0
-+ 245490p 0.9
++ 245490p 1.0
 + \]
 V_wl_490 (WordLine_bar\\<490\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 245500p 0.9
++ 0    1.0
++ 245500p 1.0
 + 245510p 0
 + 245980p 0
-+ 245990p 0.9
++ 245990p 1.0
 + \]
 V_wl_491 (WordLine_bar\\<491\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 246000p 0.9
++ 0    1.0
++ 246000p 1.0
 + 246010p 0
 + 246480p 0
-+ 246490p 0.9
++ 246490p 1.0
 + \]
 V_wl_492 (WordLine_bar\\<492\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 246500p 0.9
++ 0    1.0
++ 246500p 1.0
 + 246510p 0
 + 246980p 0
-+ 246990p 0.9
++ 246990p 1.0
 + \]
 V_wl_493 (WordLine_bar\\<493\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 247000p 0.9
++ 0    1.0
++ 247000p 1.0
 + 247010p 0
 + 247480p 0
-+ 247490p 0.9
++ 247490p 1.0
 + \]
 V_wl_494 (WordLine_bar\\<494\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 247500p 0.9
++ 0    1.0
++ 247500p 1.0
 + 247510p 0
 + 247980p 0
-+ 247990p 0.9
++ 247990p 1.0
 + \]
 V_wl_495 (WordLine_bar\\<495\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 248000p 0.9
++ 0    1.0
++ 248000p 1.0
 + 248010p 0
 + 248480p 0
-+ 248490p 0.9
++ 248490p 1.0
 + \]
 V_wl_496 (WordLine_bar\\<496\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 248500p 0.9
++ 0    1.0
++ 248500p 1.0
 + 248510p 0
 + 248980p 0
-+ 248990p 0.9
++ 248990p 1.0
 + \]
 V_wl_497 (WordLine_bar\\<497\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 249000p 0.9
++ 0    1.0
++ 249000p 1.0
 + 249010p 0
 + 249480p 0
-+ 249490p 0.9
++ 249490p 1.0
 + \]
 V_wl_498 (WordLine_bar\\<498\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 249500p 0.9
++ 0    1.0
++ 249500p 1.0
 + 249510p 0
 + 249980p 0
-+ 249990p 0.9
++ 249990p 1.0
 + \]
 V_wl_499 (WordLine_bar\\<499\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 250000p 0.9
++ 0    1.0
++ 250000p 1.0
 + 250010p 0
 + 250480p 0
-+ 250490p 0.9
++ 250490p 1.0
 + \]
 V_wl_500 (WordLine_bar\\<500\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 250500p 0.9
++ 0    1.0
++ 250500p 1.0
 + 250510p 0
 + 250980p 0
-+ 250990p 0.9
++ 250990p 1.0
 + \]
 V_wl_501 (WordLine_bar\\<501\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 251000p 0.9
++ 0    1.0
++ 251000p 1.0
 + 251010p 0
 + 251480p 0
-+ 251490p 0.9
++ 251490p 1.0
 + \]
 V_wl_502 (WordLine_bar\\<502\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 251500p 0.9
++ 0    1.0
++ 251500p 1.0
 + 251510p 0
 + 251980p 0
-+ 251990p 0.9
++ 251990p 1.0
 + \]
 V_wl_503 (WordLine_bar\\<503\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 252000p 0.9
++ 0    1.0
++ 252000p 1.0
 + 252010p 0
 + 252480p 0
-+ 252490p 0.9
++ 252490p 1.0
 + \]
 V_wl_504 (WordLine_bar\\<504\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 252500p 0.9
++ 0    1.0
++ 252500p 1.0
 + 252510p 0
 + 252980p 0
-+ 252990p 0.9
++ 252990p 1.0
 + \]
 V_wl_505 (WordLine_bar\\<505\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 253000p 0.9
++ 0    1.0
++ 253000p 1.0
 + 253010p 0
 + 253480p 0
-+ 253490p 0.9
++ 253490p 1.0
 + \]
 V_wl_506 (WordLine_bar\\<506\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 253500p 0.9
++ 0    1.0
++ 253500p 1.0
 + 253510p 0
 + 253980p 0
-+ 253990p 0.9
++ 253990p 1.0
 + \]
 V_wl_507 (WordLine_bar\\<507\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 254000p 0.9
++ 0    1.0
++ 254000p 1.0
 + 254010p 0
 + 254480p 0
-+ 254490p 0.9
++ 254490p 1.0
 + \]
 V_wl_508 (WordLine_bar\\<508\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 254500p 0.9
++ 0    1.0
++ 254500p 1.0
 + 254510p 0
 + 254980p 0
-+ 254990p 0.9
++ 254990p 1.0
 + \]
 V_wl_509 (WordLine_bar\\<509\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 255000p 0.9
++ 0    1.0
++ 255000p 1.0
 + 255010p 0
 + 255480p 0
-+ 255490p 0.9
++ 255490p 1.0
 + \]
 V_wl_510 (WordLine_bar\\<510\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 255500p 0.9
++ 0    1.0
++ 255500p 1.0
 + 255510p 0
 + 255980p 0
-+ 255990p 0.9
++ 255990p 1.0
 + \]
 V_wl_511 (WordLine_bar\\<511\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 256000p 0.9
++ 0    1.0
++ 256000p 1.0
 + 256010p 0
 + 256480p 0
-+ 256490p 0.9
++ 256490p 1.0
 + \]
 V_wl_512 (WordLine_bar\\<512\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 256500p 0.9
++ 0    1.0
++ 256500p 1.0
 + 256510p 0
 + 256980p 0
-+ 256990p 0.9
++ 256990p 1.0
 + \]
 V_wl_513 (WordLine_bar\\<513\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 257000p 0.9
++ 0    1.0
++ 257000p 1.0
 + 257010p 0
 + 257480p 0
-+ 257490p 0.9
++ 257490p 1.0
 + \]
 V_wl_514 (WordLine_bar\\<514\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 257500p 0.9
++ 0    1.0
++ 257500p 1.0
 + 257510p 0
 + 257980p 0
-+ 257990p 0.9
++ 257990p 1.0
 + \]
 V_wl_515 (WordLine_bar\\<515\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 258000p 0.9
++ 0    1.0
++ 258000p 1.0
 + 258010p 0
 + 258480p 0
-+ 258490p 0.9
++ 258490p 1.0
 + \]
 V_wl_516 (WordLine_bar\\<516\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 258500p 0.9
++ 0    1.0
++ 258500p 1.0
 + 258510p 0
 + 258980p 0
-+ 258990p 0.9
++ 258990p 1.0
 + \]
 V_wl_517 (WordLine_bar\\<517\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 259000p 0.9
++ 0    1.0
++ 259000p 1.0
 + 259010p 0
 + 259480p 0
-+ 259490p 0.9
++ 259490p 1.0
 + \]
 V_wl_518 (WordLine_bar\\<518\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 259500p 0.9
++ 0    1.0
++ 259500p 1.0
 + 259510p 0
 + 259980p 0
-+ 259990p 0.9
++ 259990p 1.0
 + \]
 V_wl_519 (WordLine_bar\\<519\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 260000p 0.9
++ 0    1.0
++ 260000p 1.0
 + 260010p 0
 + 260480p 0
-+ 260490p 0.9
++ 260490p 1.0
 + \]
 V_wl_520 (WordLine_bar\\<520\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 260500p 0.9
++ 0    1.0
++ 260500p 1.0
 + 260510p 0
 + 260980p 0
-+ 260990p 0.9
++ 260990p 1.0
 + \]
 V_wl_521 (WordLine_bar\\<521\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 261000p 0.9
++ 0    1.0
++ 261000p 1.0
 + 261010p 0
 + 261480p 0
-+ 261490p 0.9
++ 261490p 1.0
 + \]
 V_wl_522 (WordLine_bar\\<522\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 261500p 0.9
++ 0    1.0
++ 261500p 1.0
 + 261510p 0
 + 261980p 0
-+ 261990p 0.9
++ 261990p 1.0
 + \]
 V_wl_523 (WordLine_bar\\<523\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 262000p 0.9
++ 0    1.0
++ 262000p 1.0
 + 262010p 0
 + 262480p 0
-+ 262490p 0.9
++ 262490p 1.0
 + \]
 V_wl_524 (WordLine_bar\\<524\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 262500p 0.9
++ 0    1.0
++ 262500p 1.0
 + 262510p 0
 + 262980p 0
-+ 262990p 0.9
++ 262990p 1.0
 + \]
 V_wl_525 (WordLine_bar\\<525\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 263000p 0.9
++ 0    1.0
++ 263000p 1.0
 + 263010p 0
 + 263480p 0
-+ 263490p 0.9
++ 263490p 1.0
 + \]
 V_wl_526 (WordLine_bar\\<526\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 263500p 0.9
++ 0    1.0
++ 263500p 1.0
 + 263510p 0
 + 263980p 0
-+ 263990p 0.9
++ 263990p 1.0
 + \]
 V_wl_527 (WordLine_bar\\<527\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 264000p 0.9
++ 0    1.0
++ 264000p 1.0
 + 264010p 0
 + 264480p 0
-+ 264490p 0.9
++ 264490p 1.0
 + \]
 V_wl_528 (WordLine_bar\\<528\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 264500p 0.9
++ 0    1.0
++ 264500p 1.0
 + 264510p 0
 + 264980p 0
-+ 264990p 0.9
++ 264990p 1.0
 + \]
 V_wl_529 (WordLine_bar\\<529\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 265000p 0.9
++ 0    1.0
++ 265000p 1.0
 + 265010p 0
 + 265480p 0
-+ 265490p 0.9
++ 265490p 1.0
 + \]
 V_wl_530 (WordLine_bar\\<530\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 265500p 0.9
++ 0    1.0
++ 265500p 1.0
 + 265510p 0
 + 265980p 0
-+ 265990p 0.9
++ 265990p 1.0
 + \]
 V_wl_531 (WordLine_bar\\<531\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 266000p 0.9
++ 0    1.0
++ 266000p 1.0
 + 266010p 0
 + 266480p 0
-+ 266490p 0.9
++ 266490p 1.0
 + \]
 V_wl_532 (WordLine_bar\\<532\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 266500p 0.9
++ 0    1.0
++ 266500p 1.0
 + 266510p 0
 + 266980p 0
-+ 266990p 0.9
++ 266990p 1.0
 + \]
 V_wl_533 (WordLine_bar\\<533\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 267000p 0.9
++ 0    1.0
++ 267000p 1.0
 + 267010p 0
 + 267480p 0
-+ 267490p 0.9
++ 267490p 1.0
 + \]
 V_wl_534 (WordLine_bar\\<534\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 267500p 0.9
++ 0    1.0
++ 267500p 1.0
 + 267510p 0
 + 267980p 0
-+ 267990p 0.9
++ 267990p 1.0
 + \]
 V_wl_535 (WordLine_bar\\<535\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 268000p 0.9
++ 0    1.0
++ 268000p 1.0
 + 268010p 0
 + 268480p 0
-+ 268490p 0.9
++ 268490p 1.0
 + \]
 V_wl_536 (WordLine_bar\\<536\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 268500p 0.9
++ 0    1.0
++ 268500p 1.0
 + 268510p 0
 + 268980p 0
-+ 268990p 0.9
++ 268990p 1.0
 + \]
 V_wl_537 (WordLine_bar\\<537\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 269000p 0.9
++ 0    1.0
++ 269000p 1.0
 + 269010p 0
 + 269480p 0
-+ 269490p 0.9
++ 269490p 1.0
 + \]
 V_wl_538 (WordLine_bar\\<538\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 269500p 0.9
++ 0    1.0
++ 269500p 1.0
 + 269510p 0
 + 269980p 0
-+ 269990p 0.9
++ 269990p 1.0
 + \]
 V_wl_539 (WordLine_bar\\<539\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 270000p 0.9
++ 0    1.0
++ 270000p 1.0
 + 270010p 0
 + 270480p 0
-+ 270490p 0.9
++ 270490p 1.0
 + \]
 V_wl_540 (WordLine_bar\\<540\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 270500p 0.9
++ 0    1.0
++ 270500p 1.0
 + 270510p 0
 + 270980p 0
-+ 270990p 0.9
++ 270990p 1.0
 + \]
 V_wl_541 (WordLine_bar\\<541\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 271000p 0.9
++ 0    1.0
++ 271000p 1.0
 + 271010p 0
 + 271480p 0
-+ 271490p 0.9
++ 271490p 1.0
 + \]
 V_wl_542 (WordLine_bar\\<542\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 271500p 0.9
++ 0    1.0
++ 271500p 1.0
 + 271510p 0
 + 271980p 0
-+ 271990p 0.9
++ 271990p 1.0
 + \]
 V_wl_543 (WordLine_bar\\<543\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 272000p 0.9
++ 0    1.0
++ 272000p 1.0
 + 272010p 0
 + 272480p 0
-+ 272490p 0.9
++ 272490p 1.0
 + \]
 V_wl_544 (WordLine_bar\\<544\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 272500p 0.9
++ 0    1.0
++ 272500p 1.0
 + 272510p 0
 + 272980p 0
-+ 272990p 0.9
++ 272990p 1.0
 + \]
 V_wl_545 (WordLine_bar\\<545\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 273000p 0.9
++ 0    1.0
++ 273000p 1.0
 + 273010p 0
 + 273480p 0
-+ 273490p 0.9
++ 273490p 1.0
 + \]
 V_wl_546 (WordLine_bar\\<546\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 273500p 0.9
++ 0    1.0
++ 273500p 1.0
 + 273510p 0
 + 273980p 0
-+ 273990p 0.9
++ 273990p 1.0
 + \]
 V_wl_547 (WordLine_bar\\<547\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 274000p 0.9
++ 0    1.0
++ 274000p 1.0
 + 274010p 0
 + 274480p 0
-+ 274490p 0.9
++ 274490p 1.0
 + \]
 V_wl_548 (WordLine_bar\\<548\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 274500p 0.9
++ 0    1.0
++ 274500p 1.0
 + 274510p 0
 + 274980p 0
-+ 274990p 0.9
++ 274990p 1.0
 + \]
 V_wl_549 (WordLine_bar\\<549\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 275000p 0.9
++ 0    1.0
++ 275000p 1.0
 + 275010p 0
 + 275480p 0
-+ 275490p 0.9
++ 275490p 1.0
 + \]
 V_wl_550 (WordLine_bar\\<550\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 275500p 0.9
++ 0    1.0
++ 275500p 1.0
 + 275510p 0
 + 275980p 0
-+ 275990p 0.9
++ 275990p 1.0
 + \]
 V_wl_551 (WordLine_bar\\<551\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 276000p 0.9
++ 0    1.0
++ 276000p 1.0
 + 276010p 0
 + 276480p 0
-+ 276490p 0.9
++ 276490p 1.0
 + \]
 V_wl_552 (WordLine_bar\\<552\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 276500p 0.9
++ 0    1.0
++ 276500p 1.0
 + 276510p 0
 + 276980p 0
-+ 276990p 0.9
++ 276990p 1.0
 + \]
 V_wl_553 (WordLine_bar\\<553\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 277000p 0.9
++ 0    1.0
++ 277000p 1.0
 + 277010p 0
 + 277480p 0
-+ 277490p 0.9
++ 277490p 1.0
 + \]
 V_wl_554 (WordLine_bar\\<554\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 277500p 0.9
++ 0    1.0
++ 277500p 1.0
 + 277510p 0
 + 277980p 0
-+ 277990p 0.9
++ 277990p 1.0
 + \]
 V_wl_555 (WordLine_bar\\<555\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 278000p 0.9
++ 0    1.0
++ 278000p 1.0
 + 278010p 0
 + 278480p 0
-+ 278490p 0.9
++ 278490p 1.0
 + \]
 V_wl_556 (WordLine_bar\\<556\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 278500p 0.9
++ 0    1.0
++ 278500p 1.0
 + 278510p 0
 + 278980p 0
-+ 278990p 0.9
++ 278990p 1.0
 + \]
 V_wl_557 (WordLine_bar\\<557\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 279000p 0.9
++ 0    1.0
++ 279000p 1.0
 + 279010p 0
 + 279480p 0
-+ 279490p 0.9
++ 279490p 1.0
 + \]
 V_wl_558 (WordLine_bar\\<558\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 279500p 0.9
++ 0    1.0
++ 279500p 1.0
 + 279510p 0
 + 279980p 0
-+ 279990p 0.9
++ 279990p 1.0
 + \]
 V_wl_559 (WordLine_bar\\<559\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 280000p 0.9
++ 0    1.0
++ 280000p 1.0
 + 280010p 0
 + 280480p 0
-+ 280490p 0.9
++ 280490p 1.0
 + \]
 V_wl_560 (WordLine_bar\\<560\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 280500p 0.9
++ 0    1.0
++ 280500p 1.0
 + 280510p 0
 + 280980p 0
-+ 280990p 0.9
++ 280990p 1.0
 + \]
 V_wl_561 (WordLine_bar\\<561\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 281000p 0.9
++ 0    1.0
++ 281000p 1.0
 + 281010p 0
 + 281480p 0
-+ 281490p 0.9
++ 281490p 1.0
 + \]
 V_wl_562 (WordLine_bar\\<562\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 281500p 0.9
++ 0    1.0
++ 281500p 1.0
 + 281510p 0
 + 281980p 0
-+ 281990p 0.9
++ 281990p 1.0
 + \]
 V_wl_563 (WordLine_bar\\<563\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 282000p 0.9
++ 0    1.0
++ 282000p 1.0
 + 282010p 0
 + 282480p 0
-+ 282490p 0.9
++ 282490p 1.0
 + \]
 V_wl_564 (WordLine_bar\\<564\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 282500p 0.9
++ 0    1.0
++ 282500p 1.0
 + 282510p 0
 + 282980p 0
-+ 282990p 0.9
++ 282990p 1.0
 + \]
 V_wl_565 (WordLine_bar\\<565\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 283000p 0.9
++ 0    1.0
++ 283000p 1.0
 + 283010p 0
 + 283480p 0
-+ 283490p 0.9
++ 283490p 1.0
 + \]
 V_wl_566 (WordLine_bar\\<566\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 283500p 0.9
++ 0    1.0
++ 283500p 1.0
 + 283510p 0
 + 283980p 0
-+ 283990p 0.9
++ 283990p 1.0
 + \]
 V_wl_567 (WordLine_bar\\<567\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 284000p 0.9
++ 0    1.0
++ 284000p 1.0
 + 284010p 0
 + 284480p 0
-+ 284490p 0.9
++ 284490p 1.0
 + \]
 V_wl_568 (WordLine_bar\\<568\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 284500p 0.9
++ 0    1.0
++ 284500p 1.0
 + 284510p 0
 + 284980p 0
-+ 284990p 0.9
++ 284990p 1.0
 + \]
 V_wl_569 (WordLine_bar\\<569\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 285000p 0.9
++ 0    1.0
++ 285000p 1.0
 + 285010p 0
 + 285480p 0
-+ 285490p 0.9
++ 285490p 1.0
 + \]
 V_wl_570 (WordLine_bar\\<570\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 285500p 0.9
++ 0    1.0
++ 285500p 1.0
 + 285510p 0
 + 285980p 0
-+ 285990p 0.9
++ 285990p 1.0
 + \]
 V_wl_571 (WordLine_bar\\<571\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 286000p 0.9
++ 0    1.0
++ 286000p 1.0
 + 286010p 0
 + 286480p 0
-+ 286490p 0.9
++ 286490p 1.0
 + \]
 V_wl_572 (WordLine_bar\\<572\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 286500p 0.9
++ 0    1.0
++ 286500p 1.0
 + 286510p 0
 + 286980p 0
-+ 286990p 0.9
++ 286990p 1.0
 + \]
 V_wl_573 (WordLine_bar\\<573\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 287000p 0.9
++ 0    1.0
++ 287000p 1.0
 + 287010p 0
 + 287480p 0
-+ 287490p 0.9
++ 287490p 1.0
 + \]
 V_wl_574 (WordLine_bar\\<574\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 287500p 0.9
++ 0    1.0
++ 287500p 1.0
 + 287510p 0
 + 287980p 0
-+ 287990p 0.9
++ 287990p 1.0
 + \]
 V_wl_575 (WordLine_bar\\<575\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 288000p 0.9
++ 0    1.0
++ 288000p 1.0
 + 288010p 0
 + 288480p 0
-+ 288490p 0.9
++ 288490p 1.0
 + \]
 V_wl_576 (WordLine_bar\\<576\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 288500p 0.9
++ 0    1.0
++ 288500p 1.0
 + 288510p 0
 + 288980p 0
-+ 288990p 0.9
++ 288990p 1.0
 + \]
 V_wl_577 (WordLine_bar\\<577\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 289000p 0.9
++ 0    1.0
++ 289000p 1.0
 + 289010p 0
 + 289480p 0
-+ 289490p 0.9
++ 289490p 1.0
 + \]
 V_wl_578 (WordLine_bar\\<578\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 289500p 0.9
++ 0    1.0
++ 289500p 1.0
 + 289510p 0
 + 289980p 0
-+ 289990p 0.9
++ 289990p 1.0
 + \]
 V_wl_579 (WordLine_bar\\<579\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 290000p 0.9
++ 0    1.0
++ 290000p 1.0
 + 290010p 0
 + 290480p 0
-+ 290490p 0.9
++ 290490p 1.0
 + \]
 V_wl_580 (WordLine_bar\\<580\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 290500p 0.9
++ 0    1.0
++ 290500p 1.0
 + 290510p 0
 + 290980p 0
-+ 290990p 0.9
++ 290990p 1.0
 + \]
 V_wl_581 (WordLine_bar\\<581\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 291000p 0.9
++ 0    1.0
++ 291000p 1.0
 + 291010p 0
 + 291480p 0
-+ 291490p 0.9
++ 291490p 1.0
 + \]
 V_wl_582 (WordLine_bar\\<582\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 291500p 0.9
++ 0    1.0
++ 291500p 1.0
 + 291510p 0
 + 291980p 0
-+ 291990p 0.9
++ 291990p 1.0
 + \]
 V_wl_583 (WordLine_bar\\<583\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 292000p 0.9
++ 0    1.0
++ 292000p 1.0
 + 292010p 0
 + 292480p 0
-+ 292490p 0.9
++ 292490p 1.0
 + \]
 V_wl_584 (WordLine_bar\\<584\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 292500p 0.9
++ 0    1.0
++ 292500p 1.0
 + 292510p 0
 + 292980p 0
-+ 292990p 0.9
++ 292990p 1.0
 + \]
 V_wl_585 (WordLine_bar\\<585\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 293000p 0.9
++ 0    1.0
++ 293000p 1.0
 + 293010p 0
 + 293480p 0
-+ 293490p 0.9
++ 293490p 1.0
 + \]
 V_wl_586 (WordLine_bar\\<586\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 293500p 0.9
++ 0    1.0
++ 293500p 1.0
 + 293510p 0
 + 293980p 0
-+ 293990p 0.9
++ 293990p 1.0
 + \]
 V_wl_587 (WordLine_bar\\<587\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 294000p 0.9
++ 0    1.0
++ 294000p 1.0
 + 294010p 0
 + 294480p 0
-+ 294490p 0.9
++ 294490p 1.0
 + \]
 V_wl_588 (WordLine_bar\\<588\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 294500p 0.9
++ 0    1.0
++ 294500p 1.0
 + 294510p 0
 + 294980p 0
-+ 294990p 0.9
++ 294990p 1.0
 + \]
 V_wl_589 (WordLine_bar\\<589\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 295000p 0.9
++ 0    1.0
++ 295000p 1.0
 + 295010p 0
 + 295480p 0
-+ 295490p 0.9
++ 295490p 1.0
 + \]
 V_wl_590 (WordLine_bar\\<590\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 295500p 0.9
++ 0    1.0
++ 295500p 1.0
 + 295510p 0
 + 295980p 0
-+ 295990p 0.9
++ 295990p 1.0
 + \]
 V_wl_591 (WordLine_bar\\<591\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 296000p 0.9
++ 0    1.0
++ 296000p 1.0
 + 296010p 0
 + 296480p 0
-+ 296490p 0.9
++ 296490p 1.0
 + \]
 V_wl_592 (WordLine_bar\\<592\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 296500p 0.9
++ 0    1.0
++ 296500p 1.0
 + 296510p 0
 + 296980p 0
-+ 296990p 0.9
++ 296990p 1.0
 + \]
 V_wl_593 (WordLine_bar\\<593\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 297000p 0.9
++ 0    1.0
++ 297000p 1.0
 + 297010p 0
 + 297480p 0
-+ 297490p 0.9
++ 297490p 1.0
 + \]
 V_wl_594 (WordLine_bar\\<594\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 297500p 0.9
++ 0    1.0
++ 297500p 1.0
 + 297510p 0
 + 297980p 0
-+ 297990p 0.9
++ 297990p 1.0
 + \]
 V_wl_595 (WordLine_bar\\<595\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 298000p 0.9
++ 0    1.0
++ 298000p 1.0
 + 298010p 0
 + 298480p 0
-+ 298490p 0.9
++ 298490p 1.0
 + \]
 V_wl_596 (WordLine_bar\\<596\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 298500p 0.9
++ 0    1.0
++ 298500p 1.0
 + 298510p 0
 + 298980p 0
-+ 298990p 0.9
++ 298990p 1.0
 + \]
 V_wl_597 (WordLine_bar\\<597\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 299000p 0.9
++ 0    1.0
++ 299000p 1.0
 + 299010p 0
 + 299480p 0
-+ 299490p 0.9
++ 299490p 1.0
 + \]
 V_wl_598 (WordLine_bar\\<598\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 299500p 0.9
++ 0    1.0
++ 299500p 1.0
 + 299510p 0
 + 299980p 0
-+ 299990p 0.9
++ 299990p 1.0
 + \]
 V_wl_599 (WordLine_bar\\<599\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 300000p 0.9
++ 0    1.0
++ 300000p 1.0
 + 300010p 0
 + 300480p 0
-+ 300490p 0.9
++ 300490p 1.0
 + \]
 V_wl_600 (WordLine_bar\\<600\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 300500p 0.9
++ 0    1.0
++ 300500p 1.0
 + 300510p 0
 + 300980p 0
-+ 300990p 0.9
++ 300990p 1.0
 + \]
 V_wl_601 (WordLine_bar\\<601\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 301000p 0.9
++ 0    1.0
++ 301000p 1.0
 + 301010p 0
 + 301480p 0
-+ 301490p 0.9
++ 301490p 1.0
 + \]
 V_wl_602 (WordLine_bar\\<602\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 301500p 0.9
++ 0    1.0
++ 301500p 1.0
 + 301510p 0
 + 301980p 0
-+ 301990p 0.9
++ 301990p 1.0
 + \]
 V_wl_603 (WordLine_bar\\<603\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 302000p 0.9
++ 0    1.0
++ 302000p 1.0
 + 302010p 0
 + 302480p 0
-+ 302490p 0.9
++ 302490p 1.0
 + \]
 V_wl_604 (WordLine_bar\\<604\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 302500p 0.9
++ 0    1.0
++ 302500p 1.0
 + 302510p 0
 + 302980p 0
-+ 302990p 0.9
++ 302990p 1.0
 + \]
 V_wl_605 (WordLine_bar\\<605\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 303000p 0.9
++ 0    1.0
++ 303000p 1.0
 + 303010p 0
 + 303480p 0
-+ 303490p 0.9
++ 303490p 1.0
 + \]
 V_wl_606 (WordLine_bar\\<606\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 303500p 0.9
++ 0    1.0
++ 303500p 1.0
 + 303510p 0
 + 303980p 0
-+ 303990p 0.9
++ 303990p 1.0
 + \]
 V_wl_607 (WordLine_bar\\<607\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 304000p 0.9
++ 0    1.0
++ 304000p 1.0
 + 304010p 0
 + 304480p 0
-+ 304490p 0.9
++ 304490p 1.0
 + \]
 V_wl_608 (WordLine_bar\\<608\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 304500p 0.9
++ 0    1.0
++ 304500p 1.0
 + 304510p 0
 + 304980p 0
-+ 304990p 0.9
++ 304990p 1.0
 + \]
 V_wl_609 (WordLine_bar\\<609\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 305000p 0.9
++ 0    1.0
++ 305000p 1.0
 + 305010p 0
 + 305480p 0
-+ 305490p 0.9
++ 305490p 1.0
 + \]
 V_wl_610 (WordLine_bar\\<610\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 305500p 0.9
++ 0    1.0
++ 305500p 1.0
 + 305510p 0
 + 305980p 0
-+ 305990p 0.9
++ 305990p 1.0
 + \]
 V_wl_611 (WordLine_bar\\<611\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 306000p 0.9
++ 0    1.0
++ 306000p 1.0
 + 306010p 0
 + 306480p 0
-+ 306490p 0.9
++ 306490p 1.0
 + \]
 V_wl_612 (WordLine_bar\\<612\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 306500p 0.9
++ 0    1.0
++ 306500p 1.0
 + 306510p 0
 + 306980p 0
-+ 306990p 0.9
++ 306990p 1.0
 + \]
 V_wl_613 (WordLine_bar\\<613\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 307000p 0.9
++ 0    1.0
++ 307000p 1.0
 + 307010p 0
 + 307480p 0
-+ 307490p 0.9
++ 307490p 1.0
 + \]
 V_wl_614 (WordLine_bar\\<614\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 307500p 0.9
++ 0    1.0
++ 307500p 1.0
 + 307510p 0
 + 307980p 0
-+ 307990p 0.9
++ 307990p 1.0
 + \]
 V_wl_615 (WordLine_bar\\<615\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 308000p 0.9
++ 0    1.0
++ 308000p 1.0
 + 308010p 0
 + 308480p 0
-+ 308490p 0.9
++ 308490p 1.0
 + \]
 V_wl_616 (WordLine_bar\\<616\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 308500p 0.9
++ 0    1.0
++ 308500p 1.0
 + 308510p 0
 + 308980p 0
-+ 308990p 0.9
++ 308990p 1.0
 + \]
 V_wl_617 (WordLine_bar\\<617\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 309000p 0.9
++ 0    1.0
++ 309000p 1.0
 + 309010p 0
 + 309480p 0
-+ 309490p 0.9
++ 309490p 1.0
 + \]
 V_wl_618 (WordLine_bar\\<618\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 309500p 0.9
++ 0    1.0
++ 309500p 1.0
 + 309510p 0
 + 309980p 0
-+ 309990p 0.9
++ 309990p 1.0
 + \]
 V_wl_619 (WordLine_bar\\<619\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 310000p 0.9
++ 0    1.0
++ 310000p 1.0
 + 310010p 0
 + 310480p 0
-+ 310490p 0.9
++ 310490p 1.0
 + \]
 V_wl_620 (WordLine_bar\\<620\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 310500p 0.9
++ 0    1.0
++ 310500p 1.0
 + 310510p 0
 + 310980p 0
-+ 310990p 0.9
++ 310990p 1.0
 + \]
 V_wl_621 (WordLine_bar\\<621\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 311000p 0.9
++ 0    1.0
++ 311000p 1.0
 + 311010p 0
 + 311480p 0
-+ 311490p 0.9
++ 311490p 1.0
 + \]
 V_wl_622 (WordLine_bar\\<622\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 311500p 0.9
++ 0    1.0
++ 311500p 1.0
 + 311510p 0
 + 311980p 0
-+ 311990p 0.9
++ 311990p 1.0
 + \]
 V_wl_623 (WordLine_bar\\<623\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 312000p 0.9
++ 0    1.0
++ 312000p 1.0
 + 312010p 0
 + 312480p 0
-+ 312490p 0.9
++ 312490p 1.0
 + \]
 V_wl_624 (WordLine_bar\\<624\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 312500p 0.9
++ 0    1.0
++ 312500p 1.0
 + 312510p 0
 + 312980p 0
-+ 312990p 0.9
++ 312990p 1.0
 + \]
 V_wl_625 (WordLine_bar\\<625\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 313000p 0.9
++ 0    1.0
++ 313000p 1.0
 + 313010p 0
 + 313480p 0
-+ 313490p 0.9
++ 313490p 1.0
 + \]
 V_wl_626 (WordLine_bar\\<626\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 313500p 0.9
++ 0    1.0
++ 313500p 1.0
 + 313510p 0
 + 313980p 0
-+ 313990p 0.9
++ 313990p 1.0
 + \]
 V_wl_627 (WordLine_bar\\<627\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 314000p 0.9
++ 0    1.0
++ 314000p 1.0
 + 314010p 0
 + 314480p 0
-+ 314490p 0.9
++ 314490p 1.0
 + \]
 V_wl_628 (WordLine_bar\\<628\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 314500p 0.9
++ 0    1.0
++ 314500p 1.0
 + 314510p 0
 + 314980p 0
-+ 314990p 0.9
++ 314990p 1.0
 + \]
 V_wl_629 (WordLine_bar\\<629\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 315000p 0.9
++ 0    1.0
++ 315000p 1.0
 + 315010p 0
 + 315480p 0
-+ 315490p 0.9
++ 315490p 1.0
 + \]
 V_wl_630 (WordLine_bar\\<630\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 315500p 0.9
++ 0    1.0
++ 315500p 1.0
 + 315510p 0
 + 315980p 0
-+ 315990p 0.9
++ 315990p 1.0
 + \]
 V_wl_631 (WordLine_bar\\<631\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 316000p 0.9
++ 0    1.0
++ 316000p 1.0
 + 316010p 0
 + 316480p 0
-+ 316490p 0.9
++ 316490p 1.0
 + \]
 V_wl_632 (WordLine_bar\\<632\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 316500p 0.9
++ 0    1.0
++ 316500p 1.0
 + 316510p 0
 + 316980p 0
-+ 316990p 0.9
++ 316990p 1.0
 + \]
 V_wl_633 (WordLine_bar\\<633\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 317000p 0.9
++ 0    1.0
++ 317000p 1.0
 + 317010p 0
 + 317480p 0
-+ 317490p 0.9
++ 317490p 1.0
 + \]
 V_wl_634 (WordLine_bar\\<634\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 317500p 0.9
++ 0    1.0
++ 317500p 1.0
 + 317510p 0
 + 317980p 0
-+ 317990p 0.9
++ 317990p 1.0
 + \]
 V_wl_635 (WordLine_bar\\<635\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 318000p 0.9
++ 0    1.0
++ 318000p 1.0
 + 318010p 0
 + 318480p 0
-+ 318490p 0.9
++ 318490p 1.0
 + \]
 V_wl_636 (WordLine_bar\\<636\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 318500p 0.9
++ 0    1.0
++ 318500p 1.0
 + 318510p 0
 + 318980p 0
-+ 318990p 0.9
++ 318990p 1.0
 + \]
 V_wl_637 (WordLine_bar\\<637\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 319000p 0.9
++ 0    1.0
++ 319000p 1.0
 + 319010p 0
 + 319480p 0
-+ 319490p 0.9
++ 319490p 1.0
 + \]
 V_wl_638 (WordLine_bar\\<638\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 319500p 0.9
++ 0    1.0
++ 319500p 1.0
 + 319510p 0
 + 319980p 0
-+ 319990p 0.9
++ 319990p 1.0
 + \]
 V_wl_639 (WordLine_bar\\<639\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 320000p 0.9
++ 0    1.0
++ 320000p 1.0
 + 320010p 0
 + 320480p 0
-+ 320490p 0.9
++ 320490p 1.0
 + \]
 V_wl_640 (WordLine_bar\\<640\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 320500p 0.9
++ 0    1.0
++ 320500p 1.0
 + 320510p 0
 + 320980p 0
-+ 320990p 0.9
++ 320990p 1.0
 + \]
 V_wl_641 (WordLine_bar\\<641\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 321000p 0.9
++ 0    1.0
++ 321000p 1.0
 + 321010p 0
 + 321480p 0
-+ 321490p 0.9
++ 321490p 1.0
 + \]
 V_wl_642 (WordLine_bar\\<642\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 321500p 0.9
++ 0    1.0
++ 321500p 1.0
 + 321510p 0
 + 321980p 0
-+ 321990p 0.9
++ 321990p 1.0
 + \]
 V_wl_643 (WordLine_bar\\<643\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 322000p 0.9
++ 0    1.0
++ 322000p 1.0
 + 322010p 0
 + 322480p 0
-+ 322490p 0.9
++ 322490p 1.0
 + \]
 V_wl_644 (WordLine_bar\\<644\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 322500p 0.9
++ 0    1.0
++ 322500p 1.0
 + 322510p 0
 + 322980p 0
-+ 322990p 0.9
++ 322990p 1.0
 + \]
 V_wl_645 (WordLine_bar\\<645\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 323000p 0.9
++ 0    1.0
++ 323000p 1.0
 + 323010p 0
 + 323480p 0
-+ 323490p 0.9
++ 323490p 1.0
 + \]
 V_wl_646 (WordLine_bar\\<646\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 323500p 0.9
++ 0    1.0
++ 323500p 1.0
 + 323510p 0
 + 323980p 0
-+ 323990p 0.9
++ 323990p 1.0
 + \]
 V_wl_647 (WordLine_bar\\<647\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 324000p 0.9
++ 0    1.0
++ 324000p 1.0
 + 324010p 0
 + 324480p 0
-+ 324490p 0.9
++ 324490p 1.0
 + \]
 V_wl_648 (WordLine_bar\\<648\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 324500p 0.9
++ 0    1.0
++ 324500p 1.0
 + 324510p 0
 + 324980p 0
-+ 324990p 0.9
++ 324990p 1.0
 + \]
 V_wl_649 (WordLine_bar\\<649\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 325000p 0.9
++ 0    1.0
++ 325000p 1.0
 + 325010p 0
 + 325480p 0
-+ 325490p 0.9
++ 325490p 1.0
 + \]
 V_wl_650 (WordLine_bar\\<650\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 325500p 0.9
++ 0    1.0
++ 325500p 1.0
 + 325510p 0
 + 325980p 0
-+ 325990p 0.9
++ 325990p 1.0
 + \]
 V_wl_651 (WordLine_bar\\<651\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 326000p 0.9
++ 0    1.0
++ 326000p 1.0
 + 326010p 0
 + 326480p 0
-+ 326490p 0.9
++ 326490p 1.0
 + \]
 V_wl_652 (WordLine_bar\\<652\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 326500p 0.9
++ 0    1.0
++ 326500p 1.0
 + 326510p 0
 + 326980p 0
-+ 326990p 0.9
++ 326990p 1.0
 + \]
 V_wl_653 (WordLine_bar\\<653\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 327000p 0.9
++ 0    1.0
++ 327000p 1.0
 + 327010p 0
 + 327480p 0
-+ 327490p 0.9
++ 327490p 1.0
 + \]
 V_wl_654 (WordLine_bar\\<654\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 327500p 0.9
++ 0    1.0
++ 327500p 1.0
 + 327510p 0
 + 327980p 0
-+ 327990p 0.9
++ 327990p 1.0
 + \]
 V_wl_655 (WordLine_bar\\<655\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 328000p 0.9
++ 0    1.0
++ 328000p 1.0
 + 328010p 0
 + 328480p 0
-+ 328490p 0.9
++ 328490p 1.0
 + \]
 V_wl_656 (WordLine_bar\\<656\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 328500p 0.9
++ 0    1.0
++ 328500p 1.0
 + 328510p 0
 + 328980p 0
-+ 328990p 0.9
++ 328990p 1.0
 + \]
 V_wl_657 (WordLine_bar\\<657\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 329000p 0.9
++ 0    1.0
++ 329000p 1.0
 + 329010p 0
 + 329480p 0
-+ 329490p 0.9
++ 329490p 1.0
 + \]
 V_wl_658 (WordLine_bar\\<658\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 329500p 0.9
++ 0    1.0
++ 329500p 1.0
 + 329510p 0
 + 329980p 0
-+ 329990p 0.9
++ 329990p 1.0
 + \]
 V_wl_659 (WordLine_bar\\<659\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 330000p 0.9
++ 0    1.0
++ 330000p 1.0
 + 330010p 0
 + 330480p 0
-+ 330490p 0.9
++ 330490p 1.0
 + \]
 V_wl_660 (WordLine_bar\\<660\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 330500p 0.9
++ 0    1.0
++ 330500p 1.0
 + 330510p 0
 + 330980p 0
-+ 330990p 0.9
++ 330990p 1.0
 + \]
 V_wl_661 (WordLine_bar\\<661\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 331000p 0.9
++ 0    1.0
++ 331000p 1.0
 + 331010p 0
 + 331480p 0
-+ 331490p 0.9
++ 331490p 1.0
 + \]
 V_wl_662 (WordLine_bar\\<662\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 331500p 0.9
++ 0    1.0
++ 331500p 1.0
 + 331510p 0
 + 331980p 0
-+ 331990p 0.9
++ 331990p 1.0
 + \]
 V_wl_663 (WordLine_bar\\<663\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 332000p 0.9
++ 0    1.0
++ 332000p 1.0
 + 332010p 0
 + 332480p 0
-+ 332490p 0.9
++ 332490p 1.0
 + \]
 V_wl_664 (WordLine_bar\\<664\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 332500p 0.9
++ 0    1.0
++ 332500p 1.0
 + 332510p 0
 + 332980p 0
-+ 332990p 0.9
++ 332990p 1.0
 + \]
 V_wl_665 (WordLine_bar\\<665\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 333000p 0.9
++ 0    1.0
++ 333000p 1.0
 + 333010p 0
 + 333480p 0
-+ 333490p 0.9
++ 333490p 1.0
 + \]
 V_wl_666 (WordLine_bar\\<666\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 333500p 0.9
++ 0    1.0
++ 333500p 1.0
 + 333510p 0
 + 333980p 0
-+ 333990p 0.9
++ 333990p 1.0
 + \]
 V_wl_667 (WordLine_bar\\<667\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 334000p 0.9
++ 0    1.0
++ 334000p 1.0
 + 334010p 0
 + 334480p 0
-+ 334490p 0.9
++ 334490p 1.0
 + \]
 V_wl_668 (WordLine_bar\\<668\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 334500p 0.9
++ 0    1.0
++ 334500p 1.0
 + 334510p 0
 + 334980p 0
-+ 334990p 0.9
++ 334990p 1.0
 + \]
 V_wl_669 (WordLine_bar\\<669\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 335000p 0.9
++ 0    1.0
++ 335000p 1.0
 + 335010p 0
 + 335480p 0
-+ 335490p 0.9
++ 335490p 1.0
 + \]
 V_wl_670 (WordLine_bar\\<670\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 335500p 0.9
++ 0    1.0
++ 335500p 1.0
 + 335510p 0
 + 335980p 0
-+ 335990p 0.9
++ 335990p 1.0
 + \]
 V_wl_671 (WordLine_bar\\<671\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 336000p 0.9
++ 0    1.0
++ 336000p 1.0
 + 336010p 0
 + 336480p 0
-+ 336490p 0.9
++ 336490p 1.0
 + \]
 V_wl_672 (WordLine_bar\\<672\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 336500p 0.9
++ 0    1.0
++ 336500p 1.0
 + 336510p 0
 + 336980p 0
-+ 336990p 0.9
++ 336990p 1.0
 + \]
 V_wl_673 (WordLine_bar\\<673\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 337000p 0.9
++ 0    1.0
++ 337000p 1.0
 + 337010p 0
 + 337480p 0
-+ 337490p 0.9
++ 337490p 1.0
 + \]
 V_wl_674 (WordLine_bar\\<674\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 337500p 0.9
++ 0    1.0
++ 337500p 1.0
 + 337510p 0
 + 337980p 0
-+ 337990p 0.9
++ 337990p 1.0
 + \]
 V_wl_675 (WordLine_bar\\<675\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 338000p 0.9
++ 0    1.0
++ 338000p 1.0
 + 338010p 0
 + 338480p 0
-+ 338490p 0.9
++ 338490p 1.0
 + \]
 V_wl_676 (WordLine_bar\\<676\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 338500p 0.9
++ 0    1.0
++ 338500p 1.0
 + 338510p 0
 + 338980p 0
-+ 338990p 0.9
++ 338990p 1.0
 + \]
 V_wl_677 (WordLine_bar\\<677\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 339000p 0.9
++ 0    1.0
++ 339000p 1.0
 + 339010p 0
 + 339480p 0
-+ 339490p 0.9
++ 339490p 1.0
 + \]
 V_wl_678 (WordLine_bar\\<678\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 339500p 0.9
++ 0    1.0
++ 339500p 1.0
 + 339510p 0
 + 339980p 0
-+ 339990p 0.9
++ 339990p 1.0
 + \]
 V_wl_679 (WordLine_bar\\<679\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 340000p 0.9
++ 0    1.0
++ 340000p 1.0
 + 340010p 0
 + 340480p 0
-+ 340490p 0.9
++ 340490p 1.0
 + \]
 V_wl_680 (WordLine_bar\\<680\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 340500p 0.9
++ 0    1.0
++ 340500p 1.0
 + 340510p 0
 + 340980p 0
-+ 340990p 0.9
++ 340990p 1.0
 + \]
 V_wl_681 (WordLine_bar\\<681\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 341000p 0.9
++ 0    1.0
++ 341000p 1.0
 + 341010p 0
 + 341480p 0
-+ 341490p 0.9
++ 341490p 1.0
 + \]
 V_wl_682 (WordLine_bar\\<682\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 341500p 0.9
++ 0    1.0
++ 341500p 1.0
 + 341510p 0
 + 341980p 0
-+ 341990p 0.9
++ 341990p 1.0
 + \]
 V_wl_683 (WordLine_bar\\<683\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 342000p 0.9
++ 0    1.0
++ 342000p 1.0
 + 342010p 0
 + 342480p 0
-+ 342490p 0.9
++ 342490p 1.0
 + \]
 V_wl_684 (WordLine_bar\\<684\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 342500p 0.9
++ 0    1.0
++ 342500p 1.0
 + 342510p 0
 + 342980p 0
-+ 342990p 0.9
++ 342990p 1.0
 + \]
 V_wl_685 (WordLine_bar\\<685\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 343000p 0.9
++ 0    1.0
++ 343000p 1.0
 + 343010p 0
 + 343480p 0
-+ 343490p 0.9
++ 343490p 1.0
 + \]
 V_wl_686 (WordLine_bar\\<686\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 343500p 0.9
++ 0    1.0
++ 343500p 1.0
 + 343510p 0
 + 343980p 0
-+ 343990p 0.9
++ 343990p 1.0
 + \]
 V_wl_687 (WordLine_bar\\<687\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 344000p 0.9
++ 0    1.0
++ 344000p 1.0
 + 344010p 0
 + 344480p 0
-+ 344490p 0.9
++ 344490p 1.0
 + \]
 V_wl_688 (WordLine_bar\\<688\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 344500p 0.9
++ 0    1.0
++ 344500p 1.0
 + 344510p 0
 + 344980p 0
-+ 344990p 0.9
++ 344990p 1.0
 + \]
 V_wl_689 (WordLine_bar\\<689\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 345000p 0.9
++ 0    1.0
++ 345000p 1.0
 + 345010p 0
 + 345480p 0
-+ 345490p 0.9
++ 345490p 1.0
 + \]
 V_wl_690 (WordLine_bar\\<690\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 345500p 0.9
++ 0    1.0
++ 345500p 1.0
 + 345510p 0
 + 345980p 0
-+ 345990p 0.9
++ 345990p 1.0
 + \]
 V_wl_691 (WordLine_bar\\<691\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 346000p 0.9
++ 0    1.0
++ 346000p 1.0
 + 346010p 0
 + 346480p 0
-+ 346490p 0.9
++ 346490p 1.0
 + \]
 V_wl_692 (WordLine_bar\\<692\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 346500p 0.9
++ 0    1.0
++ 346500p 1.0
 + 346510p 0
 + 346980p 0
-+ 346990p 0.9
++ 346990p 1.0
 + \]
 V_wl_693 (WordLine_bar\\<693\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 347000p 0.9
++ 0    1.0
++ 347000p 1.0
 + 347010p 0
 + 347480p 0
-+ 347490p 0.9
++ 347490p 1.0
 + \]
 V_wl_694 (WordLine_bar\\<694\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 347500p 0.9
++ 0    1.0
++ 347500p 1.0
 + 347510p 0
 + 347980p 0
-+ 347990p 0.9
++ 347990p 1.0
 + \]
 V_wl_695 (WordLine_bar\\<695\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 348000p 0.9
++ 0    1.0
++ 348000p 1.0
 + 348010p 0
 + 348480p 0
-+ 348490p 0.9
++ 348490p 1.0
 + \]
 V_wl_696 (WordLine_bar\\<696\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 348500p 0.9
++ 0    1.0
++ 348500p 1.0
 + 348510p 0
 + 348980p 0
-+ 348990p 0.9
++ 348990p 1.0
 + \]
 V_wl_697 (WordLine_bar\\<697\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 349000p 0.9
++ 0    1.0
++ 349000p 1.0
 + 349010p 0
 + 349480p 0
-+ 349490p 0.9
++ 349490p 1.0
 + \]
 V_wl_698 (WordLine_bar\\<698\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 349500p 0.9
++ 0    1.0
++ 349500p 1.0
 + 349510p 0
 + 349980p 0
-+ 349990p 0.9
++ 349990p 1.0
 + \]
 V_wl_699 (WordLine_bar\\<699\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 350000p 0.9
++ 0    1.0
++ 350000p 1.0
 + 350010p 0
 + 350480p 0
-+ 350490p 0.9
++ 350490p 1.0
 + \]
 V_wl_700 (WordLine_bar\\<700\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 350500p 0.9
++ 0    1.0
++ 350500p 1.0
 + 350510p 0
 + 350980p 0
-+ 350990p 0.9
++ 350990p 1.0
 + \]
 V_wl_701 (WordLine_bar\\<701\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 351000p 0.9
++ 0    1.0
++ 351000p 1.0
 + 351010p 0
 + 351480p 0
-+ 351490p 0.9
++ 351490p 1.0
 + \]
 V_wl_702 (WordLine_bar\\<702\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 351500p 0.9
++ 0    1.0
++ 351500p 1.0
 + 351510p 0
 + 351980p 0
-+ 351990p 0.9
++ 351990p 1.0
 + \]
 V_wl_703 (WordLine_bar\\<703\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 352000p 0.9
++ 0    1.0
++ 352000p 1.0
 + 352010p 0
 + 352480p 0
-+ 352490p 0.9
++ 352490p 1.0
 + \]
 V_wl_704 (WordLine_bar\\<704\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 352500p 0.9
++ 0    1.0
++ 352500p 1.0
 + 352510p 0
 + 352980p 0
-+ 352990p 0.9
++ 352990p 1.0
 + \]
 V_wl_705 (WordLine_bar\\<705\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 353000p 0.9
++ 0    1.0
++ 353000p 1.0
 + 353010p 0
 + 353480p 0
-+ 353490p 0.9
++ 353490p 1.0
 + \]
 V_wl_706 (WordLine_bar\\<706\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 353500p 0.9
++ 0    1.0
++ 353500p 1.0
 + 353510p 0
 + 353980p 0
-+ 353990p 0.9
++ 353990p 1.0
 + \]
 V_wl_707 (WordLine_bar\\<707\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 354000p 0.9
++ 0    1.0
++ 354000p 1.0
 + 354010p 0
 + 354480p 0
-+ 354490p 0.9
++ 354490p 1.0
 + \]
 V_wl_708 (WordLine_bar\\<708\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 354500p 0.9
++ 0    1.0
++ 354500p 1.0
 + 354510p 0
 + 354980p 0
-+ 354990p 0.9
++ 354990p 1.0
 + \]
 V_wl_709 (WordLine_bar\\<709\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 355000p 0.9
++ 0    1.0
++ 355000p 1.0
 + 355010p 0
 + 355480p 0
-+ 355490p 0.9
++ 355490p 1.0
 + \]
 V_wl_710 (WordLine_bar\\<710\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 355500p 0.9
++ 0    1.0
++ 355500p 1.0
 + 355510p 0
 + 355980p 0
-+ 355990p 0.9
++ 355990p 1.0
 + \]
 V_wl_711 (WordLine_bar\\<711\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 356000p 0.9
++ 0    1.0
++ 356000p 1.0
 + 356010p 0
 + 356480p 0
-+ 356490p 0.9
++ 356490p 1.0
 + \]
 V_wl_712 (WordLine_bar\\<712\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 356500p 0.9
++ 0    1.0
++ 356500p 1.0
 + 356510p 0
 + 356980p 0
-+ 356990p 0.9
++ 356990p 1.0
 + \]
 V_wl_713 (WordLine_bar\\<713\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 357000p 0.9
++ 0    1.0
++ 357000p 1.0
 + 357010p 0
 + 357480p 0
-+ 357490p 0.9
++ 357490p 1.0
 + \]
 V_wl_714 (WordLine_bar\\<714\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 357500p 0.9
++ 0    1.0
++ 357500p 1.0
 + 357510p 0
 + 357980p 0
-+ 357990p 0.9
++ 357990p 1.0
 + \]
 V_wl_715 (WordLine_bar\\<715\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 358000p 0.9
++ 0    1.0
++ 358000p 1.0
 + 358010p 0
 + 358480p 0
-+ 358490p 0.9
++ 358490p 1.0
 + \]
 V_wl_716 (WordLine_bar\\<716\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 358500p 0.9
++ 0    1.0
++ 358500p 1.0
 + 358510p 0
 + 358980p 0
-+ 358990p 0.9
++ 358990p 1.0
 + \]
 V_wl_717 (WordLine_bar\\<717\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 359000p 0.9
++ 0    1.0
++ 359000p 1.0
 + 359010p 0
 + 359480p 0
-+ 359490p 0.9
++ 359490p 1.0
 + \]
 V_wl_718 (WordLine_bar\\<718\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 359500p 0.9
++ 0    1.0
++ 359500p 1.0
 + 359510p 0
 + 359980p 0
-+ 359990p 0.9
++ 359990p 1.0
 + \]
 V_wl_719 (WordLine_bar\\<719\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 360000p 0.9
++ 0    1.0
++ 360000p 1.0
 + 360010p 0
 + 360480p 0
-+ 360490p 0.9
++ 360490p 1.0
 + \]
 V_wl_720 (WordLine_bar\\<720\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 360500p 0.9
++ 0    1.0
++ 360500p 1.0
 + 360510p 0
 + 360980p 0
-+ 360990p 0.9
++ 360990p 1.0
 + \]
 V_wl_721 (WordLine_bar\\<721\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 361000p 0.9
++ 0    1.0
++ 361000p 1.0
 + 361010p 0
 + 361480p 0
-+ 361490p 0.9
++ 361490p 1.0
 + \]
 V_wl_722 (WordLine_bar\\<722\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 361500p 0.9
++ 0    1.0
++ 361500p 1.0
 + 361510p 0
 + 361980p 0
-+ 361990p 0.9
++ 361990p 1.0
 + \]
 V_wl_723 (WordLine_bar\\<723\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 362000p 0.9
++ 0    1.0
++ 362000p 1.0
 + 362010p 0
 + 362480p 0
-+ 362490p 0.9
++ 362490p 1.0
 + \]
 V_wl_724 (WordLine_bar\\<724\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 362500p 0.9
++ 0    1.0
++ 362500p 1.0
 + 362510p 0
 + 362980p 0
-+ 362990p 0.9
++ 362990p 1.0
 + \]
 V_wl_725 (WordLine_bar\\<725\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 363000p 0.9
++ 0    1.0
++ 363000p 1.0
 + 363010p 0
 + 363480p 0
-+ 363490p 0.9
++ 363490p 1.0
 + \]
 V_wl_726 (WordLine_bar\\<726\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 363500p 0.9
++ 0    1.0
++ 363500p 1.0
 + 363510p 0
 + 363980p 0
-+ 363990p 0.9
++ 363990p 1.0
 + \]
 V_wl_727 (WordLine_bar\\<727\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 364000p 0.9
++ 0    1.0
++ 364000p 1.0
 + 364010p 0
 + 364480p 0
-+ 364490p 0.9
++ 364490p 1.0
 + \]
 V_wl_728 (WordLine_bar\\<728\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 364500p 0.9
++ 0    1.0
++ 364500p 1.0
 + 364510p 0
 + 364980p 0
-+ 364990p 0.9
++ 364990p 1.0
 + \]
 V_wl_729 (WordLine_bar\\<729\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 365000p 0.9
++ 0    1.0
++ 365000p 1.0
 + 365010p 0
 + 365480p 0
-+ 365490p 0.9
++ 365490p 1.0
 + \]
 V_wl_730 (WordLine_bar\\<730\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 365500p 0.9
++ 0    1.0
++ 365500p 1.0
 + 365510p 0
 + 365980p 0
-+ 365990p 0.9
++ 365990p 1.0
 + \]
 V_wl_731 (WordLine_bar\\<731\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 366000p 0.9
++ 0    1.0
++ 366000p 1.0
 + 366010p 0
 + 366480p 0
-+ 366490p 0.9
++ 366490p 1.0
 + \]
 V_wl_732 (WordLine_bar\\<732\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 366500p 0.9
++ 0    1.0
++ 366500p 1.0
 + 366510p 0
 + 366980p 0
-+ 366990p 0.9
++ 366990p 1.0
 + \]
 V_wl_733 (WordLine_bar\\<733\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 367000p 0.9
++ 0    1.0
++ 367000p 1.0
 + 367010p 0
 + 367480p 0
-+ 367490p 0.9
++ 367490p 1.0
 + \]
 V_wl_734 (WordLine_bar\\<734\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 367500p 0.9
++ 0    1.0
++ 367500p 1.0
 + 367510p 0
 + 367980p 0
-+ 367990p 0.9
++ 367990p 1.0
 + \]
 V_wl_735 (WordLine_bar\\<735\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 368000p 0.9
++ 0    1.0
++ 368000p 1.0
 + 368010p 0
 + 368480p 0
-+ 368490p 0.9
++ 368490p 1.0
 + \]
 V_wl_736 (WordLine_bar\\<736\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 368500p 0.9
++ 0    1.0
++ 368500p 1.0
 + 368510p 0
 + 368980p 0
-+ 368990p 0.9
++ 368990p 1.0
 + \]
 V_wl_737 (WordLine_bar\\<737\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 369000p 0.9
++ 0    1.0
++ 369000p 1.0
 + 369010p 0
 + 369480p 0
-+ 369490p 0.9
++ 369490p 1.0
 + \]
 V_wl_738 (WordLine_bar\\<738\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 369500p 0.9
++ 0    1.0
++ 369500p 1.0
 + 369510p 0
 + 369980p 0
-+ 369990p 0.9
++ 369990p 1.0
 + \]
 V_wl_739 (WordLine_bar\\<739\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 370000p 0.9
++ 0    1.0
++ 370000p 1.0
 + 370010p 0
 + 370480p 0
-+ 370490p 0.9
++ 370490p 1.0
 + \]
 V_wl_740 (WordLine_bar\\<740\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 370500p 0.9
++ 0    1.0
++ 370500p 1.0
 + 370510p 0
 + 370980p 0
-+ 370990p 0.9
++ 370990p 1.0
 + \]
 V_wl_741 (WordLine_bar\\<741\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 371000p 0.9
++ 0    1.0
++ 371000p 1.0
 + 371010p 0
 + 371480p 0
-+ 371490p 0.9
++ 371490p 1.0
 + \]
 V_wl_742 (WordLine_bar\\<742\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 371500p 0.9
++ 0    1.0
++ 371500p 1.0
 + 371510p 0
 + 371980p 0
-+ 371990p 0.9
++ 371990p 1.0
 + \]
 V_wl_743 (WordLine_bar\\<743\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 372000p 0.9
++ 0    1.0
++ 372000p 1.0
 + 372010p 0
 + 372480p 0
-+ 372490p 0.9
++ 372490p 1.0
 + \]
 V_wl_744 (WordLine_bar\\<744\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 372500p 0.9
++ 0    1.0
++ 372500p 1.0
 + 372510p 0
 + 372980p 0
-+ 372990p 0.9
++ 372990p 1.0
 + \]
 V_wl_745 (WordLine_bar\\<745\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 373000p 0.9
++ 0    1.0
++ 373000p 1.0
 + 373010p 0
 + 373480p 0
-+ 373490p 0.9
++ 373490p 1.0
 + \]
 V_wl_746 (WordLine_bar\\<746\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 373500p 0.9
++ 0    1.0
++ 373500p 1.0
 + 373510p 0
 + 373980p 0
-+ 373990p 0.9
++ 373990p 1.0
 + \]
 V_wl_747 (WordLine_bar\\<747\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 374000p 0.9
++ 0    1.0
++ 374000p 1.0
 + 374010p 0
 + 374480p 0
-+ 374490p 0.9
++ 374490p 1.0
 + \]
 V_wl_748 (WordLine_bar\\<748\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 374500p 0.9
++ 0    1.0
++ 374500p 1.0
 + 374510p 0
 + 374980p 0
-+ 374990p 0.9
++ 374990p 1.0
 + \]
 V_wl_749 (WordLine_bar\\<749\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 375000p 0.9
++ 0    1.0
++ 375000p 1.0
 + 375010p 0
 + 375480p 0
-+ 375490p 0.9
++ 375490p 1.0
 + \]
 V_wl_750 (WordLine_bar\\<750\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 375500p 0.9
++ 0    1.0
++ 375500p 1.0
 + 375510p 0
 + 375980p 0
-+ 375990p 0.9
++ 375990p 1.0
 + \]
 V_wl_751 (WordLine_bar\\<751\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 376000p 0.9
++ 0    1.0
++ 376000p 1.0
 + 376010p 0
 + 376480p 0
-+ 376490p 0.9
++ 376490p 1.0
 + \]
 V_wl_752 (WordLine_bar\\<752\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 376500p 0.9
++ 0    1.0
++ 376500p 1.0
 + 376510p 0
 + 376980p 0
-+ 376990p 0.9
++ 376990p 1.0
 + \]
 V_wl_753 (WordLine_bar\\<753\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 377000p 0.9
++ 0    1.0
++ 377000p 1.0
 + 377010p 0
 + 377480p 0
-+ 377490p 0.9
++ 377490p 1.0
 + \]
 V_wl_754 (WordLine_bar\\<754\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 377500p 0.9
++ 0    1.0
++ 377500p 1.0
 + 377510p 0
 + 377980p 0
-+ 377990p 0.9
++ 377990p 1.0
 + \]
 V_wl_755 (WordLine_bar\\<755\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 378000p 0.9
++ 0    1.0
++ 378000p 1.0
 + 378010p 0
 + 378480p 0
-+ 378490p 0.9
++ 378490p 1.0
 + \]
 V_wl_756 (WordLine_bar\\<756\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 378500p 0.9
++ 0    1.0
++ 378500p 1.0
 + 378510p 0
 + 378980p 0
-+ 378990p 0.9
++ 378990p 1.0
 + \]
 V_wl_757 (WordLine_bar\\<757\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 379000p 0.9
++ 0    1.0
++ 379000p 1.0
 + 379010p 0
 + 379480p 0
-+ 379490p 0.9
++ 379490p 1.0
 + \]
 V_wl_758 (WordLine_bar\\<758\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 379500p 0.9
++ 0    1.0
++ 379500p 1.0
 + 379510p 0
 + 379980p 0
-+ 379990p 0.9
++ 379990p 1.0
 + \]
 V_wl_759 (WordLine_bar\\<759\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 380000p 0.9
++ 0    1.0
++ 380000p 1.0
 + 380010p 0
 + 380480p 0
-+ 380490p 0.9
++ 380490p 1.0
 + \]
 V_wl_760 (WordLine_bar\\<760\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 380500p 0.9
++ 0    1.0
++ 380500p 1.0
 + 380510p 0
 + 380980p 0
-+ 380990p 0.9
++ 380990p 1.0
 + \]
 V_wl_761 (WordLine_bar\\<761\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 381000p 0.9
++ 0    1.0
++ 381000p 1.0
 + 381010p 0
 + 381480p 0
-+ 381490p 0.9
++ 381490p 1.0
 + \]
 V_wl_762 (WordLine_bar\\<762\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 381500p 0.9
++ 0    1.0
++ 381500p 1.0
 + 381510p 0
 + 381980p 0
-+ 381990p 0.9
++ 381990p 1.0
 + \]
 V_wl_763 (WordLine_bar\\<763\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 382000p 0.9
++ 0    1.0
++ 382000p 1.0
 + 382010p 0
 + 382480p 0
-+ 382490p 0.9
++ 382490p 1.0
 + \]
 V_wl_764 (WordLine_bar\\<764\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 382500p 0.9
++ 0    1.0
++ 382500p 1.0
 + 382510p 0
 + 382980p 0
-+ 382990p 0.9
++ 382990p 1.0
 + \]
 V_wl_765 (WordLine_bar\\<765\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 383000p 0.9
++ 0    1.0
++ 383000p 1.0
 + 383010p 0
 + 383480p 0
-+ 383490p 0.9
++ 383490p 1.0
 + \]
 V_wl_766 (WordLine_bar\\<766\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 383500p 0.9
++ 0    1.0
++ 383500p 1.0
 + 383510p 0
 + 383980p 0
-+ 383990p 0.9
++ 383990p 1.0
 + \]
 V_wl_767 (WordLine_bar\\<767\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 384000p 0.9
++ 0    1.0
++ 384000p 1.0
 + 384010p 0
 + 384480p 0
-+ 384490p 0.9
++ 384490p 1.0
 + \]
 V_wl_768 (WordLine_bar\\<768\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 384500p 0.9
++ 0    1.0
++ 384500p 1.0
 + 384510p 0
 + 384980p 0
-+ 384990p 0.9
++ 384990p 1.0
 + \]
 V_wl_769 (WordLine_bar\\<769\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 385000p 0.9
++ 0    1.0
++ 385000p 1.0
 + 385010p 0
 + 385480p 0
-+ 385490p 0.9
++ 385490p 1.0
 + \]
 V_wl_770 (WordLine_bar\\<770\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 385500p 0.9
++ 0    1.0
++ 385500p 1.0
 + 385510p 0
 + 385980p 0
-+ 385990p 0.9
++ 385990p 1.0
 + \]
 V_wl_771 (WordLine_bar\\<771\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 386000p 0.9
++ 0    1.0
++ 386000p 1.0
 + 386010p 0
 + 386480p 0
-+ 386490p 0.9
++ 386490p 1.0
 + \]
 V_wl_772 (WordLine_bar\\<772\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 386500p 0.9
++ 0    1.0
++ 386500p 1.0
 + 386510p 0
 + 386980p 0
-+ 386990p 0.9
++ 386990p 1.0
 + \]
 V_wl_773 (WordLine_bar\\<773\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 387000p 0.9
++ 0    1.0
++ 387000p 1.0
 + 387010p 0
 + 387480p 0
-+ 387490p 0.9
++ 387490p 1.0
 + \]
 V_wl_774 (WordLine_bar\\<774\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 387500p 0.9
++ 0    1.0
++ 387500p 1.0
 + 387510p 0
 + 387980p 0
-+ 387990p 0.9
++ 387990p 1.0
 + \]
 V_wl_775 (WordLine_bar\\<775\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 388000p 0.9
++ 0    1.0
++ 388000p 1.0
 + 388010p 0
 + 388480p 0
-+ 388490p 0.9
++ 388490p 1.0
 + \]
 V_wl_776 (WordLine_bar\\<776\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 388500p 0.9
++ 0    1.0
++ 388500p 1.0
 + 388510p 0
 + 388980p 0
-+ 388990p 0.9
++ 388990p 1.0
 + \]
 V_wl_777 (WordLine_bar\\<777\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 389000p 0.9
++ 0    1.0
++ 389000p 1.0
 + 389010p 0
 + 389480p 0
-+ 389490p 0.9
++ 389490p 1.0
 + \]
 V_wl_778 (WordLine_bar\\<778\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 389500p 0.9
++ 0    1.0
++ 389500p 1.0
 + 389510p 0
 + 389980p 0
-+ 389990p 0.9
++ 389990p 1.0
 + \]
 V_wl_779 (WordLine_bar\\<779\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 390000p 0.9
++ 0    1.0
++ 390000p 1.0
 + 390010p 0
 + 390480p 0
-+ 390490p 0.9
++ 390490p 1.0
 + \]
 V_wl_780 (WordLine_bar\\<780\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 390500p 0.9
++ 0    1.0
++ 390500p 1.0
 + 390510p 0
 + 390980p 0
-+ 390990p 0.9
++ 390990p 1.0
 + \]
 V_wl_781 (WordLine_bar\\<781\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 391000p 0.9
++ 0    1.0
++ 391000p 1.0
 + 391010p 0
 + 391480p 0
-+ 391490p 0.9
++ 391490p 1.0
 + \]
 V_wl_782 (WordLine_bar\\<782\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 391500p 0.9
++ 0    1.0
++ 391500p 1.0
 + 391510p 0
 + 391980p 0
-+ 391990p 0.9
++ 391990p 1.0
 + \]
 V_wl_783 (WordLine_bar\\<783\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 392000p 0.9
++ 0    1.0
++ 392000p 1.0
 + 392010p 0
 + 392480p 0
-+ 392490p 0.9
++ 392490p 1.0
 + \]
 V_wl_784 (WordLine_bar\\<784\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 392500p 0.9
++ 0    1.0
++ 392500p 1.0
 + 392510p 0
 + 392980p 0
-+ 392990p 0.9
++ 392990p 1.0
 + \]
 V_wl_785 (WordLine_bar\\<785\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 393000p 0.9
++ 0    1.0
++ 393000p 1.0
 + 393010p 0
 + 393480p 0
-+ 393490p 0.9
++ 393490p 1.0
 + \]
 V_wl_786 (WordLine_bar\\<786\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 393500p 0.9
++ 0    1.0
++ 393500p 1.0
 + 393510p 0
 + 393980p 0
-+ 393990p 0.9
++ 393990p 1.0
 + \]
 V_wl_787 (WordLine_bar\\<787\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 394000p 0.9
++ 0    1.0
++ 394000p 1.0
 + 394010p 0
 + 394480p 0
-+ 394490p 0.9
++ 394490p 1.0
 + \]
 V_wl_788 (WordLine_bar\\<788\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 394500p 0.9
++ 0    1.0
++ 394500p 1.0
 + 394510p 0
 + 394980p 0
-+ 394990p 0.9
++ 394990p 1.0
 + \]
 V_wl_789 (WordLine_bar\\<789\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 395000p 0.9
++ 0    1.0
++ 395000p 1.0
 + 395010p 0
 + 395480p 0
-+ 395490p 0.9
++ 395490p 1.0
 + \]
 V_wl_790 (WordLine_bar\\<790\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 395500p 0.9
++ 0    1.0
++ 395500p 1.0
 + 395510p 0
 + 395980p 0
-+ 395990p 0.9
++ 395990p 1.0
 + \]
 V_wl_791 (WordLine_bar\\<791\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 396000p 0.9
++ 0    1.0
++ 396000p 1.0
 + 396010p 0
 + 396480p 0
-+ 396490p 0.9
++ 396490p 1.0
 + \]
 V_wl_792 (WordLine_bar\\<792\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 396500p 0.9
++ 0    1.0
++ 396500p 1.0
 + 396510p 0
 + 396980p 0
-+ 396990p 0.9
++ 396990p 1.0
 + \]
 V_wl_793 (WordLine_bar\\<793\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 397000p 0.9
++ 0    1.0
++ 397000p 1.0
 + 397010p 0
 + 397480p 0
-+ 397490p 0.9
++ 397490p 1.0
 + \]
 V_wl_794 (WordLine_bar\\<794\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 397500p 0.9
++ 0    1.0
++ 397500p 1.0
 + 397510p 0
 + 397980p 0
-+ 397990p 0.9
++ 397990p 1.0
 + \]
 V_wl_795 (WordLine_bar\\<795\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 398000p 0.9
++ 0    1.0
++ 398000p 1.0
 + 398010p 0
 + 398480p 0
-+ 398490p 0.9
++ 398490p 1.0
 + \]
 V_wl_796 (WordLine_bar\\<796\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 398500p 0.9
++ 0    1.0
++ 398500p 1.0
 + 398510p 0
 + 398980p 0
-+ 398990p 0.9
++ 398990p 1.0
 + \]
 V_wl_797 (WordLine_bar\\<797\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 399000p 0.9
++ 0    1.0
++ 399000p 1.0
 + 399010p 0
 + 399480p 0
-+ 399490p 0.9
++ 399490p 1.0
 + \]
 V_wl_798 (WordLine_bar\\<798\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 399500p 0.9
++ 0    1.0
++ 399500p 1.0
 + 399510p 0
 + 399980p 0
-+ 399990p 0.9
++ 399990p 1.0
 + \]
 V_wl_799 (WordLine_bar\\<799\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 400000p 0.9
++ 0    1.0
++ 400000p 1.0
 + 400010p 0
 + 400480p 0
-+ 400490p 0.9
++ 400490p 1.0
 + \]
 V_wl_800 (WordLine_bar\\<800\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 400500p 0.9
++ 0    1.0
++ 400500p 1.0
 + 400510p 0
 + 400980p 0
-+ 400990p 0.9
++ 400990p 1.0
 + \]
 V_wl_801 (WordLine_bar\\<801\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 401000p 0.9
++ 0    1.0
++ 401000p 1.0
 + 401010p 0
 + 401480p 0
-+ 401490p 0.9
++ 401490p 1.0
 + \]
 V_wl_802 (WordLine_bar\\<802\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 401500p 0.9
++ 0    1.0
++ 401500p 1.0
 + 401510p 0
 + 401980p 0
-+ 401990p 0.9
++ 401990p 1.0
 + \]
 V_wl_803 (WordLine_bar\\<803\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 402000p 0.9
++ 0    1.0
++ 402000p 1.0
 + 402010p 0
 + 402480p 0
-+ 402490p 0.9
++ 402490p 1.0
 + \]
 V_wl_804 (WordLine_bar\\<804\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 402500p 0.9
++ 0    1.0
++ 402500p 1.0
 + 402510p 0
 + 402980p 0
-+ 402990p 0.9
++ 402990p 1.0
 + \]
 V_wl_805 (WordLine_bar\\<805\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 403000p 0.9
++ 0    1.0
++ 403000p 1.0
 + 403010p 0
 + 403480p 0
-+ 403490p 0.9
++ 403490p 1.0
 + \]
 V_wl_806 (WordLine_bar\\<806\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 403500p 0.9
++ 0    1.0
++ 403500p 1.0
 + 403510p 0
 + 403980p 0
-+ 403990p 0.9
++ 403990p 1.0
 + \]
 V_wl_807 (WordLine_bar\\<807\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 404000p 0.9
++ 0    1.0
++ 404000p 1.0
 + 404010p 0
 + 404480p 0
-+ 404490p 0.9
++ 404490p 1.0
 + \]
 V_wl_808 (WordLine_bar\\<808\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 404500p 0.9
++ 0    1.0
++ 404500p 1.0
 + 404510p 0
 + 404980p 0
-+ 404990p 0.9
++ 404990p 1.0
 + \]
 V_wl_809 (WordLine_bar\\<809\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 405000p 0.9
++ 0    1.0
++ 405000p 1.0
 + 405010p 0
 + 405480p 0
-+ 405490p 0.9
++ 405490p 1.0
 + \]
 V_wl_810 (WordLine_bar\\<810\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 405500p 0.9
++ 0    1.0
++ 405500p 1.0
 + 405510p 0
 + 405980p 0
-+ 405990p 0.9
++ 405990p 1.0
 + \]
 V_wl_811 (WordLine_bar\\<811\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 406000p 0.9
++ 0    1.0
++ 406000p 1.0
 + 406010p 0
 + 406480p 0
-+ 406490p 0.9
++ 406490p 1.0
 + \]
 V_wl_812 (WordLine_bar\\<812\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 406500p 0.9
++ 0    1.0
++ 406500p 1.0
 + 406510p 0
 + 406980p 0
-+ 406990p 0.9
++ 406990p 1.0
 + \]
 V_wl_813 (WordLine_bar\\<813\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 407000p 0.9
++ 0    1.0
++ 407000p 1.0
 + 407010p 0
 + 407480p 0
-+ 407490p 0.9
++ 407490p 1.0
 + \]
 V_wl_814 (WordLine_bar\\<814\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 407500p 0.9
++ 0    1.0
++ 407500p 1.0
 + 407510p 0
 + 407980p 0
-+ 407990p 0.9
++ 407990p 1.0
 + \]
 V_wl_815 (WordLine_bar\\<815\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 408000p 0.9
++ 0    1.0
++ 408000p 1.0
 + 408010p 0
 + 408480p 0
-+ 408490p 0.9
++ 408490p 1.0
 + \]
 V_wl_816 (WordLine_bar\\<816\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 408500p 0.9
++ 0    1.0
++ 408500p 1.0
 + 408510p 0
 + 408980p 0
-+ 408990p 0.9
++ 408990p 1.0
 + \]
 V_wl_817 (WordLine_bar\\<817\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 409000p 0.9
++ 0    1.0
++ 409000p 1.0
 + 409010p 0
 + 409480p 0
-+ 409490p 0.9
++ 409490p 1.0
 + \]
 V_wl_818 (WordLine_bar\\<818\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 409500p 0.9
++ 0    1.0
++ 409500p 1.0
 + 409510p 0
 + 409980p 0
-+ 409990p 0.9
++ 409990p 1.0
 + \]
 V_wl_819 (WordLine_bar\\<819\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 410000p 0.9
++ 0    1.0
++ 410000p 1.0
 + 410010p 0
 + 410480p 0
-+ 410490p 0.9
++ 410490p 1.0
 + \]
 V_wl_820 (WordLine_bar\\<820\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 410500p 0.9
++ 0    1.0
++ 410500p 1.0
 + 410510p 0
 + 410980p 0
-+ 410990p 0.9
++ 410990p 1.0
 + \]
 V_wl_821 (WordLine_bar\\<821\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 411000p 0.9
++ 0    1.0
++ 411000p 1.0
 + 411010p 0
 + 411480p 0
-+ 411490p 0.9
++ 411490p 1.0
 + \]
 V_wl_822 (WordLine_bar\\<822\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 411500p 0.9
++ 0    1.0
++ 411500p 1.0
 + 411510p 0
 + 411980p 0
-+ 411990p 0.9
++ 411990p 1.0
 + \]
 V_wl_823 (WordLine_bar\\<823\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 412000p 0.9
++ 0    1.0
++ 412000p 1.0
 + 412010p 0
 + 412480p 0
-+ 412490p 0.9
++ 412490p 1.0
 + \]
 V_wl_824 (WordLine_bar\\<824\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 412500p 0.9
++ 0    1.0
++ 412500p 1.0
 + 412510p 0
 + 412980p 0
-+ 412990p 0.9
++ 412990p 1.0
 + \]
 V_wl_825 (WordLine_bar\\<825\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 413000p 0.9
++ 0    1.0
++ 413000p 1.0
 + 413010p 0
 + 413480p 0
-+ 413490p 0.9
++ 413490p 1.0
 + \]
 V_wl_826 (WordLine_bar\\<826\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 413500p 0.9
++ 0    1.0
++ 413500p 1.0
 + 413510p 0
 + 413980p 0
-+ 413990p 0.9
++ 413990p 1.0
 + \]
 V_wl_827 (WordLine_bar\\<827\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 414000p 0.9
++ 0    1.0
++ 414000p 1.0
 + 414010p 0
 + 414480p 0
-+ 414490p 0.9
++ 414490p 1.0
 + \]
 V_wl_828 (WordLine_bar\\<828\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 414500p 0.9
++ 0    1.0
++ 414500p 1.0
 + 414510p 0
 + 414980p 0
-+ 414990p 0.9
++ 414990p 1.0
 + \]
 V_wl_829 (WordLine_bar\\<829\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 415000p 0.9
++ 0    1.0
++ 415000p 1.0
 + 415010p 0
 + 415480p 0
-+ 415490p 0.9
++ 415490p 1.0
 + \]
 V_wl_830 (WordLine_bar\\<830\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 415500p 0.9
++ 0    1.0
++ 415500p 1.0
 + 415510p 0
 + 415980p 0
-+ 415990p 0.9
++ 415990p 1.0
 + \]
 V_wl_831 (WordLine_bar\\<831\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 416000p 0.9
++ 0    1.0
++ 416000p 1.0
 + 416010p 0
 + 416480p 0
-+ 416490p 0.9
++ 416490p 1.0
 + \]
 V_wl_832 (WordLine_bar\\<832\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 416500p 0.9
++ 0    1.0
++ 416500p 1.0
 + 416510p 0
 + 416980p 0
-+ 416990p 0.9
++ 416990p 1.0
 + \]
 V_wl_833 (WordLine_bar\\<833\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 417000p 0.9
++ 0    1.0
++ 417000p 1.0
 + 417010p 0
 + 417480p 0
-+ 417490p 0.9
++ 417490p 1.0
 + \]
 V_wl_834 (WordLine_bar\\<834\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 417500p 0.9
++ 0    1.0
++ 417500p 1.0
 + 417510p 0
 + 417980p 0
-+ 417990p 0.9
++ 417990p 1.0
 + \]
 V_wl_835 (WordLine_bar\\<835\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 418000p 0.9
++ 0    1.0
++ 418000p 1.0
 + 418010p 0
 + 418480p 0
-+ 418490p 0.9
++ 418490p 1.0
 + \]
 V_wl_836 (WordLine_bar\\<836\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 418500p 0.9
++ 0    1.0
++ 418500p 1.0
 + 418510p 0
 + 418980p 0
-+ 418990p 0.9
++ 418990p 1.0
 + \]
 V_wl_837 (WordLine_bar\\<837\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 419000p 0.9
++ 0    1.0
++ 419000p 1.0
 + 419010p 0
 + 419480p 0
-+ 419490p 0.9
++ 419490p 1.0
 + \]
 V_wl_838 (WordLine_bar\\<838\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 419500p 0.9
++ 0    1.0
++ 419500p 1.0
 + 419510p 0
 + 419980p 0
-+ 419990p 0.9
++ 419990p 1.0
 + \]
 V_wl_839 (WordLine_bar\\<839\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 420000p 0.9
++ 0    1.0
++ 420000p 1.0
 + 420010p 0
 + 420480p 0
-+ 420490p 0.9
++ 420490p 1.0
 + \]
 V_wl_840 (WordLine_bar\\<840\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 420500p 0.9
++ 0    1.0
++ 420500p 1.0
 + 420510p 0
 + 420980p 0
-+ 420990p 0.9
++ 420990p 1.0
 + \]
 V_wl_841 (WordLine_bar\\<841\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 421000p 0.9
++ 0    1.0
++ 421000p 1.0
 + 421010p 0
 + 421480p 0
-+ 421490p 0.9
++ 421490p 1.0
 + \]
 V_wl_842 (WordLine_bar\\<842\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 421500p 0.9
++ 0    1.0
++ 421500p 1.0
 + 421510p 0
 + 421980p 0
-+ 421990p 0.9
++ 421990p 1.0
 + \]
 V_wl_843 (WordLine_bar\\<843\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 422000p 0.9
++ 0    1.0
++ 422000p 1.0
 + 422010p 0
 + 422480p 0
-+ 422490p 0.9
++ 422490p 1.0
 + \]
 V_wl_844 (WordLine_bar\\<844\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 422500p 0.9
++ 0    1.0
++ 422500p 1.0
 + 422510p 0
 + 422980p 0
-+ 422990p 0.9
++ 422990p 1.0
 + \]
 V_wl_845 (WordLine_bar\\<845\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 423000p 0.9
++ 0    1.0
++ 423000p 1.0
 + 423010p 0
 + 423480p 0
-+ 423490p 0.9
++ 423490p 1.0
 + \]
 V_wl_846 (WordLine_bar\\<846\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 423500p 0.9
++ 0    1.0
++ 423500p 1.0
 + 423510p 0
 + 423980p 0
-+ 423990p 0.9
++ 423990p 1.0
 + \]
 V_wl_847 (WordLine_bar\\<847\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 424000p 0.9
++ 0    1.0
++ 424000p 1.0
 + 424010p 0
 + 424480p 0
-+ 424490p 0.9
++ 424490p 1.0
 + \]
 V_wl_848 (WordLine_bar\\<848\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 424500p 0.9
++ 0    1.0
++ 424500p 1.0
 + 424510p 0
 + 424980p 0
-+ 424990p 0.9
++ 424990p 1.0
 + \]
 V_wl_849 (WordLine_bar\\<849\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 425000p 0.9
++ 0    1.0
++ 425000p 1.0
 + 425010p 0
 + 425480p 0
-+ 425490p 0.9
++ 425490p 1.0
 + \]
 V_wl_850 (WordLine_bar\\<850\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 425500p 0.9
++ 0    1.0
++ 425500p 1.0
 + 425510p 0
 + 425980p 0
-+ 425990p 0.9
++ 425990p 1.0
 + \]
 V_wl_851 (WordLine_bar\\<851\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 426000p 0.9
++ 0    1.0
++ 426000p 1.0
 + 426010p 0
 + 426480p 0
-+ 426490p 0.9
++ 426490p 1.0
 + \]
 V_wl_852 (WordLine_bar\\<852\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 426500p 0.9
++ 0    1.0
++ 426500p 1.0
 + 426510p 0
 + 426980p 0
-+ 426990p 0.9
++ 426990p 1.0
 + \]
 V_wl_853 (WordLine_bar\\<853\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 427000p 0.9
++ 0    1.0
++ 427000p 1.0
 + 427010p 0
 + 427480p 0
-+ 427490p 0.9
++ 427490p 1.0
 + \]
 V_wl_854 (WordLine_bar\\<854\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 427500p 0.9
++ 0    1.0
++ 427500p 1.0
 + 427510p 0
 + 427980p 0
-+ 427990p 0.9
++ 427990p 1.0
 + \]
 V_wl_855 (WordLine_bar\\<855\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 428000p 0.9
++ 0    1.0
++ 428000p 1.0
 + 428010p 0
 + 428480p 0
-+ 428490p 0.9
++ 428490p 1.0
 + \]
 V_wl_856 (WordLine_bar\\<856\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 428500p 0.9
++ 0    1.0
++ 428500p 1.0
 + 428510p 0
 + 428980p 0
-+ 428990p 0.9
++ 428990p 1.0
 + \]
 V_wl_857 (WordLine_bar\\<857\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 429000p 0.9
++ 0    1.0
++ 429000p 1.0
 + 429010p 0
 + 429480p 0
-+ 429490p 0.9
++ 429490p 1.0
 + \]
 V_wl_858 (WordLine_bar\\<858\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 429500p 0.9
++ 0    1.0
++ 429500p 1.0
 + 429510p 0
 + 429980p 0
-+ 429990p 0.9
++ 429990p 1.0
 + \]
 V_wl_859 (WordLine_bar\\<859\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 430000p 0.9
++ 0    1.0
++ 430000p 1.0
 + 430010p 0
 + 430480p 0
-+ 430490p 0.9
++ 430490p 1.0
 + \]
 V_wl_860 (WordLine_bar\\<860\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 430500p 0.9
++ 0    1.0
++ 430500p 1.0
 + 430510p 0
 + 430980p 0
-+ 430990p 0.9
++ 430990p 1.0
 + \]
 V_wl_861 (WordLine_bar\\<861\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 431000p 0.9
++ 0    1.0
++ 431000p 1.0
 + 431010p 0
 + 431480p 0
-+ 431490p 0.9
++ 431490p 1.0
 + \]
 V_wl_862 (WordLine_bar\\<862\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 431500p 0.9
++ 0    1.0
++ 431500p 1.0
 + 431510p 0
 + 431980p 0
-+ 431990p 0.9
++ 431990p 1.0
 + \]
 V_wl_863 (WordLine_bar\\<863\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 432000p 0.9
++ 0    1.0
++ 432000p 1.0
 + 432010p 0
 + 432480p 0
-+ 432490p 0.9
++ 432490p 1.0
 + \]
 V_wl_864 (WordLine_bar\\<864\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 432500p 0.9
++ 0    1.0
++ 432500p 1.0
 + 432510p 0
 + 432980p 0
-+ 432990p 0.9
++ 432990p 1.0
 + \]
 V_wl_865 (WordLine_bar\\<865\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 433000p 0.9
++ 0    1.0
++ 433000p 1.0
 + 433010p 0
 + 433480p 0
-+ 433490p 0.9
++ 433490p 1.0
 + \]
 V_wl_866 (WordLine_bar\\<866\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 433500p 0.9
++ 0    1.0
++ 433500p 1.0
 + 433510p 0
 + 433980p 0
-+ 433990p 0.9
++ 433990p 1.0
 + \]
 V_wl_867 (WordLine_bar\\<867\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 434000p 0.9
++ 0    1.0
++ 434000p 1.0
 + 434010p 0
 + 434480p 0
-+ 434490p 0.9
++ 434490p 1.0
 + \]
 V_wl_868 (WordLine_bar\\<868\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 434500p 0.9
++ 0    1.0
++ 434500p 1.0
 + 434510p 0
 + 434980p 0
-+ 434990p 0.9
++ 434990p 1.0
 + \]
 V_wl_869 (WordLine_bar\\<869\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 435000p 0.9
++ 0    1.0
++ 435000p 1.0
 + 435010p 0
 + 435480p 0
-+ 435490p 0.9
++ 435490p 1.0
 + \]
 V_wl_870 (WordLine_bar\\<870\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 435500p 0.9
++ 0    1.0
++ 435500p 1.0
 + 435510p 0
 + 435980p 0
-+ 435990p 0.9
++ 435990p 1.0
 + \]
 V_wl_871 (WordLine_bar\\<871\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 436000p 0.9
++ 0    1.0
++ 436000p 1.0
 + 436010p 0
 + 436480p 0
-+ 436490p 0.9
++ 436490p 1.0
 + \]
 V_wl_872 (WordLine_bar\\<872\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 436500p 0.9
++ 0    1.0
++ 436500p 1.0
 + 436510p 0
 + 436980p 0
-+ 436990p 0.9
++ 436990p 1.0
 + \]
 V_wl_873 (WordLine_bar\\<873\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 437000p 0.9
++ 0    1.0
++ 437000p 1.0
 + 437010p 0
 + 437480p 0
-+ 437490p 0.9
++ 437490p 1.0
 + \]
 V_wl_874 (WordLine_bar\\<874\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 437500p 0.9
++ 0    1.0
++ 437500p 1.0
 + 437510p 0
 + 437980p 0
-+ 437990p 0.9
++ 437990p 1.0
 + \]
 V_wl_875 (WordLine_bar\\<875\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 438000p 0.9
++ 0    1.0
++ 438000p 1.0
 + 438010p 0
 + 438480p 0
-+ 438490p 0.9
++ 438490p 1.0
 + \]
 V_wl_876 (WordLine_bar\\<876\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 438500p 0.9
++ 0    1.0
++ 438500p 1.0
 + 438510p 0
 + 438980p 0
-+ 438990p 0.9
++ 438990p 1.0
 + \]
 V_wl_877 (WordLine_bar\\<877\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 439000p 0.9
++ 0    1.0
++ 439000p 1.0
 + 439010p 0
 + 439480p 0
-+ 439490p 0.9
++ 439490p 1.0
 + \]
 V_wl_878 (WordLine_bar\\<878\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 439500p 0.9
++ 0    1.0
++ 439500p 1.0
 + 439510p 0
 + 439980p 0
-+ 439990p 0.9
++ 439990p 1.0
 + \]
 V_wl_879 (WordLine_bar\\<879\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 440000p 0.9
++ 0    1.0
++ 440000p 1.0
 + 440010p 0
 + 440480p 0
-+ 440490p 0.9
++ 440490p 1.0
 + \]
 V_wl_880 (WordLine_bar\\<880\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 440500p 0.9
++ 0    1.0
++ 440500p 1.0
 + 440510p 0
 + 440980p 0
-+ 440990p 0.9
++ 440990p 1.0
 + \]
 V_wl_881 (WordLine_bar\\<881\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 441000p 0.9
++ 0    1.0
++ 441000p 1.0
 + 441010p 0
 + 441480p 0
-+ 441490p 0.9
++ 441490p 1.0
 + \]
 V_wl_882 (WordLine_bar\\<882\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 441500p 0.9
++ 0    1.0
++ 441500p 1.0
 + 441510p 0
 + 441980p 0
-+ 441990p 0.9
++ 441990p 1.0
 + \]
 V_wl_883 (WordLine_bar\\<883\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 442000p 0.9
++ 0    1.0
++ 442000p 1.0
 + 442010p 0
 + 442480p 0
-+ 442490p 0.9
++ 442490p 1.0
 + \]
 V_wl_884 (WordLine_bar\\<884\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 442500p 0.9
++ 0    1.0
++ 442500p 1.0
 + 442510p 0
 + 442980p 0
-+ 442990p 0.9
++ 442990p 1.0
 + \]
 V_wl_885 (WordLine_bar\\<885\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 443000p 0.9
++ 0    1.0
++ 443000p 1.0
 + 443010p 0
 + 443480p 0
-+ 443490p 0.9
++ 443490p 1.0
 + \]
 V_wl_886 (WordLine_bar\\<886\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 443500p 0.9
++ 0    1.0
++ 443500p 1.0
 + 443510p 0
 + 443980p 0
-+ 443990p 0.9
++ 443990p 1.0
 + \]
 V_wl_887 (WordLine_bar\\<887\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 444000p 0.9
++ 0    1.0
++ 444000p 1.0
 + 444010p 0
 + 444480p 0
-+ 444490p 0.9
++ 444490p 1.0
 + \]
 V_wl_888 (WordLine_bar\\<888\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 444500p 0.9
++ 0    1.0
++ 444500p 1.0
 + 444510p 0
 + 444980p 0
-+ 444990p 0.9
++ 444990p 1.0
 + \]
 V_wl_889 (WordLine_bar\\<889\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 445000p 0.9
++ 0    1.0
++ 445000p 1.0
 + 445010p 0
 + 445480p 0
-+ 445490p 0.9
++ 445490p 1.0
 + \]
 V_wl_890 (WordLine_bar\\<890\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 445500p 0.9
++ 0    1.0
++ 445500p 1.0
 + 445510p 0
 + 445980p 0
-+ 445990p 0.9
++ 445990p 1.0
 + \]
 V_wl_891 (WordLine_bar\\<891\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 446000p 0.9
++ 0    1.0
++ 446000p 1.0
 + 446010p 0
 + 446480p 0
-+ 446490p 0.9
++ 446490p 1.0
 + \]
 V_wl_892 (WordLine_bar\\<892\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 446500p 0.9
++ 0    1.0
++ 446500p 1.0
 + 446510p 0
 + 446980p 0
-+ 446990p 0.9
++ 446990p 1.0
 + \]
 V_wl_893 (WordLine_bar\\<893\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 447000p 0.9
++ 0    1.0
++ 447000p 1.0
 + 447010p 0
 + 447480p 0
-+ 447490p 0.9
++ 447490p 1.0
 + \]
 V_wl_894 (WordLine_bar\\<894\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 447500p 0.9
++ 0    1.0
++ 447500p 1.0
 + 447510p 0
 + 447980p 0
-+ 447990p 0.9
++ 447990p 1.0
 + \]
 V_wl_895 (WordLine_bar\\<895\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 448000p 0.9
++ 0    1.0
++ 448000p 1.0
 + 448010p 0
 + 448480p 0
-+ 448490p 0.9
++ 448490p 1.0
 + \]
 V_wl_896 (WordLine_bar\\<896\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 448500p 0.9
++ 0    1.0
++ 448500p 1.0
 + 448510p 0
 + 448980p 0
-+ 448990p 0.9
++ 448990p 1.0
 + \]
 V_wl_897 (WordLine_bar\\<897\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 449000p 0.9
++ 0    1.0
++ 449000p 1.0
 + 449010p 0
 + 449480p 0
-+ 449490p 0.9
++ 449490p 1.0
 + \]
 V_wl_898 (WordLine_bar\\<898\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 449500p 0.9
++ 0    1.0
++ 449500p 1.0
 + 449510p 0
 + 449980p 0
-+ 449990p 0.9
++ 449990p 1.0
 + \]
 V_wl_899 (WordLine_bar\\<899\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 450000p 0.9
++ 0    1.0
++ 450000p 1.0
 + 450010p 0
 + 450480p 0
-+ 450490p 0.9
++ 450490p 1.0
 + \]
 V_wl_900 (WordLine_bar\\<900\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 450500p 0.9
++ 0    1.0
++ 450500p 1.0
 + 450510p 0
 + 450980p 0
-+ 450990p 0.9
++ 450990p 1.0
 + \]
 V_wl_901 (WordLine_bar\\<901\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 451000p 0.9
++ 0    1.0
++ 451000p 1.0
 + 451010p 0
 + 451480p 0
-+ 451490p 0.9
++ 451490p 1.0
 + \]
 V_wl_902 (WordLine_bar\\<902\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 451500p 0.9
++ 0    1.0
++ 451500p 1.0
 + 451510p 0
 + 451980p 0
-+ 451990p 0.9
++ 451990p 1.0
 + \]
 V_wl_903 (WordLine_bar\\<903\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 452000p 0.9
++ 0    1.0
++ 452000p 1.0
 + 452010p 0
 + 452480p 0
-+ 452490p 0.9
++ 452490p 1.0
 + \]
 V_wl_904 (WordLine_bar\\<904\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 452500p 0.9
++ 0    1.0
++ 452500p 1.0
 + 452510p 0
 + 452980p 0
-+ 452990p 0.9
++ 452990p 1.0
 + \]
 V_wl_905 (WordLine_bar\\<905\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 453000p 0.9
++ 0    1.0
++ 453000p 1.0
 + 453010p 0
 + 453480p 0
-+ 453490p 0.9
++ 453490p 1.0
 + \]
 V_wl_906 (WordLine_bar\\<906\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 453500p 0.9
++ 0    1.0
++ 453500p 1.0
 + 453510p 0
 + 453980p 0
-+ 453990p 0.9
++ 453990p 1.0
 + \]
 V_wl_907 (WordLine_bar\\<907\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 454000p 0.9
++ 0    1.0
++ 454000p 1.0
 + 454010p 0
 + 454480p 0
-+ 454490p 0.9
++ 454490p 1.0
 + \]
 V_wl_908 (WordLine_bar\\<908\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 454500p 0.9
++ 0    1.0
++ 454500p 1.0
 + 454510p 0
 + 454980p 0
-+ 454990p 0.9
++ 454990p 1.0
 + \]
 V_wl_909 (WordLine_bar\\<909\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 455000p 0.9
++ 0    1.0
++ 455000p 1.0
 + 455010p 0
 + 455480p 0
-+ 455490p 0.9
++ 455490p 1.0
 + \]
 V_wl_910 (WordLine_bar\\<910\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 455500p 0.9
++ 0    1.0
++ 455500p 1.0
 + 455510p 0
 + 455980p 0
-+ 455990p 0.9
++ 455990p 1.0
 + \]
 V_wl_911 (WordLine_bar\\<911\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 456000p 0.9
++ 0    1.0
++ 456000p 1.0
 + 456010p 0
 + 456480p 0
-+ 456490p 0.9
++ 456490p 1.0
 + \]
 V_wl_912 (WordLine_bar\\<912\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 456500p 0.9
++ 0    1.0
++ 456500p 1.0
 + 456510p 0
 + 456980p 0
-+ 456990p 0.9
++ 456990p 1.0
 + \]
 V_wl_913 (WordLine_bar\\<913\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 457000p 0.9
++ 0    1.0
++ 457000p 1.0
 + 457010p 0
 + 457480p 0
-+ 457490p 0.9
++ 457490p 1.0
 + \]
 V_wl_914 (WordLine_bar\\<914\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 457500p 0.9
++ 0    1.0
++ 457500p 1.0
 + 457510p 0
 + 457980p 0
-+ 457990p 0.9
++ 457990p 1.0
 + \]
 V_wl_915 (WordLine_bar\\<915\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 458000p 0.9
++ 0    1.0
++ 458000p 1.0
 + 458010p 0
 + 458480p 0
-+ 458490p 0.9
++ 458490p 1.0
 + \]
 V_wl_916 (WordLine_bar\\<916\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 458500p 0.9
++ 0    1.0
++ 458500p 1.0
 + 458510p 0
 + 458980p 0
-+ 458990p 0.9
++ 458990p 1.0
 + \]
 V_wl_917 (WordLine_bar\\<917\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 459000p 0.9
++ 0    1.0
++ 459000p 1.0
 + 459010p 0
 + 459480p 0
-+ 459490p 0.9
++ 459490p 1.0
 + \]
 V_wl_918 (WordLine_bar\\<918\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 459500p 0.9
++ 0    1.0
++ 459500p 1.0
 + 459510p 0
 + 459980p 0
-+ 459990p 0.9
++ 459990p 1.0
 + \]
 V_wl_919 (WordLine_bar\\<919\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 460000p 0.9
++ 0    1.0
++ 460000p 1.0
 + 460010p 0
 + 460480p 0
-+ 460490p 0.9
++ 460490p 1.0
 + \]
 V_wl_920 (WordLine_bar\\<920\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 460500p 0.9
++ 0    1.0
++ 460500p 1.0
 + 460510p 0
 + 460980p 0
-+ 460990p 0.9
++ 460990p 1.0
 + \]
 V_wl_921 (WordLine_bar\\<921\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 461000p 0.9
++ 0    1.0
++ 461000p 1.0
 + 461010p 0
 + 461480p 0
-+ 461490p 0.9
++ 461490p 1.0
 + \]
 V_wl_922 (WordLine_bar\\<922\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 461500p 0.9
++ 0    1.0
++ 461500p 1.0
 + 461510p 0
 + 461980p 0
-+ 461990p 0.9
++ 461990p 1.0
 + \]
 V_wl_923 (WordLine_bar\\<923\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 462000p 0.9
++ 0    1.0
++ 462000p 1.0
 + 462010p 0
 + 462480p 0
-+ 462490p 0.9
++ 462490p 1.0
 + \]
 V_wl_924 (WordLine_bar\\<924\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 462500p 0.9
++ 0    1.0
++ 462500p 1.0
 + 462510p 0
 + 462980p 0
-+ 462990p 0.9
++ 462990p 1.0
 + \]
 V_wl_925 (WordLine_bar\\<925\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 463000p 0.9
++ 0    1.0
++ 463000p 1.0
 + 463010p 0
 + 463480p 0
-+ 463490p 0.9
++ 463490p 1.0
 + \]
 V_wl_926 (WordLine_bar\\<926\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 463500p 0.9
++ 0    1.0
++ 463500p 1.0
 + 463510p 0
 + 463980p 0
-+ 463990p 0.9
++ 463990p 1.0
 + \]
 V_wl_927 (WordLine_bar\\<927\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 464000p 0.9
++ 0    1.0
++ 464000p 1.0
 + 464010p 0
 + 464480p 0
-+ 464490p 0.9
++ 464490p 1.0
 + \]
 V_wl_928 (WordLine_bar\\<928\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 464500p 0.9
++ 0    1.0
++ 464500p 1.0
 + 464510p 0
 + 464980p 0
-+ 464990p 0.9
++ 464990p 1.0
 + \]
 V_wl_929 (WordLine_bar\\<929\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 465000p 0.9
++ 0    1.0
++ 465000p 1.0
 + 465010p 0
 + 465480p 0
-+ 465490p 0.9
++ 465490p 1.0
 + \]
 V_wl_930 (WordLine_bar\\<930\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 465500p 0.9
++ 0    1.0
++ 465500p 1.0
 + 465510p 0
 + 465980p 0
-+ 465990p 0.9
++ 465990p 1.0
 + \]
 V_wl_931 (WordLine_bar\\<931\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 466000p 0.9
++ 0    1.0
++ 466000p 1.0
 + 466010p 0
 + 466480p 0
-+ 466490p 0.9
++ 466490p 1.0
 + \]
 V_wl_932 (WordLine_bar\\<932\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 466500p 0.9
++ 0    1.0
++ 466500p 1.0
 + 466510p 0
 + 466980p 0
-+ 466990p 0.9
++ 466990p 1.0
 + \]
 V_wl_933 (WordLine_bar\\<933\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 467000p 0.9
++ 0    1.0
++ 467000p 1.0
 + 467010p 0
 + 467480p 0
-+ 467490p 0.9
++ 467490p 1.0
 + \]
 V_wl_934 (WordLine_bar\\<934\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 467500p 0.9
++ 0    1.0
++ 467500p 1.0
 + 467510p 0
 + 467980p 0
-+ 467990p 0.9
++ 467990p 1.0
 + \]
 V_wl_935 (WordLine_bar\\<935\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 468000p 0.9
++ 0    1.0
++ 468000p 1.0
 + 468010p 0
 + 468480p 0
-+ 468490p 0.9
++ 468490p 1.0
 + \]
 V_wl_936 (WordLine_bar\\<936\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 468500p 0.9
++ 0    1.0
++ 468500p 1.0
 + 468510p 0
 + 468980p 0
-+ 468990p 0.9
++ 468990p 1.0
 + \]
 V_wl_937 (WordLine_bar\\<937\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 469000p 0.9
++ 0    1.0
++ 469000p 1.0
 + 469010p 0
 + 469480p 0
-+ 469490p 0.9
++ 469490p 1.0
 + \]
 V_wl_938 (WordLine_bar\\<938\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 469500p 0.9
++ 0    1.0
++ 469500p 1.0
 + 469510p 0
 + 469980p 0
-+ 469990p 0.9
++ 469990p 1.0
 + \]
 V_wl_939 (WordLine_bar\\<939\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 470000p 0.9
++ 0    1.0
++ 470000p 1.0
 + 470010p 0
 + 470480p 0
-+ 470490p 0.9
++ 470490p 1.0
 + \]
 V_wl_940 (WordLine_bar\\<940\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 470500p 0.9
++ 0    1.0
++ 470500p 1.0
 + 470510p 0
 + 470980p 0
-+ 470990p 0.9
++ 470990p 1.0
 + \]
 V_wl_941 (WordLine_bar\\<941\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 471000p 0.9
++ 0    1.0
++ 471000p 1.0
 + 471010p 0
 + 471480p 0
-+ 471490p 0.9
++ 471490p 1.0
 + \]
 V_wl_942 (WordLine_bar\\<942\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 471500p 0.9
++ 0    1.0
++ 471500p 1.0
 + 471510p 0
 + 471980p 0
-+ 471990p 0.9
++ 471990p 1.0
 + \]
 V_wl_943 (WordLine_bar\\<943\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 472000p 0.9
++ 0    1.0
++ 472000p 1.0
 + 472010p 0
 + 472480p 0
-+ 472490p 0.9
++ 472490p 1.0
 + \]
 V_wl_944 (WordLine_bar\\<944\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 472500p 0.9
++ 0    1.0
++ 472500p 1.0
 + 472510p 0
 + 472980p 0
-+ 472990p 0.9
++ 472990p 1.0
 + \]
 V_wl_945 (WordLine_bar\\<945\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 473000p 0.9
++ 0    1.0
++ 473000p 1.0
 + 473010p 0
 + 473480p 0
-+ 473490p 0.9
++ 473490p 1.0
 + \]
 V_wl_946 (WordLine_bar\\<946\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 473500p 0.9
++ 0    1.0
++ 473500p 1.0
 + 473510p 0
 + 473980p 0
-+ 473990p 0.9
++ 473990p 1.0
 + \]
 V_wl_947 (WordLine_bar\\<947\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 474000p 0.9
++ 0    1.0
++ 474000p 1.0
 + 474010p 0
 + 474480p 0
-+ 474490p 0.9
++ 474490p 1.0
 + \]
 V_wl_948 (WordLine_bar\\<948\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 474500p 0.9
++ 0    1.0
++ 474500p 1.0
 + 474510p 0
 + 474980p 0
-+ 474990p 0.9
++ 474990p 1.0
 + \]
 V_wl_949 (WordLine_bar\\<949\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 475000p 0.9
++ 0    1.0
++ 475000p 1.0
 + 475010p 0
 + 475480p 0
-+ 475490p 0.9
++ 475490p 1.0
 + \]
 V_wl_950 (WordLine_bar\\<950\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 475500p 0.9
++ 0    1.0
++ 475500p 1.0
 + 475510p 0
 + 475980p 0
-+ 475990p 0.9
++ 475990p 1.0
 + \]
 V_wl_951 (WordLine_bar\\<951\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 476000p 0.9
++ 0    1.0
++ 476000p 1.0
 + 476010p 0
 + 476480p 0
-+ 476490p 0.9
++ 476490p 1.0
 + \]
 V_wl_952 (WordLine_bar\\<952\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 476500p 0.9
++ 0    1.0
++ 476500p 1.0
 + 476510p 0
 + 476980p 0
-+ 476990p 0.9
++ 476990p 1.0
 + \]
 V_wl_953 (WordLine_bar\\<953\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 477000p 0.9
++ 0    1.0
++ 477000p 1.0
 + 477010p 0
 + 477480p 0
-+ 477490p 0.9
++ 477490p 1.0
 + \]
 V_wl_954 (WordLine_bar\\<954\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 477500p 0.9
++ 0    1.0
++ 477500p 1.0
 + 477510p 0
 + 477980p 0
-+ 477990p 0.9
++ 477990p 1.0
 + \]
 V_wl_955 (WordLine_bar\\<955\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 478000p 0.9
++ 0    1.0
++ 478000p 1.0
 + 478010p 0
 + 478480p 0
-+ 478490p 0.9
++ 478490p 1.0
 + \]
 V_wl_956 (WordLine_bar\\<956\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 478500p 0.9
++ 0    1.0
++ 478500p 1.0
 + 478510p 0
 + 478980p 0
-+ 478990p 0.9
++ 478990p 1.0
 + \]
 V_wl_957 (WordLine_bar\\<957\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 479000p 0.9
++ 0    1.0
++ 479000p 1.0
 + 479010p 0
 + 479480p 0
-+ 479490p 0.9
++ 479490p 1.0
 + \]
 V_wl_958 (WordLine_bar\\<958\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 479500p 0.9
++ 0    1.0
++ 479500p 1.0
 + 479510p 0
 + 479980p 0
-+ 479990p 0.9
++ 479990p 1.0
 + \]
 V_wl_959 (WordLine_bar\\<959\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 480000p 0.9
++ 0    1.0
++ 480000p 1.0
 + 480010p 0
 + 480480p 0
-+ 480490p 0.9
++ 480490p 1.0
 + \]
 V_wl_960 (WordLine_bar\\<960\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 480500p 0.9
++ 0    1.0
++ 480500p 1.0
 + 480510p 0
 + 480980p 0
-+ 480990p 0.9
++ 480990p 1.0
 + \]
 V_wl_961 (WordLine_bar\\<961\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 481000p 0.9
++ 0    1.0
++ 481000p 1.0
 + 481010p 0
 + 481480p 0
-+ 481490p 0.9
++ 481490p 1.0
 + \]
 V_wl_962 (WordLine_bar\\<962\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 481500p 0.9
++ 0    1.0
++ 481500p 1.0
 + 481510p 0
 + 481980p 0
-+ 481990p 0.9
++ 481990p 1.0
 + \]
 V_wl_963 (WordLine_bar\\<963\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 482000p 0.9
++ 0    1.0
++ 482000p 1.0
 + 482010p 0
 + 482480p 0
-+ 482490p 0.9
++ 482490p 1.0
 + \]
 V_wl_964 (WordLine_bar\\<964\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 482500p 0.9
++ 0    1.0
++ 482500p 1.0
 + 482510p 0
 + 482980p 0
-+ 482990p 0.9
++ 482990p 1.0
 + \]
 V_wl_965 (WordLine_bar\\<965\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 483000p 0.9
++ 0    1.0
++ 483000p 1.0
 + 483010p 0
 + 483480p 0
-+ 483490p 0.9
++ 483490p 1.0
 + \]
 V_wl_966 (WordLine_bar\\<966\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 483500p 0.9
++ 0    1.0
++ 483500p 1.0
 + 483510p 0
 + 483980p 0
-+ 483990p 0.9
++ 483990p 1.0
 + \]
 V_wl_967 (WordLine_bar\\<967\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 484000p 0.9
++ 0    1.0
++ 484000p 1.0
 + 484010p 0
 + 484480p 0
-+ 484490p 0.9
++ 484490p 1.0
 + \]
 V_wl_968 (WordLine_bar\\<968\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 484500p 0.9
++ 0    1.0
++ 484500p 1.0
 + 484510p 0
 + 484980p 0
-+ 484990p 0.9
++ 484990p 1.0
 + \]
 V_wl_969 (WordLine_bar\\<969\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 485000p 0.9
++ 0    1.0
++ 485000p 1.0
 + 485010p 0
 + 485480p 0
-+ 485490p 0.9
++ 485490p 1.0
 + \]
 V_wl_970 (WordLine_bar\\<970\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 485500p 0.9
++ 0    1.0
++ 485500p 1.0
 + 485510p 0
 + 485980p 0
-+ 485990p 0.9
++ 485990p 1.0
 + \]
 V_wl_971 (WordLine_bar\\<971\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 486000p 0.9
++ 0    1.0
++ 486000p 1.0
 + 486010p 0
 + 486480p 0
-+ 486490p 0.9
++ 486490p 1.0
 + \]
 V_wl_972 (WordLine_bar\\<972\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 486500p 0.9
++ 0    1.0
++ 486500p 1.0
 + 486510p 0
 + 486980p 0
-+ 486990p 0.9
++ 486990p 1.0
 + \]
 V_wl_973 (WordLine_bar\\<973\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 487000p 0.9
++ 0    1.0
++ 487000p 1.0
 + 487010p 0
 + 487480p 0
-+ 487490p 0.9
++ 487490p 1.0
 + \]
 V_wl_974 (WordLine_bar\\<974\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 487500p 0.9
++ 0    1.0
++ 487500p 1.0
 + 487510p 0
 + 487980p 0
-+ 487990p 0.9
++ 487990p 1.0
 + \]
 V_wl_975 (WordLine_bar\\<975\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 488000p 0.9
++ 0    1.0
++ 488000p 1.0
 + 488010p 0
 + 488480p 0
-+ 488490p 0.9
++ 488490p 1.0
 + \]
 V_wl_976 (WordLine_bar\\<976\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 488500p 0.9
++ 0    1.0
++ 488500p 1.0
 + 488510p 0
 + 488980p 0
-+ 488990p 0.9
++ 488990p 1.0
 + \]
 V_wl_977 (WordLine_bar\\<977\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 489000p 0.9
++ 0    1.0
++ 489000p 1.0
 + 489010p 0
 + 489480p 0
-+ 489490p 0.9
++ 489490p 1.0
 + \]
 V_wl_978 (WordLine_bar\\<978\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 489500p 0.9
++ 0    1.0
++ 489500p 1.0
 + 489510p 0
 + 489980p 0
-+ 489990p 0.9
++ 489990p 1.0
 + \]
 V_wl_979 (WordLine_bar\\<979\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 490000p 0.9
++ 0    1.0
++ 490000p 1.0
 + 490010p 0
 + 490480p 0
-+ 490490p 0.9
++ 490490p 1.0
 + \]
 V_wl_980 (WordLine_bar\\<980\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 490500p 0.9
++ 0    1.0
++ 490500p 1.0
 + 490510p 0
 + 490980p 0
-+ 490990p 0.9
++ 490990p 1.0
 + \]
 V_wl_981 (WordLine_bar\\<981\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 491000p 0.9
++ 0    1.0
++ 491000p 1.0
 + 491010p 0
 + 491480p 0
-+ 491490p 0.9
++ 491490p 1.0
 + \]
 V_wl_982 (WordLine_bar\\<982\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 491500p 0.9
++ 0    1.0
++ 491500p 1.0
 + 491510p 0
 + 491980p 0
-+ 491990p 0.9
++ 491990p 1.0
 + \]
 V_wl_983 (WordLine_bar\\<983\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 492000p 0.9
++ 0    1.0
++ 492000p 1.0
 + 492010p 0
 + 492480p 0
-+ 492490p 0.9
++ 492490p 1.0
 + \]
 V_wl_984 (WordLine_bar\\<984\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 492500p 0.9
++ 0    1.0
++ 492500p 1.0
 + 492510p 0
 + 492980p 0
-+ 492990p 0.9
++ 492990p 1.0
 + \]
 V_wl_985 (WordLine_bar\\<985\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 493000p 0.9
++ 0    1.0
++ 493000p 1.0
 + 493010p 0
 + 493480p 0
-+ 493490p 0.9
++ 493490p 1.0
 + \]
 V_wl_986 (WordLine_bar\\<986\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 493500p 0.9
++ 0    1.0
++ 493500p 1.0
 + 493510p 0
 + 493980p 0
-+ 493990p 0.9
++ 493990p 1.0
 + \]
 V_wl_987 (WordLine_bar\\<987\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 494000p 0.9
++ 0    1.0
++ 494000p 1.0
 + 494010p 0
 + 494480p 0
-+ 494490p 0.9
++ 494490p 1.0
 + \]
 V_wl_988 (WordLine_bar\\<988\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 494500p 0.9
++ 0    1.0
++ 494500p 1.0
 + 494510p 0
 + 494980p 0
-+ 494990p 0.9
++ 494990p 1.0
 + \]
 V_wl_989 (WordLine_bar\\<989\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 495000p 0.9
++ 0    1.0
++ 495000p 1.0
 + 495010p 0
 + 495480p 0
-+ 495490p 0.9
++ 495490p 1.0
 + \]
 V_wl_990 (WordLine_bar\\<990\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 495500p 0.9
++ 0    1.0
++ 495500p 1.0
 + 495510p 0
 + 495980p 0
-+ 495990p 0.9
++ 495990p 1.0
 + \]
 V_wl_991 (WordLine_bar\\<991\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 496000p 0.9
++ 0    1.0
++ 496000p 1.0
 + 496010p 0
 + 496480p 0
-+ 496490p 0.9
++ 496490p 1.0
 + \]
 V_wl_992 (WordLine_bar\\<992\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 496500p 0.9
++ 0    1.0
++ 496500p 1.0
 + 496510p 0
 + 496980p 0
-+ 496990p 0.9
++ 496990p 1.0
 + \]
 V_wl_993 (WordLine_bar\\<993\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 497000p 0.9
++ 0    1.0
++ 497000p 1.0
 + 497010p 0
 + 497480p 0
-+ 497490p 0.9
++ 497490p 1.0
 + \]
 V_wl_994 (WordLine_bar\\<994\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 497500p 0.9
++ 0    1.0
++ 497500p 1.0
 + 497510p 0
 + 497980p 0
-+ 497990p 0.9
++ 497990p 1.0
 + \]
 V_wl_995 (WordLine_bar\\<995\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 498000p 0.9
++ 0    1.0
++ 498000p 1.0
 + 498010p 0
 + 498480p 0
-+ 498490p 0.9
++ 498490p 1.0
 + \]
 V_wl_996 (WordLine_bar\\<996\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 498500p 0.9
++ 0    1.0
++ 498500p 1.0
 + 498510p 0
 + 498980p 0
-+ 498990p 0.9
++ 498990p 1.0
 + \]
 V_wl_997 (WordLine_bar\\<997\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 499000p 0.9
++ 0    1.0
++ 499000p 1.0
 + 499010p 0
 + 499480p 0
-+ 499490p 0.9
++ 499490p 1.0
 + \]
 V_wl_998 (WordLine_bar\\<998\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 499500p 0.9
++ 0    1.0
++ 499500p 1.0
 + 499510p 0
 + 499980p 0
-+ 499990p 0.9
++ 499990p 1.0
 + \]
 V_wl_999 (WordLine_bar\\<999\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 500000p 0.9
++ 0    1.0
++ 500000p 1.0
 + 500010p 0
 + 500480p 0
-+ 500490p 0.9
++ 500490p 1.0
 + \]
 V_wl_1000 (WordLine_bar\\<1000\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 500500p 0.9
++ 0    1.0
++ 500500p 1.0
 + 500510p 0
 + 500980p 0
-+ 500990p 0.9
++ 500990p 1.0
 + \]
 V_wl_1001 (WordLine_bar\\<1001\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 501000p 0.9
++ 0    1.0
++ 501000p 1.0
 + 501010p 0
 + 501480p 0
-+ 501490p 0.9
++ 501490p 1.0
 + \]
 V_wl_1002 (WordLine_bar\\<1002\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 501500p 0.9
++ 0    1.0
++ 501500p 1.0
 + 501510p 0
 + 501980p 0
-+ 501990p 0.9
++ 501990p 1.0
 + \]
 V_wl_1003 (WordLine_bar\\<1003\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 502000p 0.9
++ 0    1.0
++ 502000p 1.0
 + 502010p 0
 + 502480p 0
-+ 502490p 0.9
++ 502490p 1.0
 + \]
 V_wl_1004 (WordLine_bar\\<1004\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 502500p 0.9
++ 0    1.0
++ 502500p 1.0
 + 502510p 0
 + 502980p 0
-+ 502990p 0.9
++ 502990p 1.0
 + \]
 V_wl_1005 (WordLine_bar\\<1005\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 503000p 0.9
++ 0    1.0
++ 503000p 1.0
 + 503010p 0
 + 503480p 0
-+ 503490p 0.9
++ 503490p 1.0
 + \]
 V_wl_1006 (WordLine_bar\\<1006\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 503500p 0.9
++ 0    1.0
++ 503500p 1.0
 + 503510p 0
 + 503980p 0
-+ 503990p 0.9
++ 503990p 1.0
 + \]
 V_wl_1007 (WordLine_bar\\<1007\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 504000p 0.9
++ 0    1.0
++ 504000p 1.0
 + 504010p 0
 + 504480p 0
-+ 504490p 0.9
++ 504490p 1.0
 + \]
 V_wl_1008 (WordLine_bar\\<1008\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 504500p 0.9
++ 0    1.0
++ 504500p 1.0
 + 504510p 0
 + 504980p 0
-+ 504990p 0.9
++ 504990p 1.0
 + \]
 V_wl_1009 (WordLine_bar\\<1009\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 505000p 0.9
++ 0    1.0
++ 505000p 1.0
 + 505010p 0
 + 505480p 0
-+ 505490p 0.9
++ 505490p 1.0
 + \]
 V_wl_1010 (WordLine_bar\\<1010\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 505500p 0.9
++ 0    1.0
++ 505500p 1.0
 + 505510p 0
 + 505980p 0
-+ 505990p 0.9
++ 505990p 1.0
 + \]
 V_wl_1011 (WordLine_bar\\<1011\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 506000p 0.9
++ 0    1.0
++ 506000p 1.0
 + 506010p 0
 + 506480p 0
-+ 506490p 0.9
++ 506490p 1.0
 + \]
 V_wl_1012 (WordLine_bar\\<1012\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 506500p 0.9
++ 0    1.0
++ 506500p 1.0
 + 506510p 0
 + 506980p 0
-+ 506990p 0.9
++ 506990p 1.0
 + \]
 V_wl_1013 (WordLine_bar\\<1013\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 507000p 0.9
++ 0    1.0
++ 507000p 1.0
 + 507010p 0
 + 507480p 0
-+ 507490p 0.9
++ 507490p 1.0
 + \]
 V_wl_1014 (WordLine_bar\\<1014\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 507500p 0.9
++ 0    1.0
++ 507500p 1.0
 + 507510p 0
 + 507980p 0
-+ 507990p 0.9
++ 507990p 1.0
 + \]
 V_wl_1015 (WordLine_bar\\<1015\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 508000p 0.9
++ 0    1.0
++ 508000p 1.0
 + 508010p 0
 + 508480p 0
-+ 508490p 0.9
++ 508490p 1.0
 + \]
 V_wl_1016 (WordLine_bar\\<1016\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 508500p 0.9
++ 0    1.0
++ 508500p 1.0
 + 508510p 0
 + 508980p 0
-+ 508990p 0.9
++ 508990p 1.0
 + \]
 V_wl_1017 (WordLine_bar\\<1017\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 509000p 0.9
++ 0    1.0
++ 509000p 1.0
 + 509010p 0
 + 509480p 0
-+ 509490p 0.9
++ 509490p 1.0
 + \]
 V_wl_1018 (WordLine_bar\\<1018\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 509500p 0.9
++ 0    1.0
++ 509500p 1.0
 + 509510p 0
 + 509980p 0
-+ 509990p 0.9
++ 509990p 1.0
 + \]
 V_wl_1019 (WordLine_bar\\<1019\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 510000p 0.9
++ 0    1.0
++ 510000p 1.0
 + 510010p 0
 + 510480p 0
-+ 510490p 0.9
++ 510490p 1.0
 + \]
 V_wl_1020 (WordLine_bar\\<1020\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 510500p 0.9
++ 0    1.0
++ 510500p 1.0
 + 510510p 0
 + 510980p 0
-+ 510990p 0.9
++ 510990p 1.0
 + \]
 V_wl_1021 (WordLine_bar\\<1021\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 511000p 0.9
++ 0    1.0
++ 511000p 1.0
 + 511010p 0
 + 511480p 0
-+ 511490p 0.9
++ 511490p 1.0
 + \]
 V_wl_1022 (WordLine_bar\\<1022\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 511500p 0.9
++ 0    1.0
++ 511500p 1.0
 + 511510p 0
 + 511980p 0
-+ 511990p 0.9
++ 511990p 1.0
 + \]
 V_wl_1023 (WordLine_bar\\<1023\\> gnd!) vsource type=pwl wave=\[
-+ 0    0.9
-+ 512000p 0.9
++ 0    1.0
++ 512000p 1.0
 + 512010p 0
 + 512480p 0
-+ 512490p 0.9
++ 512490p 1.0
 + \]
