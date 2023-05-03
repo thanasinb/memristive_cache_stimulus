@@ -33,6 +33,8 @@ f = open("stimulus_base.scs", "w")
 f.write("Vdd    (vdd! gnd!)   vsource dc=" + vpp + "\n")
 f.write("V_Read (V_Read gnd!) vsource dc=" + vpp + "\n")
 f.write("V_ref  (Vref gnd!)   vsource dc=" + vref + "\n")
+f.write("Vpp    (Vp gnd!)     vsource dc=" + vpp + "\n")
+f.write("Vnn    (Vn gnd!)     vsource dc=" + vnn + "\n")
 
 step_1 = 1
 step_2 = 5

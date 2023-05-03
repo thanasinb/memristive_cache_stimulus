@@ -1,6 +1,8 @@
 Vdd    (vdd! gnd!)   vsource dc=0.6
 V_Read (V_Read gnd!) vsource dc=0.6
 V_ref  (Vref gnd!)   vsource dc=0.14
+Vpp    (Vp gnd!)     vsource dc=0.6
+Vnn    (Vn gnd!)     vsource dc=-0.6
 V_RW   (RW gnd!)     vsource type=pwl wave=\[
 + 0    -0.6
 + 090p -0.6
