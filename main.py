@@ -21,12 +21,13 @@ num_word = 1024
 read = True
 data_mode_switching = True
 start_WL = 0
-vdd = "0.6"
-vss = "-0.6"
-vpp = "0.6"
-vnn = "-0.6"
+vdd = "1.2"
+vss = "0"
+vpp = "1.2"
+vnn = "0"
+vhh = "0.6"
 vread = "0.6"
-vgnd = "0"
+vgg = "0"
 vref = "0.14"
 
 f = open("stimulus_base.scs", "w")
@@ -35,6 +36,7 @@ f.write("V_Read (V_Read gnd!) vsource dc=" + vpp + "\n")
 f.write("V_ref  (Vref gnd!)   vsource dc=" + vref + "\n")
 f.write("Vpp    (Vp gnd!)     vsource dc=" + vpp + "\n")
 f.write("Vnn    (Vn gnd!)     vsource dc=" + vnn + "\n")
+f.write("Vhh    (Vh gnd!)     vsource dc=" + vhh + "\n")
 
 step_1 = 1
 step_2 = 5
