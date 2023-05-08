@@ -26,7 +26,7 @@ vss = "-0.6"
 vpp = "0.6"
 vnn = "-0.6"
 vhh = "0.0"
-vread = "0.3"
+vread = "0.2"
 vgg = "0"
 vref = "0.14"
 
