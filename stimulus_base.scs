@@ -1,5 +1,6 @@
 Vdd    (vdd! gnd!)   vsource dc=0.5
-V_Read (V_Read gnd!) vsource dc=0.2
+V_read (V_Read gnd!) vsource dc=0.2
+V_body (Vbody gnd!)  vsource dc=0.2
 V_ref  (Vref gnd!)   vsource dc=0.14
 Vpp    (Vp gnd!)     vsource dc=0.5
 Vnn    (Vn gnd!)     vsource dc=-0.7
