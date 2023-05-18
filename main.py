@@ -32,13 +32,13 @@ num_word = 1024
 read = True
 data_mode_switching = False
 start_WL = 0
-vdd = "0.5"
-vss = "-0.7"
+vdd = "0.6"
+vss = "-0.6"
 vgg = "0.0"
 vpp = vdd
 vnn = vss
 vhh = vgg
-vread = "0.2"
+vread = "0.3"
 vbody = vdd
 vref = "0.14"
 
