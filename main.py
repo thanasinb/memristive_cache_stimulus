@@ -39,7 +39,7 @@ vpp = vdd
 vnn = vss
 vhh = vgg
 vread = "0.2"
-vbody = vdd
+vbody = "0.2"
 vref = "0.14"
 
 f = open("stimulus_base.scs", "w")
