@@ -36,13 +36,13 @@ num_word = 1024
 read = True
 data_mode_switching = False
 start_WL = 0
-vdd = "0.2"
-vss = "-1.0"
+vdd = "0.6"
+vss = "-0.6"
 vgg = "0.0"
 vpp = vdd
 vnn = vss
 vhh = vgg
-vread = "-0.4"
+vread = "0.2"
 vbody = vdd
 vref = "0.14"
 
@@ -100,7 +100,7 @@ step_1 = 5
 step_2 = 10
 f = open("stimulus_wl.scs", "w")
 for x in range(num_word):
-  f.write('V_wl_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
+  f.write('V_wl_bar_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
   if x==0:
     f.write('+ 0    ' + vpp + '\n')
   else:
@@ -114,6 +114,27 @@ for x in range(num_word):
       f.write('+ ' + str(step_1) + '10p ' + vnn + '\n')
     f.write('+ ' + str(step_2) + '00p ' + vnn + '\n')
     f.write('+ ' + str(step_2) + '10p ' + vpp + '\n')
+    step_1 = step_1 + 5
+    step_2 = step_2 + 5
+  f.write('+ \\]\n')
+
+step_1 = 5
+step_2 = 10
+for x in range(num_word):
+  f.write('V_wl_' + str(x) + ' (WordLine\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
+  if x==0:
+    f.write('+ 0    ' + vnn + '\n')
+  else:
+    f.write('+ 0    ' + vnn + '\n')
+  if x >= start_WL:
+    if step_1 == 0:
+      f.write('+ 10p  ' + vpp + '\n')
+    else:
+      f.write('+ ' + str(step_1) + '00p ' + vnn + '\n')
+    if step_1 != 0:
+      f.write('+ ' + str(step_1) + '10p ' + vpp + '\n')
+    f.write('+ ' + str(step_2) + '00p ' + vpp + '\n')
+    f.write('+ ' + str(step_2) + '10p ' + vnn + '\n')
     step_1 = step_1 + 5
     step_2 = step_2 + 5
   f.write('+ \\]\n')
