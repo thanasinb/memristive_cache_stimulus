@@ -42,7 +42,7 @@ vgg = "0.0"
 vpp = vdd
 vnn = vss
 vhh = vgg
-vread = "0.3"
+vread = "0.4"
 vbody = vss
 vref = "0.14"
 
