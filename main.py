@@ -99,9 +99,9 @@ f.write('+ \\]\n')
 
 f.close()
 
-step_1 = 5
-step_2 = 10
-step_step = step_2
+step_1 = 7
+step_2 = 14
+step_step = step_1
 f = open("stimulus_wl.scs", "w")
 for x in range(num_word):
   f.write('V_wl_bar_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
@@ -124,7 +124,7 @@ for x in range(num_word):
 
 step_1 = 7
 step_2 = 14
-step_step = step_2
+step_step = step_1
 for x in range(num_word):
   f.write('V_wl_' + str(x) + ' (WordLine\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
   if x==0:
