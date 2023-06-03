@@ -55,8 +55,8 @@ f.write("Vpp    (Vp gnd!)     vsource dc=" + vpp + "\n")
 f.write("Vnn    (Vn gnd!)     vsource dc=" + vnn + "\n")
 f.write("Vhh    (Vh gnd!)     vsource dc=" + vhh + "\n")
 
-step_1 = 1
-step_2 = 5
+step_1 = 2
+step_2 = 7
 f.write('V_RW   (RW gnd!)     vsource type=pwl wave=\\[\n')
 f.write('+ 0    ' + vnn + '\n')
 for x in range(num_word):
@@ -64,12 +64,12 @@ for x in range(num_word):
   f.write('+ ' + str(step_1) + '10p ' + vpp + '\n')
   f.write('+ ' + str(step_2) + '00p ' + vpp + '\n')
   f.write('+ ' + str(step_2) + '10p ' + vnn + '\n')
-  step_1 = step_1 + 5
-  step_2 = step_2 + 5
+  step_1 = step_1 + step_2
+  step_2 = step_2 + step_2
 f.write('+ \\]\n')
 
-step_1 = 1
-step_2 = 5
+step_1 = 2
+step_2 = 7
 f.write('V_RW_bar   (RW_bar gnd!)     vsource type=pwl wave=\\[\n')
 f.write('+ 0    ' + vpp + '\n')
 for x in range(num_word):
@@ -77,12 +77,12 @@ for x in range(num_word):
   f.write('+ ' + str(step_1) + '10p ' + vnn + '\n')
   f.write('+ ' + str(step_2) + '00p ' + vnn + '\n')
   f.write('+ ' + str(step_2) + '10p ' + vpp + '\n')
-  step_1 = step_1 + 5
-  step_2 = step_2 + 5
+  step_1 = step_1 + step_2
+  step_2 = step_2 + step_2
 f.write('+ \\]\n')
 
-step_1 = 7
-step_2 = 10
+step_1 = 2
+step_2 = 7
 f.write('V_clk   (clk gnd!)     vsource type=pwl wave=\\[\n')
 f.write('+ 0    ' + vnn + '\n')
 for x in range(num_word):
@@ -90,8 +90,8 @@ for x in range(num_word):
   f.write('+ ' + str(step_1) + '10p ' + vpp + '\n')
   f.write('+ ' + str(step_2) + '00p ' + vpp + '\n')
   f.write('+ ' + str(step_2) + '10p ' + vnn + '\n')
-  step_1 = step_1 + 5
-  step_2 = step_2 + 5
+  step_1 = step_1 + step_2
+  step_2 = step_2 + step_2
 f.write('+ \\]\n')
 
 f.close()
@@ -114,12 +114,12 @@ for x in range(num_word):
       f.write('+ ' + str(step_1) + '10p ' + vnn + '\n')
     f.write('+ ' + str(step_2) + '00p ' + vnn + '\n')
     f.write('+ ' + str(step_2) + '10p ' + vpp + '\n')
-    step_1 = step_1 + 5
-    step_2 = step_2 + 5
+    step_1 = step_1 + step_2
+    step_2 = step_2 + step_2
   f.write('+ \\]\n')
 
-step_1 = 5
-step_2 = 10
+step_1 = 7
+step_2 = 14
 for x in range(num_word):
   f.write('V_wl_' + str(x) + ' (WordLine\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
   if x==0:
@@ -135,8 +135,8 @@ for x in range(num_word):
       f.write('+ ' + str(step_1) + '10p ' + vpp + '\n')
     f.write('+ ' + str(step_2) + '00p ' + vpp + '\n')
     f.write('+ ' + str(step_2) + '10p ' + vnn + '\n')
-    step_1 = step_1 + 5
-    step_2 = step_2 + 5
+    step_1 = step_1 + step_2
+    step_2 = step_2 + step_2
   f.write('+ \\]\n')
 
 f.close()
@@ -145,8 +145,8 @@ f = open("stimulus_data.scs", "w")
 i = 0
 for x in data:
   if x == 0:
-    step_1 = 5
-    step_2 = 10
+    step_1 = 7
+    step_2 = 14
     f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    ' + vnn + '\n')
     if (data_mode_switching):
@@ -155,12 +155,12 @@ for x in data:
         f.write('+ ' + str(step_1) + '10p ' + vpp + '\n')
         f.write('+ ' + str(step_2) + '00p ' + vpp + '\n')
         f.write('+ ' + str(step_2) + '10p ' + vnn + '\n')
-        step_1 = step_1 + 10
-        step_2 = step_2 + 10
+        step_1 = step_1 + step_2
+        step_2 = step_2 + step_2
     f.write('+ \\]\n')
 
-    step_1 = 5
-    step_2 = 10
+    step_1 = 7
+    step_2 = 14
     f.write('V_data_bar_' + str(i) + ' (Data_bar\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    ' + vpp + '\n')
     if (data_mode_switching):
@@ -169,13 +169,13 @@ for x in data:
         f.write('+ ' + str(step_1) + '10p ' + vnn + '\n')
         f.write('+ ' + str(step_2) + '00p ' + vnn + '\n')
         f.write('+ ' + str(step_2) + '10p ' + vpp + '\n')
-        step_1 = step_1 + 10
-        step_2 = step_2 + 10
+        step_1 = step_1 + step_2
+        step_2 = step_2 + step_2
     f.write('+ \\]\n')
 
   if x == 1:
-    step_1 = 5
-    step_2 = 10
+    step_1 = 7
+    step_2 = 14
     f.write('V_data_' + str(i) + ' (Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    ' + vpp + '\n')
     if (data_mode_switching):
@@ -184,12 +184,12 @@ for x in data:
         f.write('+ ' + str(step_1) + '10p ' + vnn + '\n')
         f.write('+ ' + str(step_2) + '00p ' + vnn + '\n')
         f.write('+ ' + str(step_2) + '10p ' + vpp + '\n')
-        step_1 = step_1 + 10
-        step_2 = step_2 + 10
+        step_1 = step_1 + step_2
+        step_2 = step_2 + step_2
     f.write('+ \\]\n')
 
-    step_1 = 5
-    step_2 = 10
+    step_1 = 7
+    step_2 = 14
     f.write('V_data_bar_' + str(i) + ' (Data_bar\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    ' + vnn + '\n')
     if (data_mode_switching):
@@ -198,8 +198,8 @@ for x in data:
         f.write('+ ' + str(step_1) + '10p ' + vpp + '\n')
         f.write('+ ' + str(step_2) + '00p ' + vpp + '\n')
         f.write('+ ' + str(step_2) + '10p ' + vnn + '\n')
-        step_1 = step_1 + 10
-        step_2 = step_2 + 10
+        step_1 = step_1 + step_2
+        step_2 = step_2 + step_2
     f.write('+ \\]\n')
   i = i + 1
 f.close()
@@ -208,8 +208,8 @@ f = open("stimulus_tag_data.scs", "w")
 i = 0
 for x in tag_data:
   if x == 0:
-    step_1 = 5
-    step_2 = 10
+    step_1 = 7
+    step_2 = 14
     f.write('V_tag_data_' + str(i) + ' (Tag_Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    ' + vnn + '\n')
     for x in range(int(num_word/2)):
@@ -217,12 +217,12 @@ for x in tag_data:
       f.write('+ ' + str(step_1) + '10p ' + vpp + '\n')
       f.write('+ ' + str(step_2) + '00p ' + vpp + '\n')
       f.write('+ ' + str(step_2) + '10p ' + vnn + '\n')
-      step_1 = step_1 + 10
-      step_2 = step_2 + 10
+      step_1 = step_1 + step_2
+      step_2 = step_2 + step_2
     f.write('+ \\]\n')
 
-    step_1 = 5
-    step_2 = 10
+    step_1 = 7
+    step_2 = 14
     f.write('V_tag_data_bar_' + str(i) + ' (Tag_Data_bar\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    ' + vpp + '\n')
     for x in range(int(num_word/2)):
@@ -230,13 +230,13 @@ for x in tag_data:
       f.write('+ ' + str(step_1) + '10p ' + vnn + '\n')
       f.write('+ ' + str(step_2) + '00p ' + vnn + '\n')
       f.write('+ ' + str(step_2) + '10p ' + vpp + '\n')
-      step_1 = step_1 + 10
-      step_2 = step_2 + 10
+      step_1 = step_1 + step_2
+      step_2 = step_2 + step_2
     f.write('+ \\]\n')
 
   if x == 1:
-    step_1 = 5
-    step_2 = 10
+    step_1 = 7
+    step_2 = 14
     f.write('V_tag_data_' + str(i) + ' (Tag_Data\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    ' + vpp + '\n')
     for x in range(int(num_word/2)):
@@ -244,12 +244,12 @@ for x in tag_data:
       f.write('+ ' + str(step_1) + '10p ' + vnn + '\n')
       f.write('+ ' + str(step_2) + '00p ' + vnn + '\n')
       f.write('+ ' + str(step_2) + '10p ' + vpp + '\n')
-      step_1 = step_1 + 10
-      step_2 = step_2 + 10
+      step_1 = step_1 + step_2
+      step_2 = step_2 + step_2
     f.write('+ \\]\n')
 
-    step_1 = 5
-    step_2 = 10
+    step_1 = 7
+    step_2 = 14
     f.write('V_tag_data_bar_' + str(i) + ' (Tag_Data_bar\\\\<' + str(i) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
     f.write('+ 0    ' + vnn + '\n')
     for x in range(int(num_word/2)):
@@ -257,8 +257,8 @@ for x in tag_data:
       f.write('+ ' + str(step_1) + '10p ' + vpp + '\n')
       f.write('+ ' + str(step_2) + '00p ' + vpp + '\n')
       f.write('+ ' + str(step_2) + '10p ' + vnn + '\n')
-      step_1 = step_1 + 10
-      step_2 = step_2 + 10
+      step_1 = step_1 + step_2
+      step_2 = step_2 + step_2
     f.write('+ \\]\n')
   i = i + 1
 f.close()
