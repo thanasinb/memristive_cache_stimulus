@@ -44,7 +44,7 @@ vnn = vss
 vhh = vgg
 vread = "0.2"
 vbody = vss
-vref = "0.14"
+vref = "0.04"
 pulse_extend_100ps = 2
 
 f = open("stimulus_base.scs", "w")
