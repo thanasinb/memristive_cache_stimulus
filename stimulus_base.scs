@@ -8205,10 +8205,6 @@ V_RW_bar   (RW_bar gnd!)     vsource type=pwl wave=\[
 + \]
 V_clk   (clk gnd!)     vsource type=pwl wave=\[
 + 0    -0.3
-+ 1000p -0.3
-+ 1010p 0.9
-+ 1500p 0.9
-+ 1510p -0.3
 + 2500p -0.3
 + 2510p 0.9
 + 3000p 0.9
@@ -12301,4 +12297,8 @@ V_clk   (clk gnd!)     vsource type=pwl wave=\[
 + 1535510p 0.9
 + 1536000p 0.9
 + 1536010p -0.3
++ 1537000p -0.3
++ 1537010p 0.9
++ 1537500p 0.9
++ 1537510p -0.3
 + \]
