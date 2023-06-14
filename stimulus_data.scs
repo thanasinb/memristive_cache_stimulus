@@ -1,8 +1,16 @@
 V_data_0 (Data\\<0\\> gnd!) vsource type=pwl wave=\[
 + 0    0.9
++ 1500p 0.9
++ 1510p -0.3
++ 3000p -0.3
++ 3010p 0.9
 + \]
 V_data_bar_0 (Data_bar\\<0\\> gnd!) vsource type=pwl wave=\[
 + 0    -0.3
++ 1500p -0.3
++ 1510p 0.9
++ 3000p 0.9
++ 3010p -0.3
 + \]
 V_data_1 (Data\\<1\\> gnd!) vsource type=pwl wave=\[
 + 0    0.9
