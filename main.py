@@ -45,7 +45,7 @@ vhh = vgg
 vread = "0.2"
 vbody = vss
 vref = "Vref"
-pulse_extend_100ps = 2
+pulse_extend_100ps = 3
 
 f = open("stimulus_base.scs", "w")
 f.write("Vdd    (vdd! gnd!)   vsource dc=" + vpp + "\n")
