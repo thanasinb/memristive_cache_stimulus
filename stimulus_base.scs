@@ -5,12 +5,6 @@ V_ref  (Vref gnd!)   vsource dc=Vref
 Vpp    (Vp gnd!)     vsource dc=0.9
 Vnn    (Vn gnd!)     vsource dc=-0.3
 Vhh    (Vh gnd!)     vsource dc=0.0
-V_RW   (RW gnd!)     vsource type=pwl wave=\[
-+ 0    -0.3
-+ \]
-V_RW_bar   (RW_bar gnd!)     vsource type=pwl wave=\[
-+ 0    0.9
-+ \]
-V_clk   (clk gnd!)     vsource type=pwl wave=\[
-+ 0    -0.3
-+ \]
+V_RW       (RW gnd!)         vsource dc=-0.3
+V_RW_bar   (RW_bar gnd!)     vsource dc=0.9
+V_clk      (clk gnd!)        vsource dc=-0.3

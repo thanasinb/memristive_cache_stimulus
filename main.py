@@ -58,9 +58,7 @@ f.write("Vnn    (Vn gnd!)     vsource dc=" + vnn + "\n")
 f.write("Vhh    (Vh gnd!)     vsource dc=" + vhh + "\n")
 
 if static_write:
-    f.write('V_RW   (RW gnd!)     vsource type=pwl wave=\\[\n')
-    f.write('+ 0    ' + vnn + '\n')
-    f.write('+ \\]\n')
+    f.write("V_RW       (RW gnd!)         vsource dc=" + vnn + "\n")
 else:
     step_1 = 2 + pulse_extend_100ps
     step_2 = 8 + (pulse_extend_100ps * 4)
@@ -77,9 +75,7 @@ else:
     f.write('+ \\]\n')
 
 if static_write:
-    f.write('V_RW_bar   (RW_bar gnd!)     vsource type=pwl wave=\\[\n')
-    f.write('+ 0    ' + vpp + '\n')
-    f.write('+ \\]\n')
+    f.write("V_RW_bar   (RW_bar gnd!)     vsource dc=" + vpp + "\n")
 else:
     step_1 = 2 + pulse_extend_100ps
     step_2 = 8 + (pulse_extend_100ps * 4)
@@ -96,9 +92,7 @@ else:
     f.write('+ \\]\n')
 
 if static_write:
-    f.write('V_clk   (clk gnd!)     vsource type=pwl wave=\\[\n')
-    f.write('+ 0    ' + vnn + '\n')
-    f.write('+ \\]\n')
+    f.write("V_clk      (clk gnd!)        vsource dc=" + vnn + "\n")
 else:
     step_1 = 34
     step_2 = 40
@@ -120,12 +114,10 @@ f = open("stimulus_wl.scs", "w")
 
 if static_write:
     for x in range(num_word):
-        f.write('V_wl_bar_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
         if x == start_WL:
-            f.write('+ 0    ' + vnn + '\n')
+            f.write('V_wl_bar_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource dc=' + vnn + '\n')
         else:
-            f.write('+ 0    ' + vpp + '\n')
-        f.write('+ \\]\n')
+            f.write('V_wl_bar_' + str(x) + ' (WordLine_bar\\\\<' + str(x) + '\\\\> gnd!) vsource dc=' + vpp + '\n')
 else:
   step_1 = 8 + (pulse_extend_100ps * 4)
   step_2 = 16 + (pulse_extend_100ps * 8)
@@ -150,12 +142,11 @@ else:
     f.write('+ \\]\n')
 
 if static_write:
-    f.write('V_wl_' + str(x) + ' (WordLine\\\\<' + str(x) + '\\\\> gnd!) vsource type=pwl wave=\\[\n')
-    if x == start_WL:
-        f.write('+ 0    ' + vpp + '\n')
-    else:
-        f.write('+ 0    ' + vnn + '\n')
-    f.write('+ \\]\n')
+    for x in range(num_word):
+        if x == start_WL:
+            f.write('V_wl_' + str(x) + ' (WordLine\\\\<' + str(x) + '\\\\> gnd!) vsource dc=' + vpp + '\n')
+        else:
+            f.write('V_wl_' + str(x) + ' (WordLine\\\\<' + str(x) + '\\\\> gnd!) vsource dc=' + vnn + '\n')
 else:
     step_1 = 8 + (pulse_extend_100ps * 4)
     step_2 = 16 + (pulse_extend_100ps * 8)
