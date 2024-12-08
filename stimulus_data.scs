@@ -190,3 +190,2883 @@ V_data_31 (Data\\<31\\> gnd!) vsource type=pwl wave=\[
 V_data_bar_31 (Data_bar\\<31\\> gnd!) vsource type=pwl wave=\[
 + 0    -0.3
 + \]
+V_data_32 (Data\\<32\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_32 (Data_bar\\<32\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_33 (Data\\<33\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_33 (Data_bar\\<33\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_34 (Data\\<34\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_34 (Data_bar\\<34\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_35 (Data\\<35\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_35 (Data_bar\\<35\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_36 (Data\\<36\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_36 (Data_bar\\<36\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_37 (Data\\<37\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_37 (Data_bar\\<37\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_38 (Data\\<38\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_38 (Data_bar\\<38\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_39 (Data\\<39\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_39 (Data_bar\\<39\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_40 (Data\\<40\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_40 (Data_bar\\<40\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_41 (Data\\<41\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_41 (Data_bar\\<41\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_42 (Data\\<42\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_42 (Data_bar\\<42\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_43 (Data\\<43\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_43 (Data_bar\\<43\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_44 (Data\\<44\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_44 (Data_bar\\<44\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_45 (Data\\<45\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_45 (Data_bar\\<45\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_46 (Data\\<46\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_46 (Data_bar\\<46\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_47 (Data\\<47\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_47 (Data_bar\\<47\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_48 (Data\\<48\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_48 (Data_bar\\<48\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_49 (Data\\<49\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_49 (Data_bar\\<49\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_50 (Data\\<50\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_50 (Data_bar\\<50\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_51 (Data\\<51\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_51 (Data_bar\\<51\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_52 (Data\\<52\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_52 (Data_bar\\<52\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_53 (Data\\<53\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_53 (Data_bar\\<53\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_54 (Data\\<54\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_54 (Data_bar\\<54\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_55 (Data\\<55\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_55 (Data_bar\\<55\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_56 (Data\\<56\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_56 (Data_bar\\<56\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_57 (Data\\<57\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_57 (Data_bar\\<57\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_58 (Data\\<58\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_58 (Data_bar\\<58\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_59 (Data\\<59\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_59 (Data_bar\\<59\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_60 (Data\\<60\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_60 (Data_bar\\<60\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_61 (Data\\<61\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_61 (Data_bar\\<61\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_62 (Data\\<62\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_62 (Data_bar\\<62\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_63 (Data\\<63\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_63 (Data_bar\\<63\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_64 (Data\\<64\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_64 (Data_bar\\<64\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_65 (Data\\<65\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_65 (Data_bar\\<65\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_66 (Data\\<66\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_66 (Data_bar\\<66\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_67 (Data\\<67\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_67 (Data_bar\\<67\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_68 (Data\\<68\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_68 (Data_bar\\<68\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_69 (Data\\<69\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_69 (Data_bar\\<69\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_70 (Data\\<70\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_70 (Data_bar\\<70\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_71 (Data\\<71\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_71 (Data_bar\\<71\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_72 (Data\\<72\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_72 (Data_bar\\<72\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_73 (Data\\<73\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_73 (Data_bar\\<73\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_74 (Data\\<74\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_74 (Data_bar\\<74\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_75 (Data\\<75\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_75 (Data_bar\\<75\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_76 (Data\\<76\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_76 (Data_bar\\<76\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_77 (Data\\<77\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_77 (Data_bar\\<77\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_78 (Data\\<78\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_78 (Data_bar\\<78\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_79 (Data\\<79\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_79 (Data_bar\\<79\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_80 (Data\\<80\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_80 (Data_bar\\<80\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_81 (Data\\<81\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_81 (Data_bar\\<81\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_82 (Data\\<82\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_82 (Data_bar\\<82\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_83 (Data\\<83\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_83 (Data_bar\\<83\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_84 (Data\\<84\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_84 (Data_bar\\<84\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_85 (Data\\<85\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_85 (Data_bar\\<85\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_86 (Data\\<86\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_86 (Data_bar\\<86\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_87 (Data\\<87\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_87 (Data_bar\\<87\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_88 (Data\\<88\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_88 (Data_bar\\<88\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_89 (Data\\<89\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_89 (Data_bar\\<89\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_90 (Data\\<90\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_90 (Data_bar\\<90\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_91 (Data\\<91\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_91 (Data_bar\\<91\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_92 (Data\\<92\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_92 (Data_bar\\<92\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_93 (Data\\<93\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_93 (Data_bar\\<93\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_94 (Data\\<94\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_94 (Data_bar\\<94\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_95 (Data\\<95\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_95 (Data_bar\\<95\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_96 (Data\\<96\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_96 (Data_bar\\<96\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_97 (Data\\<97\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_97 (Data_bar\\<97\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_98 (Data\\<98\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_98 (Data_bar\\<98\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_99 (Data\\<99\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_99 (Data_bar\\<99\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_100 (Data\\<100\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_100 (Data_bar\\<100\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_101 (Data\\<101\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_101 (Data_bar\\<101\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_102 (Data\\<102\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_102 (Data_bar\\<102\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_103 (Data\\<103\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_103 (Data_bar\\<103\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_104 (Data\\<104\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_104 (Data_bar\\<104\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_105 (Data\\<105\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_105 (Data_bar\\<105\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_106 (Data\\<106\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_106 (Data_bar\\<106\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_107 (Data\\<107\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_107 (Data_bar\\<107\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_108 (Data\\<108\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_108 (Data_bar\\<108\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_109 (Data\\<109\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_109 (Data_bar\\<109\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_110 (Data\\<110\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_110 (Data_bar\\<110\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_111 (Data\\<111\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_111 (Data_bar\\<111\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_112 (Data\\<112\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_112 (Data_bar\\<112\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_113 (Data\\<113\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_113 (Data_bar\\<113\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_114 (Data\\<114\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_114 (Data_bar\\<114\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_115 (Data\\<115\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_115 (Data_bar\\<115\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_116 (Data\\<116\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_116 (Data_bar\\<116\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_117 (Data\\<117\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_117 (Data_bar\\<117\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_118 (Data\\<118\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_118 (Data_bar\\<118\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_119 (Data\\<119\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_119 (Data_bar\\<119\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_120 (Data\\<120\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_120 (Data_bar\\<120\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_121 (Data\\<121\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_121 (Data_bar\\<121\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_122 (Data\\<122\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_122 (Data_bar\\<122\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_123 (Data\\<123\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_123 (Data_bar\\<123\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_124 (Data\\<124\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_124 (Data_bar\\<124\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_125 (Data\\<125\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_125 (Data_bar\\<125\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_126 (Data\\<126\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_126 (Data_bar\\<126\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_127 (Data\\<127\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_127 (Data_bar\\<127\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_128 (Data\\<128\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_128 (Data_bar\\<128\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_129 (Data\\<129\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_129 (Data_bar\\<129\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_130 (Data\\<130\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_130 (Data_bar\\<130\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_131 (Data\\<131\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_131 (Data_bar\\<131\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_132 (Data\\<132\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_132 (Data_bar\\<132\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_133 (Data\\<133\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_133 (Data_bar\\<133\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_134 (Data\\<134\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_134 (Data_bar\\<134\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_135 (Data\\<135\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_135 (Data_bar\\<135\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_136 (Data\\<136\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_136 (Data_bar\\<136\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_137 (Data\\<137\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_137 (Data_bar\\<137\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_138 (Data\\<138\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_138 (Data_bar\\<138\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_139 (Data\\<139\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_139 (Data_bar\\<139\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_140 (Data\\<140\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_140 (Data_bar\\<140\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_141 (Data\\<141\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_141 (Data_bar\\<141\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_142 (Data\\<142\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_142 (Data_bar\\<142\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_143 (Data\\<143\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_143 (Data_bar\\<143\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_144 (Data\\<144\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_144 (Data_bar\\<144\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_145 (Data\\<145\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_145 (Data_bar\\<145\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_146 (Data\\<146\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_146 (Data_bar\\<146\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_147 (Data\\<147\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_147 (Data_bar\\<147\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_148 (Data\\<148\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_148 (Data_bar\\<148\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_149 (Data\\<149\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_149 (Data_bar\\<149\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_150 (Data\\<150\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_150 (Data_bar\\<150\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_151 (Data\\<151\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_151 (Data_bar\\<151\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_152 (Data\\<152\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_152 (Data_bar\\<152\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_153 (Data\\<153\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_153 (Data_bar\\<153\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_154 (Data\\<154\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_154 (Data_bar\\<154\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_155 (Data\\<155\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_155 (Data_bar\\<155\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_156 (Data\\<156\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_156 (Data_bar\\<156\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_157 (Data\\<157\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_157 (Data_bar\\<157\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_158 (Data\\<158\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_158 (Data_bar\\<158\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_159 (Data\\<159\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_159 (Data_bar\\<159\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_160 (Data\\<160\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_160 (Data_bar\\<160\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_161 (Data\\<161\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_161 (Data_bar\\<161\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_162 (Data\\<162\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_162 (Data_bar\\<162\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_163 (Data\\<163\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_163 (Data_bar\\<163\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_164 (Data\\<164\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_164 (Data_bar\\<164\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_165 (Data\\<165\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_165 (Data_bar\\<165\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_166 (Data\\<166\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_166 (Data_bar\\<166\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_167 (Data\\<167\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_167 (Data_bar\\<167\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_168 (Data\\<168\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_168 (Data_bar\\<168\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_169 (Data\\<169\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_169 (Data_bar\\<169\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_170 (Data\\<170\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_170 (Data_bar\\<170\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_171 (Data\\<171\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_171 (Data_bar\\<171\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_172 (Data\\<172\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_172 (Data_bar\\<172\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_173 (Data\\<173\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_173 (Data_bar\\<173\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_174 (Data\\<174\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_174 (Data_bar\\<174\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_175 (Data\\<175\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_175 (Data_bar\\<175\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_176 (Data\\<176\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_176 (Data_bar\\<176\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_177 (Data\\<177\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_177 (Data_bar\\<177\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_178 (Data\\<178\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_178 (Data_bar\\<178\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_179 (Data\\<179\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_179 (Data_bar\\<179\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_180 (Data\\<180\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_180 (Data_bar\\<180\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_181 (Data\\<181\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_181 (Data_bar\\<181\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_182 (Data\\<182\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_182 (Data_bar\\<182\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_183 (Data\\<183\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_183 (Data_bar\\<183\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_184 (Data\\<184\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_184 (Data_bar\\<184\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_185 (Data\\<185\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_185 (Data_bar\\<185\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_186 (Data\\<186\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_186 (Data_bar\\<186\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_187 (Data\\<187\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_187 (Data_bar\\<187\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_188 (Data\\<188\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_188 (Data_bar\\<188\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_189 (Data\\<189\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_189 (Data_bar\\<189\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_190 (Data\\<190\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_190 (Data_bar\\<190\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_191 (Data\\<191\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_191 (Data_bar\\<191\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_192 (Data\\<192\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_192 (Data_bar\\<192\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_193 (Data\\<193\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_193 (Data_bar\\<193\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_194 (Data\\<194\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_194 (Data_bar\\<194\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_195 (Data\\<195\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_195 (Data_bar\\<195\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_196 (Data\\<196\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_196 (Data_bar\\<196\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_197 (Data\\<197\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_197 (Data_bar\\<197\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_198 (Data\\<198\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_198 (Data_bar\\<198\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_199 (Data\\<199\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_199 (Data_bar\\<199\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_200 (Data\\<200\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_200 (Data_bar\\<200\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_201 (Data\\<201\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_201 (Data_bar\\<201\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_202 (Data\\<202\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_202 (Data_bar\\<202\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_203 (Data\\<203\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_203 (Data_bar\\<203\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_204 (Data\\<204\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_204 (Data_bar\\<204\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_205 (Data\\<205\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_205 (Data_bar\\<205\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_206 (Data\\<206\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_206 (Data_bar\\<206\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_207 (Data\\<207\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_207 (Data_bar\\<207\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_208 (Data\\<208\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_208 (Data_bar\\<208\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_209 (Data\\<209\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_209 (Data_bar\\<209\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_210 (Data\\<210\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_210 (Data_bar\\<210\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_211 (Data\\<211\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_211 (Data_bar\\<211\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_212 (Data\\<212\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_212 (Data_bar\\<212\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_213 (Data\\<213\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_213 (Data_bar\\<213\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_214 (Data\\<214\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_214 (Data_bar\\<214\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_215 (Data\\<215\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_215 (Data_bar\\<215\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_216 (Data\\<216\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_216 (Data_bar\\<216\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_217 (Data\\<217\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_217 (Data_bar\\<217\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_218 (Data\\<218\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_218 (Data_bar\\<218\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_219 (Data\\<219\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_219 (Data_bar\\<219\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_220 (Data\\<220\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_220 (Data_bar\\<220\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_221 (Data\\<221\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_221 (Data_bar\\<221\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_222 (Data\\<222\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_222 (Data_bar\\<222\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_223 (Data\\<223\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_223 (Data_bar\\<223\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_224 (Data\\<224\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_224 (Data_bar\\<224\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_225 (Data\\<225\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_225 (Data_bar\\<225\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_226 (Data\\<226\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_226 (Data_bar\\<226\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_227 (Data\\<227\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_227 (Data_bar\\<227\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_228 (Data\\<228\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_228 (Data_bar\\<228\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_229 (Data\\<229\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_229 (Data_bar\\<229\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_230 (Data\\<230\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_230 (Data_bar\\<230\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_231 (Data\\<231\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_231 (Data_bar\\<231\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_232 (Data\\<232\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_232 (Data_bar\\<232\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_233 (Data\\<233\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_233 (Data_bar\\<233\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_234 (Data\\<234\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_234 (Data_bar\\<234\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_235 (Data\\<235\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_235 (Data_bar\\<235\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_236 (Data\\<236\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_236 (Data_bar\\<236\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_237 (Data\\<237\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_237 (Data_bar\\<237\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_238 (Data\\<238\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_238 (Data_bar\\<238\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_239 (Data\\<239\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_239 (Data_bar\\<239\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_240 (Data\\<240\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_240 (Data_bar\\<240\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_241 (Data\\<241\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_241 (Data_bar\\<241\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_242 (Data\\<242\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_242 (Data_bar\\<242\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_243 (Data\\<243\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_243 (Data_bar\\<243\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_244 (Data\\<244\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_244 (Data_bar\\<244\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_245 (Data\\<245\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_245 (Data_bar\\<245\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_246 (Data\\<246\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_246 (Data_bar\\<246\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_247 (Data\\<247\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_247 (Data_bar\\<247\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_248 (Data\\<248\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_248 (Data_bar\\<248\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_249 (Data\\<249\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_249 (Data_bar\\<249\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_250 (Data\\<250\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_250 (Data_bar\\<250\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_251 (Data\\<251\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_251 (Data_bar\\<251\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_252 (Data\\<252\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_252 (Data_bar\\<252\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_253 (Data\\<253\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_253 (Data_bar\\<253\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_254 (Data\\<254\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_254 (Data_bar\\<254\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_255 (Data\\<255\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_255 (Data_bar\\<255\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_256 (Data\\<256\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_256 (Data_bar\\<256\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_257 (Data\\<257\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_257 (Data_bar\\<257\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_258 (Data\\<258\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_258 (Data_bar\\<258\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_259 (Data\\<259\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_259 (Data_bar\\<259\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_260 (Data\\<260\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_260 (Data_bar\\<260\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_261 (Data\\<261\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_261 (Data_bar\\<261\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_262 (Data\\<262\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_262 (Data_bar\\<262\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_263 (Data\\<263\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_263 (Data_bar\\<263\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_264 (Data\\<264\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_264 (Data_bar\\<264\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_265 (Data\\<265\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_265 (Data_bar\\<265\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_266 (Data\\<266\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_266 (Data_bar\\<266\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_267 (Data\\<267\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_267 (Data_bar\\<267\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_268 (Data\\<268\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_268 (Data_bar\\<268\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_269 (Data\\<269\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_269 (Data_bar\\<269\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_270 (Data\\<270\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_270 (Data_bar\\<270\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_271 (Data\\<271\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_271 (Data_bar\\<271\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_272 (Data\\<272\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_272 (Data_bar\\<272\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_273 (Data\\<273\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_273 (Data_bar\\<273\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_274 (Data\\<274\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_274 (Data_bar\\<274\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_275 (Data\\<275\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_275 (Data_bar\\<275\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_276 (Data\\<276\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_276 (Data_bar\\<276\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_277 (Data\\<277\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_277 (Data_bar\\<277\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_278 (Data\\<278\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_278 (Data_bar\\<278\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_279 (Data\\<279\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_279 (Data_bar\\<279\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_280 (Data\\<280\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_280 (Data_bar\\<280\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_281 (Data\\<281\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_281 (Data_bar\\<281\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_282 (Data\\<282\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_282 (Data_bar\\<282\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_283 (Data\\<283\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_283 (Data_bar\\<283\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_284 (Data\\<284\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_284 (Data_bar\\<284\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_285 (Data\\<285\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_285 (Data_bar\\<285\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_286 (Data\\<286\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_286 (Data_bar\\<286\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_287 (Data\\<287\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_287 (Data_bar\\<287\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_288 (Data\\<288\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_288 (Data_bar\\<288\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_289 (Data\\<289\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_289 (Data_bar\\<289\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_290 (Data\\<290\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_290 (Data_bar\\<290\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_291 (Data\\<291\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_291 (Data_bar\\<291\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_292 (Data\\<292\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_292 (Data_bar\\<292\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_293 (Data\\<293\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_293 (Data_bar\\<293\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_294 (Data\\<294\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_294 (Data_bar\\<294\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_295 (Data\\<295\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_295 (Data_bar\\<295\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_296 (Data\\<296\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_296 (Data_bar\\<296\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_297 (Data\\<297\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_297 (Data_bar\\<297\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_298 (Data\\<298\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_298 (Data_bar\\<298\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_299 (Data\\<299\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_299 (Data_bar\\<299\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_300 (Data\\<300\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_300 (Data_bar\\<300\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_301 (Data\\<301\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_301 (Data_bar\\<301\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_302 (Data\\<302\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_302 (Data_bar\\<302\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_303 (Data\\<303\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_303 (Data_bar\\<303\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_304 (Data\\<304\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_304 (Data_bar\\<304\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_305 (Data\\<305\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_305 (Data_bar\\<305\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_306 (Data\\<306\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_306 (Data_bar\\<306\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_307 (Data\\<307\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_307 (Data_bar\\<307\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_308 (Data\\<308\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_308 (Data_bar\\<308\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_309 (Data\\<309\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_309 (Data_bar\\<309\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_310 (Data\\<310\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_310 (Data_bar\\<310\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_311 (Data\\<311\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_311 (Data_bar\\<311\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_312 (Data\\<312\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_312 (Data_bar\\<312\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_313 (Data\\<313\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_313 (Data_bar\\<313\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_314 (Data\\<314\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_314 (Data_bar\\<314\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_315 (Data\\<315\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_315 (Data_bar\\<315\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_316 (Data\\<316\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_316 (Data_bar\\<316\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_317 (Data\\<317\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_317 (Data_bar\\<317\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_318 (Data\\<318\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_318 (Data_bar\\<318\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_319 (Data\\<319\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_319 (Data_bar\\<319\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_320 (Data\\<320\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_320 (Data_bar\\<320\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_321 (Data\\<321\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_321 (Data_bar\\<321\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_322 (Data\\<322\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_322 (Data_bar\\<322\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_323 (Data\\<323\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_323 (Data_bar\\<323\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_324 (Data\\<324\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_324 (Data_bar\\<324\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_325 (Data\\<325\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_325 (Data_bar\\<325\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_326 (Data\\<326\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_326 (Data_bar\\<326\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_327 (Data\\<327\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_327 (Data_bar\\<327\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_328 (Data\\<328\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_328 (Data_bar\\<328\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_329 (Data\\<329\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_329 (Data_bar\\<329\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_330 (Data\\<330\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_330 (Data_bar\\<330\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_331 (Data\\<331\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_331 (Data_bar\\<331\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_332 (Data\\<332\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_332 (Data_bar\\<332\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_333 (Data\\<333\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_333 (Data_bar\\<333\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_334 (Data\\<334\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_334 (Data_bar\\<334\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_335 (Data\\<335\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_335 (Data_bar\\<335\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_336 (Data\\<336\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_336 (Data_bar\\<336\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_337 (Data\\<337\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_337 (Data_bar\\<337\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_338 (Data\\<338\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_338 (Data_bar\\<338\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_339 (Data\\<339\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_339 (Data_bar\\<339\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_340 (Data\\<340\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_340 (Data_bar\\<340\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_341 (Data\\<341\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_341 (Data_bar\\<341\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_342 (Data\\<342\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_342 (Data_bar\\<342\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_343 (Data\\<343\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_343 (Data_bar\\<343\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_344 (Data\\<344\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_344 (Data_bar\\<344\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_345 (Data\\<345\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_345 (Data_bar\\<345\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_346 (Data\\<346\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_346 (Data_bar\\<346\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_347 (Data\\<347\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_347 (Data_bar\\<347\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_348 (Data\\<348\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_348 (Data_bar\\<348\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_349 (Data\\<349\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_349 (Data_bar\\<349\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_350 (Data\\<350\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_350 (Data_bar\\<350\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_351 (Data\\<351\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_351 (Data_bar\\<351\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_352 (Data\\<352\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_352 (Data_bar\\<352\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_353 (Data\\<353\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_353 (Data_bar\\<353\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_354 (Data\\<354\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_354 (Data_bar\\<354\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_355 (Data\\<355\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_355 (Data_bar\\<355\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_356 (Data\\<356\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_356 (Data_bar\\<356\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_357 (Data\\<357\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_357 (Data_bar\\<357\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_358 (Data\\<358\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_358 (Data_bar\\<358\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_359 (Data\\<359\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_359 (Data_bar\\<359\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_360 (Data\\<360\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_360 (Data_bar\\<360\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_361 (Data\\<361\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_361 (Data_bar\\<361\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_362 (Data\\<362\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_362 (Data_bar\\<362\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_363 (Data\\<363\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_363 (Data_bar\\<363\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_364 (Data\\<364\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_364 (Data_bar\\<364\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_365 (Data\\<365\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_365 (Data_bar\\<365\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_366 (Data\\<366\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_366 (Data_bar\\<366\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_367 (Data\\<367\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_367 (Data_bar\\<367\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_368 (Data\\<368\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_368 (Data_bar\\<368\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_369 (Data\\<369\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_369 (Data_bar\\<369\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_370 (Data\\<370\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_370 (Data_bar\\<370\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_371 (Data\\<371\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_371 (Data_bar\\<371\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_372 (Data\\<372\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_372 (Data_bar\\<372\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_373 (Data\\<373\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_373 (Data_bar\\<373\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_374 (Data\\<374\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_374 (Data_bar\\<374\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_375 (Data\\<375\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_375 (Data_bar\\<375\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_376 (Data\\<376\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_376 (Data_bar\\<376\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_377 (Data\\<377\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_377 (Data_bar\\<377\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_378 (Data\\<378\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_378 (Data_bar\\<378\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_379 (Data\\<379\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_379 (Data_bar\\<379\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_380 (Data\\<380\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_380 (Data_bar\\<380\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_381 (Data\\<381\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_381 (Data_bar\\<381\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_382 (Data\\<382\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_382 (Data_bar\\<382\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_383 (Data\\<383\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_383 (Data_bar\\<383\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_384 (Data\\<384\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_384 (Data_bar\\<384\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_385 (Data\\<385\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_385 (Data_bar\\<385\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_386 (Data\\<386\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_386 (Data_bar\\<386\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_387 (Data\\<387\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_387 (Data_bar\\<387\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_388 (Data\\<388\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_388 (Data_bar\\<388\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_389 (Data\\<389\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_389 (Data_bar\\<389\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_390 (Data\\<390\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_390 (Data_bar\\<390\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_391 (Data\\<391\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_391 (Data_bar\\<391\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_392 (Data\\<392\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_392 (Data_bar\\<392\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_393 (Data\\<393\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_393 (Data_bar\\<393\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_394 (Data\\<394\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_394 (Data_bar\\<394\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_395 (Data\\<395\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_395 (Data_bar\\<395\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_396 (Data\\<396\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_396 (Data_bar\\<396\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_397 (Data\\<397\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_397 (Data_bar\\<397\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_398 (Data\\<398\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_398 (Data_bar\\<398\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_399 (Data\\<399\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_399 (Data_bar\\<399\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_400 (Data\\<400\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_400 (Data_bar\\<400\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_401 (Data\\<401\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_401 (Data_bar\\<401\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_402 (Data\\<402\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_402 (Data_bar\\<402\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_403 (Data\\<403\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_403 (Data_bar\\<403\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_404 (Data\\<404\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_404 (Data_bar\\<404\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_405 (Data\\<405\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_405 (Data_bar\\<405\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_406 (Data\\<406\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_406 (Data_bar\\<406\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_407 (Data\\<407\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_407 (Data_bar\\<407\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_408 (Data\\<408\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_408 (Data_bar\\<408\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_409 (Data\\<409\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_409 (Data_bar\\<409\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_410 (Data\\<410\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_410 (Data_bar\\<410\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_411 (Data\\<411\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_411 (Data_bar\\<411\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_412 (Data\\<412\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_412 (Data_bar\\<412\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_413 (Data\\<413\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_413 (Data_bar\\<413\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_414 (Data\\<414\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_414 (Data_bar\\<414\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_415 (Data\\<415\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_415 (Data_bar\\<415\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_416 (Data\\<416\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_416 (Data_bar\\<416\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_417 (Data\\<417\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_417 (Data_bar\\<417\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_418 (Data\\<418\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_418 (Data_bar\\<418\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_419 (Data\\<419\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_419 (Data_bar\\<419\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_420 (Data\\<420\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_420 (Data_bar\\<420\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_421 (Data\\<421\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_421 (Data_bar\\<421\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_422 (Data\\<422\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_422 (Data_bar\\<422\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_423 (Data\\<423\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_423 (Data_bar\\<423\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_424 (Data\\<424\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_424 (Data_bar\\<424\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_425 (Data\\<425\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_425 (Data_bar\\<425\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_426 (Data\\<426\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_426 (Data_bar\\<426\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_427 (Data\\<427\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_427 (Data_bar\\<427\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_428 (Data\\<428\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_428 (Data_bar\\<428\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_429 (Data\\<429\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_429 (Data_bar\\<429\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_430 (Data\\<430\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_430 (Data_bar\\<430\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_431 (Data\\<431\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_431 (Data_bar\\<431\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_432 (Data\\<432\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_432 (Data_bar\\<432\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_433 (Data\\<433\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_433 (Data_bar\\<433\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_434 (Data\\<434\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_434 (Data_bar\\<434\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_435 (Data\\<435\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_435 (Data_bar\\<435\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_436 (Data\\<436\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_436 (Data_bar\\<436\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_437 (Data\\<437\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_437 (Data_bar\\<437\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_438 (Data\\<438\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_438 (Data_bar\\<438\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_439 (Data\\<439\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_439 (Data_bar\\<439\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_440 (Data\\<440\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_440 (Data_bar\\<440\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_441 (Data\\<441\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_441 (Data_bar\\<441\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_442 (Data\\<442\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_442 (Data_bar\\<442\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_443 (Data\\<443\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_443 (Data_bar\\<443\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_444 (Data\\<444\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_444 (Data_bar\\<444\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_445 (Data\\<445\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_445 (Data_bar\\<445\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_446 (Data\\<446\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_446 (Data_bar\\<446\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_447 (Data\\<447\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_447 (Data_bar\\<447\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_448 (Data\\<448\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_448 (Data_bar\\<448\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_449 (Data\\<449\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_449 (Data_bar\\<449\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_450 (Data\\<450\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_450 (Data_bar\\<450\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_451 (Data\\<451\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_451 (Data_bar\\<451\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_452 (Data\\<452\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_452 (Data_bar\\<452\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_453 (Data\\<453\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_453 (Data_bar\\<453\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_454 (Data\\<454\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_454 (Data_bar\\<454\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_455 (Data\\<455\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_455 (Data_bar\\<455\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_456 (Data\\<456\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_456 (Data_bar\\<456\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_457 (Data\\<457\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_457 (Data_bar\\<457\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_458 (Data\\<458\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_458 (Data_bar\\<458\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_459 (Data\\<459\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_459 (Data_bar\\<459\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_460 (Data\\<460\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_460 (Data_bar\\<460\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_461 (Data\\<461\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_461 (Data_bar\\<461\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_462 (Data\\<462\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_462 (Data_bar\\<462\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_463 (Data\\<463\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_463 (Data_bar\\<463\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_464 (Data\\<464\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_464 (Data_bar\\<464\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_465 (Data\\<465\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_465 (Data_bar\\<465\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_466 (Data\\<466\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_466 (Data_bar\\<466\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_467 (Data\\<467\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_467 (Data_bar\\<467\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_468 (Data\\<468\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_468 (Data_bar\\<468\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_469 (Data\\<469\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_469 (Data_bar\\<469\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_470 (Data\\<470\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_470 (Data_bar\\<470\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_471 (Data\\<471\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_471 (Data_bar\\<471\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_472 (Data\\<472\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_472 (Data_bar\\<472\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_473 (Data\\<473\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_473 (Data_bar\\<473\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_474 (Data\\<474\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_474 (Data_bar\\<474\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_475 (Data\\<475\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_475 (Data_bar\\<475\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_476 (Data\\<476\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_476 (Data_bar\\<476\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_477 (Data\\<477\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_477 (Data_bar\\<477\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_478 (Data\\<478\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_478 (Data_bar\\<478\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_479 (Data\\<479\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_479 (Data_bar\\<479\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_480 (Data\\<480\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_480 (Data_bar\\<480\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_481 (Data\\<481\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_481 (Data_bar\\<481\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_482 (Data\\<482\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_482 (Data_bar\\<482\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_483 (Data\\<483\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_483 (Data_bar\\<483\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_484 (Data\\<484\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_484 (Data_bar\\<484\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_485 (Data\\<485\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_485 (Data_bar\\<485\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_486 (Data\\<486\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_486 (Data_bar\\<486\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_487 (Data\\<487\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_487 (Data_bar\\<487\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_488 (Data\\<488\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_488 (Data_bar\\<488\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_489 (Data\\<489\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_489 (Data_bar\\<489\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_490 (Data\\<490\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_490 (Data_bar\\<490\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_491 (Data\\<491\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_491 (Data_bar\\<491\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_492 (Data\\<492\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_492 (Data_bar\\<492\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_493 (Data\\<493\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_493 (Data_bar\\<493\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_494 (Data\\<494\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_494 (Data_bar\\<494\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_495 (Data\\<495\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_495 (Data_bar\\<495\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_496 (Data\\<496\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_496 (Data_bar\\<496\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_497 (Data\\<497\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_497 (Data_bar\\<497\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_498 (Data\\<498\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_498 (Data_bar\\<498\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_499 (Data\\<499\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_499 (Data_bar\\<499\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_500 (Data\\<500\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_500 (Data_bar\\<500\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_501 (Data\\<501\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_501 (Data_bar\\<501\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_502 (Data\\<502\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_502 (Data_bar\\<502\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_503 (Data\\<503\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_503 (Data_bar\\<503\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_504 (Data\\<504\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_504 (Data_bar\\<504\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_505 (Data\\<505\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_505 (Data_bar\\<505\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_506 (Data\\<506\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_506 (Data_bar\\<506\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_507 (Data\\<507\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_507 (Data_bar\\<507\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_508 (Data\\<508\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_508 (Data_bar\\<508\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_509 (Data\\<509\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_509 (Data_bar\\<509\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_510 (Data\\<510\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_510 (Data_bar\\<510\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]
+V_data_511 (Data\\<511\\> gnd!) vsource type=pwl wave=\[
++ 0    0.9
++ \]
+V_data_bar_511 (Data_bar\\<511\\> gnd!) vsource type=pwl wave=\[
++ 0    -0.3
++ \]

@@ -1,19 +1,6 @@
-data = [
-    1, 1, 1, 1, 1, 1, 1, 1,
-    1, 1, 1, 1, 1, 1, 1, 1,
-    1, 1, 1, 1, 1, 1, 1, 1,
-    1, 1, 1, 1, 1, 1, 1, 1
-]
+import numpy as np
 
-# 0, 0, 0, 0, 0, 0, 0, 0,
-# 0, 0, 0, 0, 0, 0, 0, 0,
-# 0, 0, 0, 0, 0, 0, 0, 0,
-# 0, 0, 0, 0, 0, 0, 0, 0
-
-# 1, 1, 1, 1, 1, 1, 1, 1,
-# 1, 1, 1, 1, 1, 1, 1, 1,
-# 1, 1, 1, 1, 1, 1, 1, 1,
-# 1, 1, 1, 1, 1, 1, 1, 1
+data = np.ones(512, dtype=int)
 
 tag_data = [
     1, 1, 1, 1, 1, 1, 1, 1,
@@ -29,13 +16,13 @@ tag_data = [
 # 1, 1, 1, 1, 1, 1, 1, 1,
 # 1, 1, 1, 1
 
-# num_bit = 32
+# num_bit = 512
 select_word_1 = 0
 select_word_2 = 1
-num_word = 1024
+num_word = 64
 read = True
-data_mode_switching = False
-static_write = False
+data_mode_switching = False # switch data signal
+static_write = False # keep RW signal static
 start_WL = 0
 vdd = "0.9"
 vss = "-0.3"
