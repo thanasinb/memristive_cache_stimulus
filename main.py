@@ -81,8 +81,8 @@ else:
 if static_write:
     f.write("V_clk      (clk gnd!)        vsource dc=" + vnn + "\n")
 else:
-    step_1 = 34
-    step_2 = 40
+    step_1 = 14
+    step_2 = 20
     step_step = 20
     f.write('V_clk   (clk gnd!)     vsource type=pwl wave=\\[\n')
     f.write('+ 0    ' + vnn + '\n')
