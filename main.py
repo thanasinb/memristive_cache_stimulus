@@ -1,6 +1,6 @@
 import numpy as np
 
-data = np.ones(512, dtype=int)
+data = np.zeros(512, dtype=int)
 
 tag_data = [
     1, 1, 1, 1, 1, 1, 1, 1,
