@@ -2,11 +2,7 @@ import numpy as np
 
 data = np.zeros(512, dtype=int)
 
-tag_data = [
-    1, 1, 1, 1, 1, 1, 1, 1,
-    1, 1, 1, 1, 1, 1, 1, 1,
-    1, 1, 1, 1
-]
+tag_data = np.zeros(20, dtype=int)
 
 # 0, 0, 0, 0, 0, 0, 0, 0,
 # 0, 0, 0, 0, 0, 0, 0, 0,
