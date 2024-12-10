@@ -18,7 +18,7 @@ select_word_2 = 1
 num_word = 64
 read = True
 data_mode_switching = False # switch data signal
-static_write = False # keep RW signal static
+static_write = True # keep RW signal static
 start_WL = 0
 vdd = "0.9"
 vss = "-0.3"
@@ -41,7 +41,7 @@ f.write("Vnn    (Vn gnd!)     vsource dc=" + vnn + "\n")
 f.write("Vhh    (Vh gnd!)     vsource dc=" + vhh + "\n")
 
 if static_write:
-    f.write("V_RW       (RW gnd!)         vsource dc=" + vnn + "\n")
+    f.write("V_RW       (RW gnd!)         vsource dc=" + vpp + "\n")
 else:
     step_1 = 2 + pulse_extend_100ps
     step_2 = 8 + (pulse_extend_100ps * 4)
@@ -58,7 +58,7 @@ else:
     f.write('+ \\]\n')
 
 if static_write:
-    f.write("V_RW_bar   (RW_bar gnd!)     vsource dc=" + vpp + "\n")
+    f.write("V_RW_bar   (RW_bar gnd!)     vsource dc=" + vnn + "\n")
 else:
     step_1 = 2 + pulse_extend_100ps
     step_2 = 8 + (pulse_extend_100ps * 4)
