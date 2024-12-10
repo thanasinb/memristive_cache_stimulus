@@ -1,25 +1,8 @@
-data = [
-  0, 0, 0, 0, 0, 0, 0, 0,
-  0, 0, 0, 0, 0, 0, 0, 0,
-  0, 0, 0, 0, 0, 0, 0, 0,
-  0, 0, 0, 0, 0, 0, 0, 0
-]
+import numpy as np
 
-# 0, 0, 0, 0, 0, 0, 0, 0,
-# 0, 0, 0, 0, 0, 0, 0, 0,
-# 0, 0, 0, 0, 0, 0, 0, 0,
-# 0, 0, 0, 0, 0, 0, 0, 0
+data = np.zeros(512, dtype=int)
 
-# 1, 1, 1, 1, 1, 1, 1, 1,
-# 1, 1, 1, 1, 1, 1, 1, 1,
-# 1, 1, 1, 1, 1, 1, 1, 1,
-# 1, 1, 1, 1, 1, 1, 1, 1
-
-tag_data = [
-    0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0
-]
+tag_data = np.zeros(20, dtype=int)
 
 # 0, 0, 0, 0, 0, 0, 0, 0,
 # 0, 0, 0, 0, 0, 0, 0, 0,
@@ -29,10 +12,10 @@ tag_data = [
 # 1, 1, 1, 1, 1, 1, 1, 1,
 # 1, 1, 1, 1
 
-# num_bit = 32
+# num_bit = 512
 select_word_1 = 0
 select_word_2 = 1
-num_word = 1024
+num_word = 64
 read = True
 data_mode_switching = False
 static_write = True
@@ -58,7 +41,7 @@ f.write("Vnn    (Vn gnd!)     vsource dc=" + vnn + "\n")
 f.write("Vhh    (Vh gnd!)     vsource dc=" + vhh + "\n")
 
 if static_write:
-    f.write("V_RW       (RW gnd!)         vsource dc=" + vnn + "\n")
+    f.write("V_RW       (RW gnd!)         vsource dc=" + vpp + "\n")
 else:
     step_1 = 2 + pulse_extend_100ps
     step_2 = 8 + (pulse_extend_100ps * 4)
@@ -75,7 +58,7 @@ else:
     f.write('+ \\]\n')
 
 if static_write:
-    f.write("V_RW_bar   (RW_bar gnd!)     vsource dc=" + vpp + "\n")
+    f.write("V_RW_bar   (RW_bar gnd!)     vsource dc=" + vnn + "\n")
 else:
     step_1 = 2 + pulse_extend_100ps
     step_2 = 8 + (pulse_extend_100ps * 4)
